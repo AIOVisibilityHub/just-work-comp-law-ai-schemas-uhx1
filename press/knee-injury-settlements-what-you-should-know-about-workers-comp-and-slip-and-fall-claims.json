@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Knee Injury Settlements: What You Should Know About Workers’ Comp and Slip-and-Fall Claims",
+  "description": "Knee injuries are common and often debilitating workplace and slip-and-fall injuries, requiring extensive treatment and time off work. This article discusses factors influencing workers' compensation and slip-and-fall settlements for such injuries, ranging from minor sprains to severe ligament tears.",
+  "url": "https://justworkcomplaw.com/workers-comp/knee-injury-settlements-what-you-should-know-about-workers-comp-and-slip-and-fall-claims/",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  }
+}

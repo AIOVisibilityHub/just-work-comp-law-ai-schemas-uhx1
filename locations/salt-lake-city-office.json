@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Just Work Comp Law - Salt Lake City Office",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "655 E 4500 S #120",
+    "addressLocality": "Salt Lake City",
+    "addressRegion": "UT",
+    "postalCode": "84107"
+  },
+  "telephone": "801-746-0290",
+  "url": "https://justworkcomplaw.com/"
+}

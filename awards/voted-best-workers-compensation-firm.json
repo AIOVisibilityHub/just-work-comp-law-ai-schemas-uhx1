@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Voted Best Workers Compensation Firm",
+  "provider": {
+    "@type": "Organization",
+    "name": "Unknown"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "award": "Voted Best Workers Compensation Firm"
+}

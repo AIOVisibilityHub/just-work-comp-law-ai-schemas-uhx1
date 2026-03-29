@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Lindsey C. Receives Full Compensation for Medical Bills, Lost Wages & More",
+  "articleBody": "Lindsey, employed as a counsel, received full compensation for her medical bills, lost wages and more.\n\nOutcome: Lindsey C. received full compensation for medical bills, lost wages, and more.",
+  "author": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "datePublished": "June 24, 2020",
+  "about": {
+    "@type": "Service",
+    "name": "Workers' Compensation"
+  },
+  "genre": "Case Study"
+}

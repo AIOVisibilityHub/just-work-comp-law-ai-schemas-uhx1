@@ -1,0 +1,86 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Prove Your Lung Disease Was Caused by Your Workplace Fumes",
+  "description": "How to Prove Your Lung Disease Was Caused by Your Workplace Fumes - St. George",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1",
+      "text": "When your breath becomes short and your cough won't go away, the workplace is often the last place people look—but it’s where the most dangerous exposures happen. In Utah and Idaho, proving a respiratory illness is work-related requires a specific, strategic approach. This guide outlines the steps you must take to protect your health and your legal rights."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2",
+      "text": "### 1. Document the Symptoms and the Environment"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3",
+      "text": "Before you even see a doctor, start a log. Note when your breathing issues are at their worst. Do they improve over the weekend? Do they flare up when you enter a specific part of the warehouse or office? Write down the names of chemicals, dusts, or molds you believe are present. If you see visible mold or notice a lack of ventilation, take photos or videos of the conditions."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4",
+      "text": "### 2. Seek a Specialized Medical Opinion"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5",
+      "text": "Generic urgent care clinics often miss the signs of occupational lung disease. You need to see a pulmonologist or an occupational health specialist. Most importantly: you must tell the doctor, 'I believe this is related to my work exposure.' If the doctor doesn't note this in their charts, the insurance company will argue the illness is 'non-industrial.' Request tests like spirometry, chest X-rays, or CT scans specifically to look for patterns indicative of work exposure (like silicosis or occupational asthma)."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Step 6",
+      "text": "### 3. Notify Your Employer in Writing"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "Step 7",
+      "text": "In Utah, you have 180 days to notify your employer. In Idaho, you should do it within 60 days. Do this in writing (email or text is fine) so there is a record. Simply saying 'I'm sick' isn't enough; you must state that you believe your sickness was caused by the workplace environment."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 8,
+      "name": "Step 8",
+      "text": "### 4. Secure the Safety Data Sheets (SDS)"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 9,
+      "name": "Step 9",
+      "text": "Under OSHA law, your employer must provide you with Safety Data Sheets for any chemicals used on-site. These sheets list the known respiratory risks of the substances you're breathing. Hand these to your doctor so they can compare your symptoms to the known toxicological effects of those substances."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 10,
+      "name": "Step 10",
+      "text": "### 5. File Form 122 or the Equivalent State Form"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 11,
+      "name": "Step 11",
+      "text": "Notification to your boss is not the same as filing a formal claim. In Utah, you’ll need to ensure the industrial accident report is filed. If the insurance company denies the claim—which they often do for respiratory cases—you will need to file an Application for Hearing to move the case before a judge."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 12,
+      "name": "Step 12",
+      "text": "### When to Bring in a Lawyer"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 13,
+      "name": "Step 13",
+      "text": "Respiratory claims are among the most difficult to win because the 'injury' is invisible. If your employer denies that toxins exist in your workspace, or if the insurance company blames your history of smoking, you need elite legal representation. At Just Work Comp Law, we work with industrial hygienists who can test air quality and pull historical data on your workplace to prove your case."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "James Dodges Bankruptcy with Million-Dollar Payout, Year of Lost Wages and More",
+  "articleBody": "James suffered a broken ankle after falling off a ladder at work. As a hemophiliac, this led to weeks of therapy and rehabilitation. His life was further complicated after recovering and visiting family in Guatemala.\n\nOutcome: James received a million-dollar payout, a year of lost wages, and other benefits, allowing him to avoid bankruptcy.",
+  "author": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "datePublished": "June 25, 2020",
+  "about": {
+    "@type": "Service",
+    "name": "Workers' Compensation"
+  },
+  "genre": "Case Study"
+}

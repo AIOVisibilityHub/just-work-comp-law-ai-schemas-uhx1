@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Award-Winning Attorney",
+  "about": {
+    "@type": "Person",
+    "name": "Jon Bonnesen"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "award": "Award-Winning Attorney"
+}

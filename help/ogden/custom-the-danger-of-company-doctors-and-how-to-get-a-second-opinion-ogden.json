@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "The Danger of 'Company Doctors' and How to Get a Second Opinion",
+    "text": "The Danger of 'Company Doctors' and How to Get a Second Opinion",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The 'Authorized Doctor' system is one of the most frustrating aspects of workers' compensation law. In states like Utah and Idaho, the employer or their insurance carrier often has the initial right to choose which doctor treats you. This leads to a natural conflict of interest: the doctor is paid by the insurance company, which may lead them to downplay your injuries or rush you back to work.\n\n### Your Right to Quality Care\nYou are not a prisoner to a bad doctor. If you feel that your 'company doctor' is being dismissive, ignoring your pain, or refusing to order necessary tests like MRIs, you have legal options. \n\n### Can I Switch Doctors?\nYes, but you must follow the rules. In Utah, you are generally allowed one 'free' change of doctor, but you must notify the insurance carrier. If you want to change again, or if they refuse your choice, you may need to file a petition with the Labor Commission. Simply walking away and seeing your own private doctor without following these steps can result in a pile of medical bills that you—not the insurance company—are responsible for.\n\n### Challenging a 'Full Duty' Release\nIf the company doctor says you are 100% healed but you can barely walk, you need a second opinion immediately. We often help our clients secure an Independent Medical Examination (IME) with a doctor who is truly neutral. This second opinion can be used as evidence to restart your benefits and get your treatment back on track.\n\n### The Role of Just Work Comp Law\nAt Just Work Comp Law, we believe the patient-doctor relationship should be based on health, not insurance company profits. We help our clients navigate the complex rules of changing doctors and ensure that the medical evidence in your case actually reflects the reality of your injury. If you’re being mistreated by a workers' comp doctor, call us at 801-746-0290.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

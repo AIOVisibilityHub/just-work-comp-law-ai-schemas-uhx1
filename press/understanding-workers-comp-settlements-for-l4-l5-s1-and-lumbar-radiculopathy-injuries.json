@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Understanding Workers’ Comp Settlements for L4-L5-S1 and Lumbar Radiculopathy Injuries",
+  "description": "Article discusses workers' comp settlements for L4-L5-S1 and Lumbar Radiculopathy Injuries.",
+  "url": "https://justworkcomplaw.com/workers-comp/understanding-workers-comp-settlements-for-l4-l5-s1-and-lumbar-radiculopathy-injuries/",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  }
+}

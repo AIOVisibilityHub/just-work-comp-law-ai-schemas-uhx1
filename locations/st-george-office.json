@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Just Work Comp Law - St. George Office",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "St George, UT",
+    "addressLocality": "St. George",
+    "addressRegion": "UT"
+  },
+  "telephone": "801-746-0290",
+  "url": "https://justworkcomplaw.com/"
+}

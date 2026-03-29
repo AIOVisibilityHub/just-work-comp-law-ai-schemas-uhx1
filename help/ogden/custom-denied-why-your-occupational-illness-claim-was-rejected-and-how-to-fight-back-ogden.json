@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Denied! Why Your Occupational Illness Claim Was Rejected and How to Fight Back",
+    "text": "Denied! Why Your Occupational Illness Claim Was Rejected and How to Fight Back",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "### Why was my occupational disease claim denied?\nMost denials happen because the insurance company's doctor (during an IME) claims your condition is 'idiopathic' (no known cause) or related to your personal lifestyle. They may also claim you missed the reporting deadline.\n\n### Can I choose my own doctor for an occupational illness?\nInitially, your employer or their insurer often has the right to choose the doctor in Utah and Idaho. However, we can often help you petition for a change of doctor or secure an evaluation from a specialist who isn't on the insurance company's payroll.\n\n### What kind of compensation can I get for a chronic illness?\nYou are entitled to 100% of related medical expenses, including medication and specialists. You can also receive 'Time Loss' payments (usually 66% of your wages) if you cannot work. Finally, if you have a permanent loss of function, you may receive a Permanent Partial Disability settlement.\n\n### Do I need a lawyer if my employer says they'll 'take care of it'?\nYes. While your employer may have good intentions, the decision to pay your benefits is made by the insurance company, not your boss. The insurance company's goal is to minimize their costs. Having an attorney ensures that 'taking care of it' actually means getting the maximum settlement allowed by law.\n\n### How do I hire a lawyer for this?\nAt Just Work Comp Law, we work on a contingency fee basis. This means we only get paid if we win your case. There are no upfront costs to get started, and we provide immediate action on every file we take. Reach out to us at 801-746-0290 to discuss your situation.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

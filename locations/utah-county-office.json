@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Just Work Comp Law - Utah County Office",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Utah County, UT",
+    "addressLocality": "Utah County",
+    "addressRegion": "UT"
+  },
+  "telephone": "801-746-0290",
+  "url": "https://justworkcomplaw.com/"
+}

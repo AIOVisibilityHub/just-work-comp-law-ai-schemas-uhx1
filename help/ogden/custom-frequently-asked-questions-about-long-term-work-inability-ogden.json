@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Frequently Asked Questions About Long-Term Work Inability",
+    "text": "Frequently Asked Questions About Long-Term Work Inability",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "### Will I be fired if I can't return to work?\nIn Utah and Idaho, you are protected from being fired for *filing* a claim. However, an employer is generally not required to keep a position open forever if you cannot perform the job duties. If your injury is permanent, you may eventually be terminated, but you will still be entitled to workers' comp benefits and potentially a large settlement for permanent disability.\n\n### What if I don't like the light-duty job they gave me?\nThe job doesn't have to be enjoyable; it only has to be within your physical restrictions. If the job is 'productive'—meaning it's a real task for the company—you generally have to do it. If the job is clearly meant to harass you (like sitting in a dark room), a lawyer can help you challenge it as a 'sham job.'\n\n### How long do my checks continue if I'm off work?\nTemporary Total Disability (TTD) checks continue until one of three things happens: 1) You are cleared to return to full duty; 2) You return to a light-duty job; or 3) You reach Maximum Medical Improvement (MMI). Once you reach MMI, your TTD stops, and you begin receiving Permanent Partial Disability (PPD) payments if you have a lingering impairment.\n\n### Can I choose my own doctor if I don't trust the insurance doctor?\nIn Utah, you generally have a 'one-time' right to change your doctor, provided you follow the proper notification procedures with the insurance carrier. In Idaho, the rules are slightly different. Choosing a doctor who understands the complexities of 'Return to Work' issues is vital to your case outcome.\n\n### What is a 'Loss of Earning Capacity' settlement?\nThis is a specific type of payout for people who can no longer return to their high-paying careers. It compensates you for the fact that you will likely earn less for the rest of your life because of your injury. This is common for tradespeople, nurses, and manual laborers whose careers are physically demanding.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

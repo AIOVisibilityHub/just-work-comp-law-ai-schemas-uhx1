@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Just Work Comp Law - Idaho Office",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Idaho",
+    "addressLocality": "Unknown",
+    "addressRegion": "ID"
+  },
+  "telephone": "801-746-0290",
+  "url": "https://justworkcomplaw.com/"
+}

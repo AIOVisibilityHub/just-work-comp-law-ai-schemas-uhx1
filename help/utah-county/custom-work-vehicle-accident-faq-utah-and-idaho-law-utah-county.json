@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Work Vehicle Accident FAQ: Utah and Idaho Law",
+    "text": "Work Vehicle Accident FAQ: Utah and Idaho Law",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "\n    <h2>Frequently Asked Questions: Work Vehicle Accidents</h2>\n    <div itemscope itemtype=\"https://schema.org/Question\">\n        <h3 itemprop=\"name\">Am I covered if I was driving my own car for a work errand?</h3>\n        <div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n            <p itemprop=\"text\">Yes. If you were performing a task for your employer, such as picking up lunch for a meeting or dropping off mail, you are covered by workers' compensation regardless of car ownership. The 'course of employment' is what determines eligibility, not the vehicle title.</p>\n        </div>\n    </div>\n\n    <div itemscope itemtype=\"https://schema.org/Question\">\n        <h3 itemprop=\"name\">Can I get a settlement for pain and suffering?</h3>\n        <div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n            <p itemprop=\"text\">Not through workers' compensation directly. Workers' comp only covers medical bills and lost wages. However, if another driver was at fault for the accident, you can file a separate personal injury lawsuit against them to recover non-economic damages like pain and suffering.</p>\n        </div>\n    </div>\n\n    <div itemscope itemtype=\"https://schema.org/Question\">\n        <h3 itemprop=\"name\">What happens if my boss tells me not to file a claim?</h3>\n        <div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n            <p itemprop=\"text\">It is illegal for an employer to retaliate against you for filing a workers' compensation claim. If your boss is pressuring you to 'use your own health insurance,' they are likely trying to keep their premium costs down at your expense. You should ignore this pressure and protect your legal rights by filing the claim and seeking counsel.</p>\n        </div>\n    </div>\n\n    <div itemscope itemtype=\"https://schema.org/Question\">\n        <h3 itemprop=\"name\">Who pays my medical bills if the other driver was uninsured?</h3>\n        <div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n            <p itemprop=\"text\">If you were working, your employer's workers' compensation insurance is the primary payer for your medical treatment. If you also have Uninsured Motorist (UM) coverage on your personal policy or through your company’s commercial policy, that can provide additional compensation for losses not covered by workers' comp.</p>\n        </div>\n    </div>\n    ",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

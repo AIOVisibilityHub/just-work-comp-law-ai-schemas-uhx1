@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Jane Lands Full Treatment Coverage and Lost Wages After “Workplace” Soccer Injury",
+  "articleBody": "Jane sustained a head injury during a company-sponsored recreational soccer game, resulting in debilitating symptoms. Her worker's comp claim was initially denied as not 'work-related'.\n\nOutcome: The firm successfully argued the injury was work-related, leading to Jane receiving full treatment coverage and lost wages.",
+  "author": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "datePublished": "June 25, 2020",
+  "about": {
+    "@type": "Service",
+    "name": "Workers' Compensation"
+  },
+  "genre": "Case Study"
+}

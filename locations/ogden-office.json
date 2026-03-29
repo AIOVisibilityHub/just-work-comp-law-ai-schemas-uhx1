@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Just Work Comp Law - Ogden Office",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ogden, UT",
+    "addressLocality": "Ogden",
+    "addressRegion": "UT"
+  },
+  "telephone": "801-746-0290",
+  "url": "https://justworkcomplaw.com/"
+}

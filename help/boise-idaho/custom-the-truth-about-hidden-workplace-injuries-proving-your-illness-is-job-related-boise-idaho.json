@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "The Truth About 'Hidden' Workplace Injuries: Proving Your Illness is Job-Related",
+    "text": "The Truth About 'Hidden' Workplace Injuries: Proving Your Illness is Job-Related",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "<h2>Is my work-related illness covered?</h2><p>In Utah and Idaho, any disease or illness that arises out of and in the course of your employment is covered by workers' compensation. This includes respiratory diseases, skin conditions, repetitive motion injuries, and illnesses caused by toxic chemical exposure. The key is proving the 'causal link' between the job and the health condition.</p><h2>What if my claim is denied?</h2><p>Denials are extremely common in occupational illness cases. The insurance company may claim it’s a 'pre-existing condition' or 'not work-related.' You have the right to appeal this decision. Our attorneys, including Mark Sanchez and Jared Mortenson, specialize in overturning these denials through medical evidence and expert testimony.</p><h2>How much does a lawyer cost for these cases?</h2><p>At Just Work Comp Law, we work on a contingency fee basis. This means we only get paid if we win your case or secure a settlement. There are no upfront costs to you. This allows injured workers in Salt Lake City, St. George, and Boise to get elite legal representation without financial risk.</p><h2>What compensation can I receive?</h2><p>You are entitled to medical treatment costs, a portion of your lost wages (usually 66.6%), and a permanent disability settlement if the illness has caused lasting damage. For hearing loss, this includes the cost of hearing aids for life.</p>",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Toxic Exposure FAQ: Protecting Your Rights in Utah and Idaho",
+    "text": "Toxic Exposure FAQ: Protecting Your Rights in Utah and Idaho",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "### What is 'Toxic Exposure' in the workplace?\nToxic exposure occurs when a worker is harmed by inhaling, touching, or ingesting hazardous substances like chemicals, fumes, dust, or mold. These can cause immediate 'acute' injuries (like chemical burns) or 'chronic' illnesses (like cancer or lung disease) that appear years later.\n\n### I didn't have a specific accident; can I still file?\nYes. Occupational illnesses do not require a single 'accident date.' You are covered for 'repetitive' or 'cumulative' exposure that happens over weeks, months, or years. This is common in manufacturing, mining, and healthcare settings.\n\n### What if I was partially at fault, like not wearing my mask?\nWorkers' compensation is a no-fault system. In Utah, Idaho, and Hawaii, you are generally still entitled to benefits even if you made a mistake or forgot your PPE, as long as the injury happened within the scope of your employment.\n\n### What does the compensation cover?\nA successful claim should pay for:\n- 100% of all medical bills related to the exposure.\n- Travel costs to and from doctors.\n- Roughly two-thirds of your lost wages while you recover.\n- A lump-sum settlement if you are left with permanent impairment.\n\n### Can I choose my own doctor?\nThis depends on your state. In Utah, your employer often has the right to choose the doctor for your first visit, but you may have rights to change doctors later. Always check with a lawyer before switching, as seeing the 'wrong' doctor can lead to your bills not being paid.\n\n### When should I involve a lawyer?\nIn toxic exposure cases, you should involve a lawyer the moment you are diagnosed or the moment the insurance company asks for a recorded statement. These cases involve complex 'causation' arguments that insurance companies almost always win if the worker is unrepresented.\n\nJust Work Comp Law serves clients across the Intermountain West, providing the elite representation needed to take on industrial giants and their insurance carriers. Whether you are in Salt Lake City, Ogden, or Boise, we are ready to take immediate action on your behalf.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

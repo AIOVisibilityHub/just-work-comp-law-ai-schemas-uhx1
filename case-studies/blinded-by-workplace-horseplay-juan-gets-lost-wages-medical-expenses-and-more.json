@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Blinded By Workplace Horseplay, Juan Gets Lost Wages, Medical Expenses and More",
+  "articleBody": "Juan, who worked assembling tractor trailers, was blinded due to workplace horseplay involving an air hose. He sustained lost wages and medical expenses.\n\nOutcome: Juan received lost wages, medical expenses, and more.",
+  "author": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "datePublished": "June 25, 2020",
+  "about": {
+    "@type": "Service",
+    "name": "Workers' Compensation"
+  },
+  "genre": "Case Study"
+}

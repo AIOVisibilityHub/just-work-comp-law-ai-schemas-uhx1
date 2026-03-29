@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Permanent Disability Claims: What You Need to Know for Your Future",
+    "text": "Permanent Disability Claims: What You Need to Know for Your Future",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "When a work injury is so severe that it leaves you with permanent limitations, the stakes of your workers' compensation claim skyrocket. A permanent disability isn't just a medical diagnosis—it's a financial calculation that will affect the rest of your life. \n\n### What is Permanent Partial Disability (PPD)?\nMost permanent workers' comp claims fall under PPD. This means that while you can still work in some capacity, you have a lasting impairment. This could be a limited range of motion in your shoulder, a loss of hearing, or a permanent back condition. \n\n### How is the Settlement Calculated?\nIn Utah and Idaho, PPD is calculated using a specific formula:\n1. **The Rating:** After you reach Maximum Medical Improvement, a doctor assigns a percentage of impairment (e.g., 5% of the whole person).\n2. **The Scheduled Value:** Each body part or 'the whole person' has a set number of weeks of pay associated with it defined by state law.\n3. **The Weekly Rate:** The percentage is multiplied by the number of weeks, which is then multiplied by your compensation rate.\n\n### Common Pitfalls to Avoid:\n* **Accepting the First Rating:** Insurance doctors are notorious for 'low-balling' ratings. A 2% difference in a rating might seem small, but it can equate to thousands of dollars.\n* **Closing Medical Rights Too Early:** If you take a lump-sum settlement, the insurance company will almost always require you to close your medical claim. If you need hardware removed from a surgical site in ten years, you'll have to pay for it yourself.\n* **Ignoring the Impact on Social Security:** If you are also applying for SSDI, a poorly structured workers' comp settlement can cause a pound-for-pound reduction in your Social Security checks. \n\n### Why You Need a Legal Advocate for Permanent Claims\nPermanent disability claims are the most contested part of workers' comp law. The insurance company has a team of lawyers and doctors working to minimize your rating. You deserve an elite legal team to fight back. At Just Work Comp Law, we specialize in maximizing these ratings to ensure our clients in Salt Lake City and beyond receive the full value of what they have lost. \n\nIf you've been told your injury is permanent, don't leave your future to chance or the insurance company’s 'goodwill.' Call us at 801-746-0290 for a clear, honest evaluation of your case.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}
