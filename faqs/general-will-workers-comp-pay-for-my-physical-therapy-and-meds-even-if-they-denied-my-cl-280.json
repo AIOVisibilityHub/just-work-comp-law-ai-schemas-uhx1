@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will workers' comp pay for my physical therapy and meds even if they denied my claim initially?",
+  "description": "If you win your appeal, the insurance company must pay for all reasonable and necessary medical care, including back-pay for prescriptions and physical therapy ",
+  "url": "https://justworkcomplaw.com//faq/general-will-workers-comp-pay-for-my-physical-therapy-and-meds-even-if-they-denied-my-cl-280",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will workers' comp pay for my physical therapy and meds even if they denied my claim initially?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you win your appeal, the insurance company must pay for all reasonable and necessary medical care, including back-pay for prescriptions and physical therapy sessions you were forced to cover or skip.",
+        "description": "Workers' comp benefits should cover all 'reasonable and necessary' medical care, including prescriptions and physical therapy. Denials for 'conservative' care like PT are usually a tactic to see if the claimant will just give up. If therapy is helping you return to work, it is legally compensable.\n\nThe 'Official Disability Guidelines' (ODG) used by insurers often dictate how many sessions they think you need vs. what you actually need.\n\nHave your physical therapist document your 'functional progress' (e.g., 'patient can now lift 10 lbs more'). This data is harder for insurance companies to argue against than just 'patient feels better.'\n\nWe fight for the basic stuff—physical therapy and meds—because without them, you'll never get back to 100%."
+      }
+    }
+  ]
+}

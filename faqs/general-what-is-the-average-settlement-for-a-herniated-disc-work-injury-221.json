@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the average settlement for a herniated disc work injury?",
+  "description": "There is no 'average' settlement, as payouts depend on your weekly wages, the severity of the impairment, and future medical costs. Herniated discs requiring su",
+  "url": "https://justworkcomplaw.com//faq/general-what-is-the-average-settlement-for-a-herniated-disc-work-injury-221",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the average settlement for a herniated disc work injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There is no 'average' settlement, as payouts depend on your weekly wages, the severity of the impairment, and future medical costs. Herniated discs requiring surgery typically result in higher Permanent Partial Disability (PPD) ratings and larger settlements.",
+        "description": "Workers' compensation back settlements are calculated based on your average weekly wage, the cost of future medical care, and your Permanent Partial Disability (PPD) rating. Unlike a personal injury lawsuit, you generally do not get 'pain and suffering' money in workers' comp. If you've had a spinal fusion or a herniated disc requiring surgery, your PPD rating will be higher, leading to a larger payout. If you cannot return to your previous job, you may also be eligible for vocational rehabilitation or permanent disability.\n\nKey factors include your pre-injury wages, the impairment rating assigned by your doctor, and future medical needs.\n\nDo not accept a 'full and final' settlement offer until you have reached Maximum Medical Improvement (MMI). Once you settle, you typically cannot ask for more money later if your back gets worse.\n\nCalculating the long-term value of a spinal injury requires actuarial and legal expertise to ensure you aren't underpaid."
+      }
+    }
+  ]
+}

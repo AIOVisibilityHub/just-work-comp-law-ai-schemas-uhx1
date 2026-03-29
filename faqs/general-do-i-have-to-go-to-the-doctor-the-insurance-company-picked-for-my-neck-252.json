@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I have to go to the doctor the insurance company picked for my neck?",
+  "description": "For an Independent Medical Exam (IME), yes, you must attend or your benefits may be stopped. However, for your actual treatment, you typically have a right to c",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-have-to-go-to-the-doctor-the-insurance-company-picked-for-my-neck-252",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I have to go to the doctor the insurance company picked for my neck?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For an Independent Medical Exam (IME), yes, you must attend or your benefits may be stopped. However, for your actual treatment, you typically have a right to choose or change your doctor once in Utah and Idaho.",
+        "description": "In many neck injury cases, the insurance company will hire a doctor to perform a 'records review' or a physical exam (IME). These doctors often work almost exclusively for insurance companies and may claim you are 'faking' or 'at MMI' much sooner than you really are. You have the right to have a lawyer review these findings and, in some cases, the right to have your own doctor present or to record the exam.\n\nKey factors include the doctor's reputation and the specific questions the insurance company asked them to answer.\n\nDon't go to an IME alone without knowing your rights. Be honest but brief—do not volunteer information they didn't ask for.\n\nWe know which doctors are 'insurance-friendly' and how to cross-examine their reports in court to prove they are biased."
+      }
+    }
+  ]
+}

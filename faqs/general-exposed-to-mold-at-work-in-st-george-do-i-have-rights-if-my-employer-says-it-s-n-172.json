@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Exposed to mold at work in St. George, do I have rights if my employer says it's not their fault?",
+  "description": "Yes, because workers' comp is a no-fault system. You do not need to prove the employer was negligent, only that your illness was caused by mold in the workplace",
+  "url": "https://justworkcomplaw.com//faq/general-exposed-to-mold-at-work-in-st-george-do-i-have-rights-if-my-employer-says-it-s-n-172",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Exposed to mold at work in St. George, do I have rights if my employer says it's not their fault?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, because workers' comp is a no-fault system. You do not need to prove the employer was negligent, only that your illness was caused by mold in the workplace. If denied, you can appeal by providing medical evidence and air quality test results.",
+        "description": "If your employer in St. George denies responsibility for mold exposure, it doesn't end your claim. Workers' compensation is a \"no-fault\" system, meaning you don't have to prove the employer did something wrong, only that the exposure happened as a result of your work duties. If mold is present in the building and it made you sick, it is covered. The employer's denial often stems from a lack of \"medical causation\"—they may claim your illness is just a common cold or allergies.\n\nTo overcome a denial, you need:\n- Professional air quality testing or mold samples from the workplace.\n- A medical opinion linking your specific symptoms to the type of mold found.\n- Evidence that other employees also experienced similar symptoms.\n\nDo not take the employer's word as a legal fact. You have the right to appeal a denial through the Utah Labor Commission. A lawyer can help hire industrial hygienists to prove the mold's presence and its impact on your health."
+      }
+    }
+  ]
+}

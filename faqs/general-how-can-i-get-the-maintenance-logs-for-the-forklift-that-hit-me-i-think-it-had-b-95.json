@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I get the maintenance logs for the forklift that hit me? I think it had bad brakes.",
+  "description": "You typically need a lawyer to formally request or subpoena those records. Maintenance logs are crucial for proving that equipment failure, rather than your own",
+  "url": "https://justworkcomplaw.com//faq/general-how-can-i-get-the-maintenance-logs-for-the-forklift-that-hit-me-i-think-it-had-b-95",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I get the maintenance logs for the forklift that hit me? I think it had bad brakes.",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You typically need a lawyer to formally request or subpoena those records. Maintenance logs are crucial for proving that equipment failure, rather than your own actions, caused the accident.",
+        "description": "Maintenance records are vital evidence in many forklift accident cases. These records are the property of the employer or a third-party leasing company, and they are notoriously difficult for an individual worker to obtain. They can prove that the forklift had known brake issues, steering problems, or skipped safety inspections, which can be critical if the employer claims the accident was your fault.\n\nWhile you are still an employee, you can ask to see safety logs, but the company isn\\'t legally required to hand them over to you without a formal legal request.\n\nEvidence to look for:\n- Daily pre-shift inspection checklists.\n- Annual maintenance and repair logs for that specific lift.\n- Training records for the operator involved.\n\nTry to note the \"unit number\" or serial number of the forklift involved. This makes it impossible for the company to provide records for a different, well-maintained machine instead.\n\nAn attorney can use a \"subpoena\" or \"request for production\" to force the company to turn over these records during an appeal or lawsuit."
+      }
+    }
+  ]
+}

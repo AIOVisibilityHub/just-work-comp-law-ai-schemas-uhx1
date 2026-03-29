@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much is a workplace mold or chemical exposure settlement worth?",
+  "description": "Settlements cover all medical expenses and a portion of lost wages, but the total value depends on your permanent impairment rating and impact on future earning",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-is-a-workplace-mold-or-chemical-exposure-settlement-worth-190",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is a workplace mold or chemical exposure settlement worth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Settlements cover all medical expenses and a portion of lost wages, but the total value depends on your permanent impairment rating and impact on future earnings. Permanent lung damage often leads to significant settlements for ongoing care and disability.",
+        "description": "The \"value\" of a respiratory claim depends on your impairment rating and your inability to return to your previous job. Compensation typically covers all related medical bills, including inhalers, oxygen, and specialist visits, plus roughly two-thirds of your lost wages while you can\\'t work. If you have permanent lung damage (like COPD or Silicosis), you may be entitled to a Permanent Partial Disability (PPD) settlement based on your \"loss of bodily function.\" In severe cases involving lung transplants or total disability, the figures can be substantial. Because respiratory cases are often long-term, these settlements must account for future medical inflation. Consulting a lawyer ensures you don't settle for a one-time payment that fails to cover future costs."
+      }
+    }
+  ]
+}

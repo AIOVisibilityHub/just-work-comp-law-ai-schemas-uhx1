@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do my weekly checks stop? I'm worried they'll cut me off before I'm healed.",
+  "description": "Benefits typically stop once you reach Maximum Medical Improvement (MMI), are released to full-duty work, or refuse a light-duty position within your doctor's r",
+  "url": "https://justworkcomplaw.com//faq/general-when-do-my-weekly-checks-stop-i-m-worried-they-ll-cut-me-off-before-i-m-healed-257",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do my weekly checks stop? I'm worried they'll cut me off before I'm healed.",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Benefits typically stop once you reach Maximum Medical Improvement (MMI), are released to full-duty work, or refuse a light-duty position within your doctor's restrictions. Your benefits do not necessarily last until you are 100% pain-free.",
+        "description": "The insurance company is technically allowed to stop temporary disability benefits as soon as a doctor declares you have reached Maximum Medical Improvement (MMI). MMI means your condition is stable and not expected to improve with further treatment, or when you are released to return to full-duty work. Unfortunately, insurance companies often use 'Independent Medical Exams' (IMEs) to force an MMI finding even if you still feel significant pain or have limited mobility.\n\nKey triggers for benefit termination:\n- A doctor's release to full duty.\n- Reaching Maximum Medical Improvement (MMI).\n- Refusing a valid light-duty job offer from your employer.\n\nIf you receive a letter stating your benefits are ending because of MMI, but you still cannot perform your job, you must act quickly. You have the right to challenge the doctor's finding or request a second opinion. This is a critical junction where legal representation is usually required to prevent a total loss of income."
+      }
+    }
+  ]
+}

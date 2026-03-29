@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I had a bad back before this job? Can I still claim occupational disease?",
+  "description": "Yes, if your job \"aggravated\" or worsened your pre-existing condition, it is covered under workers' compensation. You are entitled to benefits for the \"new\" lev",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-i-had-a-bad-back-before-this-job-can-i-still-claim-occupational-disease-205",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I had a bad back before this job? Can I still claim occupational disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if your job \"aggravated\" or worsened your pre-existing condition, it is covered under workers' compensation. You are entitled to benefits for the \"new\" level of disability caused by your work activities.",
+        "description": "Utah and Idaho laws are designed to protect you even if you were already prone to a certain condition. If your job \"lighted up\" or \"accelerated\" a dormant condition, it is fully compensable. For example, if you had mild back issues that stayed manageable until you started a heavy-lifting job that caused a herniated disc, the insurance company is responsible. They will fight this by trying to say it's 100% pre-existing. We use medical records to show your \"baseline\" before the job and how your function has declined since the exposure. Don't let a \"pre-existing\" label scare you—it is one of the most common myths used to stop people from filing."
+      }
+    }
+  ]
+}

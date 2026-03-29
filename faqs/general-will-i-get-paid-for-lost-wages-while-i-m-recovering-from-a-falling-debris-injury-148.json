@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will I get paid for lost wages while I'm recovering from a falling debris injury?",
+  "description": "Yes, you are eligible for TTD benefits, typically 2/3 of your average wage, while you are unable to work. You must provide ongoing medical documentation of your",
+  "url": "https://justworkcomplaw.com//faq/general-will-i-get-paid-for-lost-wages-while-i-m-recovering-from-a-falling-debris-injury-148",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will I get paid for lost wages while I'm recovering from a falling debris injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you are eligible for TTD benefits, typically 2/3 of your average wage, while you are unable to work. You must provide ongoing medical documentation of your inability to work to continue receiving these payments.",
+        "description": "Yes, you are entitled to \"Temporary Total Disability\" (TTD) benefits if your doctor confirms you cannot work because of your injury. In Utah, these payments typically equal two-thirds of your average weekly wage, subject to certain state caps. There is usually a three-day \"waiting period\" before payments begin; however, if you are out for more than two weeks, those three days are often paid retroactively.\n\nIf you can work \"light duty,\" but your employer doesn't have a position for you, you should still receive these benefits. If they do offer light duty at a lower pay rate, you can receive \"Temporary Partial Disability\" to make up the difference.\n\nKey factors include your pre-injury wage history and your doctor's specific \"work restrictions.\" You must provide the insurance company with \"disability slips\" from your doctor to keep the checks coming. If the insurance company stops paying while you are still hurt, you need an attorney to file an immediate motion for payment. Receiving these benefits is not automatic; it requires strict adherence to reporting rules."
+      }
+    }
+  ]
+}

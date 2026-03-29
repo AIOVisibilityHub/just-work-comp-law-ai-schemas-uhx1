@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I claim benefits if the safety gear I was wearing failed?",
+  "description": "Yes. If your safety gear (like a harness or guard) failed, you are entitled to workers\\' comp. You may also have a strong case against the manufacturer of that ",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-claim-benefits-if-the-safety-gear-i-was-wearing-failed-83",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I claim benefits if the safety gear I was wearing failed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. If your safety gear (like a harness or guard) failed, you are entitled to workers\\' comp. You may also have a strong case against the manufacturer of that safety equipment.",
+        "description": "If a safety harness, railing, or lockout-tagout device failed, you are absolutely eligible for workers\\' comp. Safety equipment is designed to prevent injury, and its failure is prima facie evidence of a workplace hazard.\n\nBeyond workers\\' comp, these cases are prime candidates for third-party lawsuits. If a brand-new safety harness snaps, the manufacturer is potentially liable for every dollar of your damages.\n\nKey factors include:\n- The age and inspection history of the safety gear.\n- Whether the gear was used according to OSHA guidelines.\n- Any recalls on the specific safety product.\n- Evidence of \"wear and tear\" that should have been caught during inspections.\n\nDo not allow the employer to take the failed safety gear. It must be preserved. We often see employers \"vanish\" failed PPE to cover up a lack of safety inspections. Legal intervention ensures this evidence is kept for your claim."
+      }
+    }
+  ]
+}

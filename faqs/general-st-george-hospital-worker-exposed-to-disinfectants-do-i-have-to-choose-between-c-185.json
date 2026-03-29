@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "St. George hospital worker exposed to disinfectants—do I have to choose between comp or lawsuit?",
+  "description": "No, you can do both. Workers' comp provides immediate benefits from your employer, while a separate lawsuit can be filed against the chemical manufacturer or an",
+  "url": "https://justworkcomplaw.com//faq/general-st-george-hospital-worker-exposed-to-disinfectants-do-i-have-to-choose-between-c-185",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "St. George hospital worker exposed to disinfectants—do I have to choose between comp or lawsuit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, you can do both. Workers' comp provides immediate benefits from your employer, while a separate lawsuit can be filed against the chemical manufacturer or an outside contractor if their negligence caused your exposure.",
+        "description": "Yes, you do not have to choose; however, workers' compensation is your only path for benefits from your employer. If the disinfectant was defective or used improperly by an outside cleaning contractor, you could pursue a third-party lawsuit simultaneously. This allowed you to get immediate medical help from workers' comp while seeking larger damages for pain and suffering from the third party.\n\nHow to handle both:\n- File the workers\\' comp claim first to ensure your doctor bills are paid.\n- Identify the brand and manufacturer of the disinfectant.\n- Check if other healthcare workers have sued over the same product.\n\nThe hospital may try to claim the disinfectant is \"safe,\" but medical-grade cleaners are often highly toxic if not diluted correctly. You need a lawyer to see if the hospital's equipment (like miscalibrated dilution pumps) or the chemical manufacturer is at fault. This dual approach maximizes your total recovery."
+      }
+    }
+  ]
+}

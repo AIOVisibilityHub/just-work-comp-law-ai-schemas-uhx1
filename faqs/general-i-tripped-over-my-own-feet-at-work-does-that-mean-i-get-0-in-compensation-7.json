@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I tripped over my own feet at work—does that mean I get $0 in compensation?",
+  "description": "No. Because workers' compensation is a no-fault system, you are entitled to benefits even if the fall was your own fault, provided it wasn't due to intoxication",
+  "url": "https://justworkcomplaw.com//faq/general-i-tripped-over-my-own-feet-at-work-does-that-mean-i-get-0-in-compensation-7",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I tripped over my own feet at work—does that mean I get $0 in compensation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Because workers' compensation is a no-fault system, you are entitled to benefits even if the fall was your own fault, provided it wasn't due to intoxication or intentional self-harm.",
+        "description": "If you are partially at fault—for example, you were distracted by your phone or wore the wrong shoes—it generally does not prevent you from receiving workers' compensation. Because the system is \"no-fault,\" the trade-off is that you get medical coverage and wage replacement regardless of negligence, but you lose the right to sue for pain and suffering. The only time fault truly matters is if you were intoxicated, intentionally hurt yourself, or violated a strictly enforced safety rule. In those specific cases, benefits could be reduced or denied. For a standard trip-and-fall, your own minor negligence shouldn't cost you your benefits. Don't let an adjuster bully you into thinking otherwise."
+      }
+    }
+  ]
+}

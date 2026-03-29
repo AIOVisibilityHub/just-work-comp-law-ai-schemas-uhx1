@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Nobody saw the box hit me. Can I still win my workers' comp case?",
+  "description": "Yes, but you must report the injury immediately and seek medical attention to create a paper trail. Use physical evidence like photos of the scene or your injur",
+  "url": "https://justworkcomplaw.com//faq/general-nobody-saw-the-box-hit-me-can-i-still-win-my-workers-comp-case-150",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Nobody saw the box hit me. Can I still win my workers' comp case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but you must report the injury immediately and seek medical attention to create a paper trail. Use physical evidence like photos of the scene or your injuries to support your claim in the absence of witnesses.",
+        "description": "If there were no witnesses when the object hit you, your claim becomes a \"he said, she said\" situation. Insurance companies are highly skeptical of unwitnessed accidents. To protect yourself, you must report it immediately—the longer the delay, the more it looks like you are \"making it up.\" You should also look for indirect evidence, like visible bruising, a damaged hard hat, or security camera footage.\n\nTexting or emailing your boss immediately after it happens provides a timestamped record that you were hurt at work. Even if no one saw the impact, they may have seen the object on the floor or seen you limping shortly after.\n\nKey factors include the consistency of your story and how quickly you sought medical care. If you told your spouse about it that night, that person can sometimes act as a \"witness\" to your symptoms. A lawyer can help build a \"circumstantial\" case to overcome the lack of eyewitnesses. Credibility is your most valuable asset when no one else was there. Always be consistent in your descriptions to doctors and supervisors."
+      }
+    }
+  ]
+}

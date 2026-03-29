@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the process for proving a rare lung disease like sarcoidosis came from work?",
+  "description": "This requires proving a medical link between specific workplace toxins and the disease, often through expert testimony from pulmonologists and industrial hygien",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-the-process-for-proving-a-rare-lung-disease-like-sarcoidosis-came-from-wo-196",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the process for proving a rare lung disease like sarcoidosis came from work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This requires proving a medical link between specific workplace toxins and the disease, often through expert testimony from pulmonologists and industrial hygienists. These \"complex causation\" cases are high-stakes and typically require legal and scientific experts to succeed.",
+        "description": "If you believe your sarcoidosis or other rare lung conditions were triggered by dust or \"toxic soup\" in a factory, you face a high burden of proof. You must show that workers in your specific industry have a higher-than-average risk of developing this condition. This often requires hiring an industrial hygienist to sample the air and a pulmonologist to testify on the causation. The insurance company will call it an \"idiopathic\" disease (meaning it occurred spontaneously). Because these cases involve complex science, they are almost impossible to win without a law firm that can fund the expert witness fees. We look for specific clusters of illness among your coworkers to build the case."
+      }
+    }
+  ]
+}

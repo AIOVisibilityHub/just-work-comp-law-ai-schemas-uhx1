@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the deadline to file a claim for chemical exposure from years ago in Utah—I'm just now finding out I have health issues?",
+  "description": "In Utah, workers generally have two years from the date they discover their illness is work-related to file a claim. Because toxic exposure symptoms often take ",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-the-deadline-to-file-a-claim-for-chemical-exposure-from-years-ago-in-utah-168",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the deadline to file a claim for chemical exposure from years ago in Utah—I'm just now finding out I have health issues?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Utah, workers generally have two years from the date they discover their illness is work-related to file a claim. Because toxic exposure symptoms often take years to appear, the 'discovery rule' may protect your right to file even if the exposure happened long ago.",
+        "description": "In Utah, you generally have two years from the date you discovered the injury and its cause to file a claim. However, toxic exposure cases are unique because symptoms often appear years after the actual contact with chemicals. This \"discovery rule\" means the clock typically starts when a medical professional confirms your illness is work-related, rather than your last day on the job. Waiting too long can result in a permanent bar from receiving benefits.\n\nSeveral factors influence this timeline:\n- The date of your official diagnosis linking the condition to work.\n- Whether you reported the exposure to your supervisor when it happened.\n- The specific statute of repose in your state (Utah vs. Idaho differ slightly).\n\nYou should immediately document your symptoms and seek a medical evaluation. Telling your doctor exactly what substances you worked with is critical for establishing the timeline. A legal review of your employment records can help determine if you are still within the filing window."
+      }
+    }
+  ]
+}

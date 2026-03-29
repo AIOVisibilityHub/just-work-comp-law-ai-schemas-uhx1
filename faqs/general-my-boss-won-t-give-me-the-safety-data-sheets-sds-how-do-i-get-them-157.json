@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss won't give me the Safety Data Sheets (SDS). How do I get them?",
+  "description": "You have a legal \"Right to Know\" under OSHA. If your employer refuses to provide SDS, you can file an OSHA complaint or have a lawyer subpoena the records to id",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-won-t-give-me-the-safety-data-sheets-sds-how-do-i-get-them-157",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss won't give me the Safety Data Sheets (SDS). How do I get them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You have a legal \"Right to Know\" under OSHA. If your employer refuses to provide SDS, you can file an OSHA complaint or have a lawyer subpoena the records to identify the toxins that caused your illness.",
+        "description": "Under federal and state law (OSHA), you have a \"Right to Know\" about the hazardous chemicals in your workplace. Your employer is legally required to maintain Safety Data Sheets (SDS) for every chemical on-site and make them available to employees immediately upon request. If they refuse to provide them, they are in serious violation of safety regulations.\n\nYou or your lawyer can request these documents directly. If the employer still refuses, you can file a complaint with OSHA, which may trigger an inspection.\n\nKey factors include the specific name of the chemical, its manufacturer, and its CAS number. These sheets provide the \"blueprint\" for your medical treatment and your legal case, as they list known health risks and required PPE. If your employer is hiding these documents, it’s a red flag that they know they are in the wrong. An attorney can use a \"demand letter\" or a subpoena to get this information if the company is being uncooperative. Never take \"no\" for an answer when it comes to your safety data."
+      }
+    }
+  ]
+}

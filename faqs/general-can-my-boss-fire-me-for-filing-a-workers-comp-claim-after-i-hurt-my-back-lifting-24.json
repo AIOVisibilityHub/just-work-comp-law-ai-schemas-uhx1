@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can my boss fire me for filing a workers comp claim after I hurt my back lifting?",
+  "description": "No, it is illegal to fire an employee in Utah or Idaho just for filing a workers' comp claim. While you can be let go if you can no longer perform the job dutie",
+  "url": "https://justworkcomplaw.com//faq/general-can-my-boss-fire-me-for-filing-a-workers-comp-claim-after-i-hurt-my-back-lifting-24",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can my boss fire me for filing a workers comp claim after I hurt my back lifting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, it is illegal to fire an employee in Utah or Idaho just for filing a workers' comp claim. While you can be let go if you can no longer perform the job duties, \"retaliatory\" firing for seeking benefits is prohibited and may lead to a wrongful termination lawsuit.",
+        "description": "The law protects you from \"retaliatory discharge.\" In Utah and Idaho, it is illegal for an employer to fire you solely because you filed a workers' compensation claim. However, they can sometimes let you go if your overexertion injury prevents you from ever doing your job again and they cannot accommodate your restrictions. \n\nThis is a delicate area where \"at-will\" employment and workers' comp law collide.\n\nKey factors include the timing of the firing and the employer's stated reason versus their actual actions.\n\nKeep copies of all your work performance reviews and any text messages or emails from your boss regarding your injury. If you are fired shortly after filing a claim for a lifting injury, you may have a secondary lawsuit for wrongful termination. Consulting an attorney immediately after a job loss is crucial to protect your right to ongoing wage benefits."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What mistakes should I avoid after getting hurt on a construction site?",
+  "description": "Avoid giving recorded statements, skipping doctor appointments, and posting on social media. Most importantly, never sign a settlement release before reaching M",
+  "url": "https://justworkcomplaw.com//faq/general-what-mistakes-should-i-avoid-after-getting-hurt-on-a-construction-site-53",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What mistakes should I avoid after getting hurt on a construction site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Avoid giving recorded statements, skipping doctor appointments, and posting on social media. Most importantly, never sign a settlement release before reaching Maximum Medical Improvement.",
+        "description": "One of the most dangerous mistakes is speaking with an insurance adjuster before you understand your rights. Adjusters are trained to lead you into saying your injury is a 're-aggravation' or that you feel 'fine' today, which they will use to lower your payout. Other mistakes include failing to follow through with doctor-ordered physical therapy, which the insurer will use as proof that you aren't really hurt. Additionally, don't post your physical activities on social media, as investigators frequently monitor these accounts. Finally, never sign a 'full and final release' until you are certain you won't need future surgery. A lawyer acts as a buffer between you and the insurance company to prevent these self-sabotaging errors."
+      }
+    }
+  ]
+}

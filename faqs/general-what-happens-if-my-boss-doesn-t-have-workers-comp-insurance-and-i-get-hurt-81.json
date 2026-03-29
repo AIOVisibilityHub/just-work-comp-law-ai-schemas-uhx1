@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if my boss doesn\\'t have workers comp insurance and I get hurt?",
+  "description": "If your boss is uninsured, you can sue them directly for full damages, including pain and suffering. You may also be eligible for benefits through the state\\'s ",
+  "url": "https://justworkcomplaw.com//faq/general-what-happens-if-my-boss-doesn-t-have-workers-comp-insurance-and-i-get-hurt-81",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if my boss doesn\\'t have workers comp insurance and I get hurt?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your boss is uninsured, you can sue them directly for full damages, including pain and suffering. You may also be eligible for benefits through the state\\'s Uninsured Employers\\' Fund.",
+        "description": "If your employer lacks the legally required workers\\' compensation insurance and you are hurt by malfunctioning equipment, you have the right to sue them directly in civil court. In this scenario, the \"exclusive remedy\" rule is waived, and the employer may be liable for full damages, including pain and suffering.\n\nAdditionally, states like Utah have \"Uninsured Employers\\' Funds\" that may provide benefits if the employer cannot pay. However, these cases are legally complex and require immediate action.\n\nKey factors include:\n- The employer\\'s insurance status at the precise time of the accident.\n- State-specific penalties for carrying no insurance.\n- Assets owned by the employer that could satisfy a judgment.\n- Eligibility for state-funded backup programs.\n\nProtecting yourself against an uninsured employer requires aggressive legal representation. You are no longer dealing with an insurance company; you are dealing with a business owner who may try to hide assets or deny the accident ever happened."
+      }
+    }
+  ]
+}

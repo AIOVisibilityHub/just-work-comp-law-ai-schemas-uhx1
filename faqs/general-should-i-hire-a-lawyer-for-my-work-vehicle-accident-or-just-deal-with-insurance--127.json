@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I hire a lawyer for my work vehicle accident, or just deal with insurance myself?",
+  "description": "If you have significant injuries, you should consult a lawyer. Insurance companies often settle for the minimum, but an attorney helps ensure you receive full c",
+  "url": "https://justworkcomplaw.com//faq/general-should-i-hire-a-lawyer-for-my-work-vehicle-accident-or-just-deal-with-insurance--127",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I hire a lawyer for my work vehicle accident, or just deal with insurance myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you have significant injuries, you should consult a lawyer. Insurance companies often settle for the minimum, but an attorney helps ensure you receive full compensation for future medical needs, permanent disability, and lost wages.",
+        "description": "Insurance adjusters often push for quick settlements before the full extent of your injuries is known. After a work vehicle accident, your 'damages' aren't just your current ER bill; they include future physical therapy, lost earning capacity, and potential permanent partial disability (PPD) ratings. Accepting a check early usually requires signing a release that ends your right to any future payments for that injury.\n\nCommon risks of handling it yourself:\n- Undervaluing permanent impairments.\n- Failing to account for 'subrogation' liens from your health insurance.\n- Overlooking the ability to file a third-party claim against the other driver.\n\nIf your injuries require more than a single doctor's visit, the 'math' of a workers' comp claim becomes complicated. A lawyer ensures that every dollar for future care and missed work is calculated before any papers are signed. Most workers' comp attorneys work on a contingency fee, meaning they only get paid if they win more for you."
+      }
+    }
+  ]
+}

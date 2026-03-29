@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "The insurance doctor gave me a low disability rating—can I fight it?",
+  "description": "Yes. You can challenge a low impairment rating by seeking a second opinion or requesting a hearing before the industrial commission. Insurance doctors often pro",
+  "url": "https://justworkcomplaw.com//faq/general-the-insurance-doctor-gave-me-a-low-disability-rating-can-i-fight-it-263",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "The insurance doctor gave me a low disability rating—can I fight it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. You can challenge a low impairment rating by seeking a second opinion or requesting a hearing before the industrial commission. Insurance doctors often provide lower ratings to save the company money.",
+        "description": "The insurance company frequently uses a 'defense' doctor for an Independent Medical Exam (IME) to give you a lower impairment rating than your treating doctor. If your doctor Says you have a 15% impairment and the IME doctor says 5%, the insurance company will always try to pay the lower amount. In Utah and Idaho, you can challenge this through a hearing before an Administrative Law Judge or by requesting a medical panel review.\n\nHow to fight a low rating:\n- Request a 'Rating Evaluation' from a different, neutral doctor.\n- Provide evidence of how the injury limits specific ‘Activities of Daily Living.’\n- Use an attorney to cross-examine the insurance doctor’s methodology.\n\nA low rating can cost you tens of thousands of dollars over your lifetime. Do not just accept the first number the insurance company offers. This is the moment where legal representation provides the highest ROI, as an attorney knows which medical experts can provide a truly objective and fair assessment of your permanent damage."
+      }
+    }
+  ]
+}

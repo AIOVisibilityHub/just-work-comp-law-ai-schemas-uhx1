@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss wants me to keep working through the pain—what accommodations can I demand for RSI?",
+  "description": "You are entitled to follow the \"medical restrictions\" set by your doctor. If your doctor limits your repetitive tasks, your employer must follow those limits; i",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-wants-me-to-keep-working-through-the-pain-what-accommodations-can-i-dema-43",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss wants me to keep working through the pain—what accommodations can I demand for RSI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You are entitled to follow the \"medical restrictions\" set by your doctor. If your doctor limits your repetitive tasks, your employer must follow those limits; if they cannot accommodate the restrictions, they must generally pay you lost-wage benefits instead of making you work.",
+        "description": "You can request \"Reasonable Accommodations\" under the Americans with Disabilities Act (ADA), but within the workers' comp system, if your doctor gives you \"restrictions\" (e.g., \"no typing more than 15 minutes per hour\"), your employer must either follow them or pay you to stay home. You should never \"work through the pain\" if it violates a doctor's order, as this can worsen the injury and give the insurer an excuse to deny future treatment.\n\nIf your boss ignores your medical restrictions, they are putting your health and their legal standing at risk.\n\nKey Factors:\n- Formal, written restrictions from your authorized treating physician.\n- Communication with HR regarding the inability to perform certain tasks.\n- Documentation of every time you are asked to violate restrictions.\n\nIf you are being pressured, tell them: \"My doctor has restricted me from that task until my next evaluation.\" \n\nIf the pressure continues or you are threatened with termination, you need an attorney to file for a hearing to protect your medical status and your job."
+      }
+    }
+  ]
+}

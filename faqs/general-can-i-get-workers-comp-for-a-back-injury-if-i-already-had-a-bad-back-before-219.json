@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get workers comp for a back injury if I already had a bad back before?",
+  "description": "Yes, you can receive benefits if a work-related activity aggravated or worsened a pre-existing back condition. You must prove that the work incident caused a ne",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-workers-comp-for-a-back-injury-if-i-already-had-a-bad-back-before-219",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get workers comp for a back injury if I already had a bad back before?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can receive benefits if a work-related activity aggravated or worsened a pre-existing back condition. You must prove that the work incident caused a new injury or accelerated your need for treatment.",
+        "description": "Yes, you can still recover benefits, but the case is more complex. Under Utah and Idaho law, you are entitled to compensation if the work incident 'aggravated' or 'accelerated' your pre-existing condition. The insurance company will likely try to blame your current pain on 'wear and tear' or 'old age' to avoid paying. You will need a medical expert to clarify that the specific work event made your condition worse or necessitated new treatment.\n\nKey factors include your prior medical history, the severity of the new incident, and the doctor’s opinion on causation.\n\nGather your old medical records to show your baseline health before this accident. Ensure your current doctor knows exactly how the work incident changed your physical capabilities.\n\nAn attorney is vital here to counter the insurance company's 'pre-existing condition' defense with medical evidence."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my employer for negligence if I got sick from toxic chemicals?",
+  "description": "Usually, no; workers\\' comp is your only option against an employer. However, you CAN sue a \"third party\"—like a chemical manufacturer or a mask maker—if their ",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-employer-for-negligence-if-i-got-sick-from-toxic-chemicals-207",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my employer for negligence if I got sick from toxic chemicals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually, no; workers\\' comp is your only option against an employer. However, you CAN sue a \"third party\"—like a chemical manufacturer or a mask maker—if their defective product caused your illness, which allows for pain and suffering damages.",
+        "description": "In Utah and Idaho, workers\\' comp is the \"exclusive remedy,\" meaning you generally cannot sue your boss for a mistake or negligence that caused a disease. However, there are \"third-party\" exceptions. If your illness was caused by a defective machine made by another company, or a toxic chemical manufactured by a third party, you can sue that manufacturer for full damages (including pain and suffering). Also, if an employer \"intentionally\" harmed you (which is a very high bar), the rules may change. We investigate every claim to see if there is a third party we can hold accountable, as this often results in much higher compensation than workers\\' comp alone."
+      }
+    }
+  ]
+}

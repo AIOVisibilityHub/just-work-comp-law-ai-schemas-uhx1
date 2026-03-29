@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do they calculate lost wages for a neck injury in Idaho?",
+  "description": "Idaho lost wage benefits (income benefits) are generally 67% of your average weekly wage, subject to state minimums and maximums. You are eligible for these as ",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-they-calculate-lost-wages-for-a-neck-injury-in-idaho-248",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do they calculate lost wages for a neck injury in Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Idaho lost wage benefits (income benefits) are generally 67% of your average weekly wage, subject to state minimums and maximums. You are eligible for these as long as you are unable to work or are restricted to lower-paying light duty.",
+        "description": "Standard 'Time Loss' (TTD) benefits are about 66.6% of your gross pay. If you have a neck injury that restricts your movement, you may be on these benefits for months. If you go back to work but are making less money (because you can't work overtime or had to take a lower-paying light-duty role), you can get 'Temporary Partial Disability' (TPD) to make up the difference.\n\nKey factors include your pre-injury 'Average Weekly Wage' and the availability of light-duty work in your area.\n\nKeep your paystubs from after the injury. If you are earning even one dollar less per week due to your neck, you are likely owed TPD benefits.\n\nWe ensure that all types of wage loss—not just being 'totally' off work—are compensated by the insurance carrier."
+      }
+    }
+  ]
+}

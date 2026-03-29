@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’ve been retired for 5 years and just got diagnosed with asbestosis; is it too late?",
+  "description": "Potentially not. For latent diseases like asbestosis, the deadline usually starts when you are diagnosed, not when you stopped working. You should consult a law",
+  "url": "https://justworkcomplaw.com//faq/general-i-ve-been-retired-for-5-years-and-just-got-diagnosed-with-asbestosis-is-it-too-l-199",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’ve been retired for 5 years and just got diagnosed with asbestosis; is it too late?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Potentially not. For latent diseases like asbestosis, the deadline usually starts when you are diagnosed, not when you stopped working. You should consult a lawyer immediately to check the \"discovery\" dates for Utah or Idaho law.",
+        "description": "The statute of limitations for occupational diseases is often tied to the \"date of manifestation\"—when you knew or should have known your illness was work-related. In Utah, this is generally 180 days to notify the employer and one year to file a claim. In Idaho, it is typically one year from the date of disability. If you retired years ago but were just diagnosed with Mesothelioma or Silicosis today, you may still have a valid claim because the \"clock\" didn't start until the diagnosis. Never assume you are too late; these rules have specific exceptions for \"latent\" diseases that take decades to appear. Specialized legal review is required to calculate these dates accurately."
+      }
+    }
+  ]
+}

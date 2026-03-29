@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I wasn't following safety rules when I hurt my back—can I still get paid?",
+  "description": "Yes. Utah and Idaho are no-fault states, meaning you are eligible for benefits even if you were partially to blame for your back injury, provided it wasn't caus",
+  "url": "https://justworkcomplaw.com//faq/general-i-wasn-t-following-safety-rules-when-i-hurt-my-back-can-i-still-get-paid-222",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I wasn't following safety rules when I hurt my back—can I still get paid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Utah and Idaho are no-fault states, meaning you are eligible for benefits even if you were partially to blame for your back injury, provided it wasn't caused by intoxication or intentional self-harm.",
+        "description": "Utah and Idaho are 'no-fault' workers' compensation states. This means that even if you tripped over your own feet or didn't use a lifting belt, you are still entitled to medical coverage and lost wages. The only exceptions are typically injuries caused by willful self-infliction, intoxication, or horseplay. You do not need to prove the company was negligent, and they cannot deny you just because you made a mistake.\n\nKey factors include whether the injury happened 'in the course of employment' and whether drugs or alcohol were involved.\n\nBe honest about how the injury happened. Trying to hide your role in the accident can damage your credibility and lead to a fraud investigation.\n\nIf your employer is blaming you to avoid paying, a lawyer can remind them of the no-fault nature of the law."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long can they keep me on light duty before they have to let me go back to my old job?",
+  "description": "Light duty lasts until your doctor releases you to full duty or determines you have reached Maximum Medical Improvement (MMI). There is no set calendar limit, b",
+  "url": "https://justworkcomplaw.com//faq/general-how-long-can-they-keep-me-on-light-duty-before-they-have-to-let-me-go-back-to-my-269",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long can they keep me on light duty before they have to let me go back to my old job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Light duty lasts until your doctor releases you to full duty or determines you have reached Maximum Medical Improvement (MMI). There is no set calendar limit, but permanent restrictions may change your legal options.",
+        "description": "There is no universal time limit for light duty; it lasts until you reach 'Maximum Medical Improvement' (MMI) or your doctor releases you to full duty. However, if your restrictions become permanent, the situation shifts from 'light duty' to a Permanent Partial Disability (PPD) claim or a vocational rehabilitation discussion.\n\nKey factors include the pace of your medical recovery and whether your doctor provides 'permanent' vs 'temporary' restrictions.\n\nEnsure you attend every follow-up appointment, as missing one can lead the insurance company to claim you are fully healed and force you back to full duty.\n\nIf you've been on light duty for over six months without progress, you need a legal review to ensure you aren't being 'pushed out' of the company."
+      }
+    }
+  ]
+}

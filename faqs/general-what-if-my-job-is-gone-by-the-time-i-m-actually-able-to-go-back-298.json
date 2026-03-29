@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my job is gone by the time I'm actually able to go back?",
+  "description": "If your position was filled while you were out, you may be eligible for unemployment or vocational retraining. Your workers' comp benefits for the injury itself",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-my-job-is-gone-by-the-time-i-m-actually-able-to-go-back-298",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my job is gone by the time I'm actually able to go back?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your position was filled while you were out, you may be eligible for unemployment or vocational retraining. Your workers' comp benefits for the injury itself do not stop just because the job is gone, and you may be entitled to a higher settlement.",
+        "description": "If your specific job is gone when you are finally cleared to work, the employer is usually not required to 'create' a job for you unless you have a contract or union protection. However, if they filled your spot because they needed the labor, they may be required to offer you the next available opening for which you are qualified. In the meantime, you may qualify for unemployment benefits or vocational retraining.\n\nYour workers' comp claim remains active even if the job itself is gone.\n\n- You can still receive PPD (Permanent Partial Disability) payments.\n- This situation often makes your case a candidate for a larger 'lump sum' settlement.\n- You should apply for unemployment and note that you are 'able to work' but your job was eliminated.\n\nIf you suspect you were replaced because the employer was 'tired of dealing with your injury,' this could be a 'constructive discharge' or retaliation. Counsel from Just Work Comp Law can evaluate if a separate lawsuit is warranted."
+      }
+    }
+  ]
+}

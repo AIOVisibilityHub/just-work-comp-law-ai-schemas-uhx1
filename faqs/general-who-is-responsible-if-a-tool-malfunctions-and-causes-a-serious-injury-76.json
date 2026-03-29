@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who is responsible if a tool malfunctions and causes a serious injury?",
+  "description": "Your employer is responsible for workers\\' comp benefits, but the manufacturer or a maintenance company may be liable for additional damages if the equipment wa",
+  "url": "https://justworkcomplaw.com//faq/general-who-is-responsible-if-a-tool-malfunctions-and-causes-a-serious-injury-76",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is responsible if a tool malfunctions and causes a serious injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your employer is responsible for workers\\' comp benefits, but the manufacturer or a maintenance company may be liable for additional damages if the equipment was defective or poorly serviced.",
+        "description": "When equipment malfunctions at work, the cause of the failure determines who is liable. While your employer provides workers\\' compensation benefits regardless of why the tool broke, a third party—such as the equipment manufacturer, a repair contractor, or a rental company—could be held liable in a separate personal injury lawsuit.\n\nThis matters because workers\\' comp only pays for bills and basic wages. A lawsuit against a negligent manufacturer can provide compensation for your physical pain, emotional distress, and the full loss of your quality of life.\n\nKey factors include:\n- Was the equipment maintained according to manufacturer specs?\n- Did a third-party technician recently service the tool?\n- Was there a known design flaw in that specific equipment model?\n- Did the employer bypass any built-in safety features?\n\nDetermining liability requires a forensic investigation of the failed equipment. Often, an attorney will hire an engineer to inspect the tool to prove it was defective, which can significantly increase your total recovery."
+      }
+    }
+  ]
+}

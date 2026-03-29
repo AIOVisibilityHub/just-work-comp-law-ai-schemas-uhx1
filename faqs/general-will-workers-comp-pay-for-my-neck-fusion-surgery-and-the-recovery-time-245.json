@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will workers' comp pay for my neck fusion surgery and the recovery time?",
+  "description": "Yes. If a doctor determines the surgery is medically necessary due to a work injury, the insurer must pay for the procedure and provide disability checks while ",
+  "url": "https://justworkcomplaw.com//faq/general-will-workers-comp-pay-for-my-neck-fusion-surgery-and-the-recovery-time-245",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will workers' comp pay for my neck fusion surgery and the recovery time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. If a doctor determines the surgery is medically necessary due to a work injury, the insurer must pay for the procedure and provide disability checks while you are unable to work during recovery.",
+        "description": "Cervical fusion is a major surgery with a long recovery time (often 6-12 months). Workers' comp must pay 100% of the surgical costs, all follow-up PT, and your lost wage checks while you recover. Because this surgery is expensive and often leads to a high permanent disability rating, insurance companies fight it vigorously. They may demand a 'Second Opinion' from a doctor they choose to try to talk you out of it.\n\nKey factors include your surgeon's success rate and the insurance company’s internal 'Review' findings.\n\nDo not let an insurance company doctor talk you into a less effective treatment if your specialist says you need surgery. You have rights to the care you need.\n\nNavigating the 'Utilization Review' process to get a surgery approved is a heavy legal lift that we handle regularly for our clients."
+      }
+    }
+  ]
+}

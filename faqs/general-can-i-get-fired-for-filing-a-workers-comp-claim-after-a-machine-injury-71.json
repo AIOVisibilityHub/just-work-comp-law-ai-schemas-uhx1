@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get fired for filing a workers comp claim after a machine injury?",
+  "description": "No, it is illegal for an employer to retaliate against you for filing a claim. If you are fired, you may have grounds for a wrongful termination lawsuit alongsi",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-fired-for-filing-a-workers-comp-claim-after-a-machine-injury-71",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get fired for filing a workers comp claim after a machine injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, it is illegal for an employer to retaliate against you for filing a claim. If you are fired, you may have grounds for a wrongful termination lawsuit alongside your injury claim.",
+        "description": "It is illegal for an employer in Utah or Idaho to fire or demote you simply because you filed a workers\\' compensation claim. This is known as \"retaliatory discharge.\" However, because these states are \"at-will\" employment jurisdictions, employers sometimes try to find other \"legal\" reasons to let an injured worker go.\n\nIf you are fired shortly after a machinery accident, you must document every interaction with your boss. If the firing was truly due to your claim, you might have a separate wrongful termination lawsuit in addition to your injury claim.\n\nKey factors include:\n- The timing of the termination relative to your claim.\n- Your previous performance reviews.\n- Statements made by supervisors regarding the accident.\n- Whether other employees were treated differently.\n\nReturning to work under light-duty restrictions is often the best way to protect your job. If you feel you are being targeted for filing a claim, legal intervention can help protect your employment rights while you recover."
+      }
+    }
+  ]
+}

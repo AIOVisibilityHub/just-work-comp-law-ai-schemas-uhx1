@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I didn't report my construction accident right away—am I screwed?",
+  "description": "Not necessarily, but you must act now. While delays provide grounds for denial, you can still win a claim if you have medical proof and a valid reason for the l",
+  "url": "https://justworkcomplaw.com//faq/general-i-didn-t-report-my-construction-accident-right-away-am-i-screwed-50",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I didn't report my construction accident right away—am I screwed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not necessarily, but you must act now. While delays provide grounds for denial, you can still win a claim if you have medical proof and a valid reason for the late report.",
+        "description": "Missing the immediate reporting window is a common mistake, but it doesn't always end your case in Hawaii or Utah. While laws generally require reporting within days (e.g., 30 days in Utah), you may still have a claim if you can prove the employer had 'constructive knowledge' or if there is a valid reason for the delay, such as symptoms not appearing immediately. However, delays give insurance companies an excuse to claim the injury happened off-site. You should report it as soon as you realize the connection to work, even if time has passed. Medical evidence linking the injury to the job site becomes critical in these 'late-report' scenarios. An attorney can help frame the explanation to the Workers' Compensation Board to avoid a summary denial."
+      }
+    }
+  ]
+}

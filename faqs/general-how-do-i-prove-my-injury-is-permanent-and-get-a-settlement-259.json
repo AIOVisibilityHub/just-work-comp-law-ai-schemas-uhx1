@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prove my injury is permanent and get a settlement?",
+  "description": "You prove permanent disability through a medical 'impairment rating' once you reach Maximum Medical Improvement. This rating determines your eligibility for a s",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-prove-my-injury-is-permanent-and-get-a-settlement-259",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prove my injury is permanent and get a settlement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You prove permanent disability through a medical 'impairment rating' once you reach Maximum Medical Improvement. This rating determines your eligibility for a settlement based on the percentage of permanent loss of function.",
+        "description": "Proving a permanent disability requires a medical determination that you have reached Maximum Medical Improvement (MMI) and still possess a lasting physical or mental impairment. Once your healing has plateaued, a doctor will perform an impairment rating exam using the AMA Guides to the Evaluation of Permanent Impairment. This results in a percentage rating (e.g., a 10% whole-body impairment), which translates into a specific dollar amount based on state law.\n\nThe evidence you need:\n- Comprehensive medical records from your primary treating physician.\n- A formal Permanent Partial Disability (PPD) rating.\n- Vocational assessments if you cannot return to your previous line of work.\n\nDo not assume the insurance company’s doctor will give you a fair rating. They often downplay the severity of permanent restrictions. You have the right to a second opinion, and an attorney can help ensure the rating accurately reflects your life-long limitations. Proper documentation of how the injury affects daily life is crucial."
+      }
+    }
+  ]
+}

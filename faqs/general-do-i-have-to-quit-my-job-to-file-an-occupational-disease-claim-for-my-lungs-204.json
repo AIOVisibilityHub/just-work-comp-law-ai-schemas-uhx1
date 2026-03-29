@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I have to quit my job to file an occupational disease claim for my lungs?",
+  "description": "No, you can file while still employed. In fact, filing while employed can sometimes offer you more protections under disability laws, though you may need medica",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-have-to-quit-my-job-to-file-an-occupational-disease-claim-for-my-lungs-204",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I have to quit my job to file an occupational disease claim for my lungs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, you can file while still employed. In fact, filing while employed can sometimes offer you more protections under disability laws, though you may need medical restrictions to move you away from the environment that caused the illness.",
+        "description": "You do not have to quit to file a claim, but you may need \"restrictions.\" If your doctor says you can no longer work in the dusty or noisy environment that caused your disease, your employer is supposed to accommodate you or pay you \"Total Temporary Disability\" (TTD) benefits while you are off work. If they can\\'t accommodate your restrictions, you may be eligible for vocational rehabilitation to learn a new trade. Be careful: many employers will try to force you out once you file. If that happens, you may have a claim for both workers\\' comp and disability discrimination. We help our clients stay employed or maximize their benefits if they truly cannot return to that environment."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will workers' comp pay for me to learn a new trade if I can’t do my old job?",
+  "description": "You may be eligible for vocational rehabilitation or increased disability settlements if your injury prevents you from returning to your career field. This ofte",
+  "url": "https://justworkcomplaw.com//faq/general-will-workers-comp-pay-for-me-to-learn-a-new-trade-if-i-can-t-do-my-old-job-288",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will workers' comp pay for me to learn a new trade if I can’t do my old job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You may be eligible for vocational rehabilitation or increased disability settlements if your injury prevents you from returning to your career field. This often involves 'loss of earning capacity' calculations to compensate for your reduced ability to make a living.",
+        "description": "If you cannot return to your previous career due to a permanent work injury, you may be eligible for vocational rehabilitation or 'retraining' benefits. In Utah, this is often handled through the Utah State Office of Rehabilitation. While workers' comp insurance doesn't always automatically pay for a new college degree, they may be liable for increased permanent partial disability (PPD) payments or 'loss of future earning capacity' settlements if you can no longer earn what you did before.\n\nThe value of your claim increases if the injury forced you out of a high-paying skilled trade into a lower-paying entry-level job.\n\n- Vocational evaluations determine your transferrable skills.\n- Education and age are factors in 'permanent total disability' (PTD) cases.\n- Loss of earning capacity is a major component of large settlements.\n\nYou should ask your doctor for a 'permanent restrictions' statement to trigger the discussion about retraining. Expert legal help is usually needed to force insurance companies to pay for vocational transitions."
+      }
+    }
+  ]
+}

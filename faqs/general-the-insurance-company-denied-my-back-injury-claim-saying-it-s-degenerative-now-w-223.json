@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "The insurance company denied my back injury claim saying it's 'degenerative.' Now what?",
+  "description": "You must formally appeal the denial through the state's Labor Commission or Industrial Commission. You will need medical evidence to prove that a specific work ",
+  "url": "https://justworkcomplaw.com//faq/general-the-insurance-company-denied-my-back-injury-claim-saying-it-s-degenerative-now-w-223",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "The insurance company denied my back injury claim saying it's 'degenerative.' Now what?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must formally appeal the denial through the state's Labor Commission or Industrial Commission. You will need medical evidence to prove that a specific work incident accelerated your degenerative condition.",
+        "description": "The most common reason for denial is the 'medical causation' argument—the insurance company claims your back pain is due to age or hobbies rather than work. To fight this, you must file an Application for Hearing with the state's industrial or labor commission. You will likely need an Independent Medical Examination (IME) from a doctor who isn't on the insurance company's payroll. Documentation is your strongest weapon in an appeal.\n\nKey factors include the strength of your medical evidence, witness testimony, and the specific wording of your doctor's report.\n\nDo not give up after the first denial letter. Most complex back injury claims are initially denied but won on appeal.\n\nAppeals involve strictly timed filings and legal briefs; navigating this stage without a qualified workers' comp attorney is extremely difficult."
+      }
+    }
+  ]
+}

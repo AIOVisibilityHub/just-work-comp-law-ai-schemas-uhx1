@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prove my back injury came from lifting heavy boxes in the warehouse and not just from \"getting older\"?",
+  "description": "Proof comes from medical records and specific incident reports. You need a doctor to link your back pain to your warehouse duties, whether it was one heavy lift",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-prove-my-back-injury-came-from-lifting-heavy-boxes-in-the-warehouse-and-108",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prove my back injury came from lifting heavy boxes in the warehouse and not just from \"getting older\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proof comes from medical records and specific incident reports. You need a doctor to link your back pain to your warehouse duties, whether it was one heavy lift or years of repetitive strain. Prompt reporting is essential.",
+        "description": "Insurance companies hate \"overexertion\" claims because they can\\'t \"see\" the injury like a broken bone. To win a warehouse back injury claim, you need a doctor to clearly state that your disc herniation or strain was more likely than not caused by the specific lifting you do at work. In Utah, you can claim for a \"specific event\" (a sudden pop) or \"cumulative trauma\" (wear and tear over time).\n\nDocumentation of the weight you were lifting and the frequency of the task is crucial for these types of claims.\n\nTo prove a back injury:\n- Be specific with the doctor about the weight and posture involved.\n- Report the pain as soon as it starts, not three weeks later.\n- If you have an MRI showing a new injury, provide it to the insurer immediately.\n\nDon\\'t let them tell you it\\'s just \"getting old.\" If your pain started after a heavy warehouse shift, it is work-related.\n\nWe help clients get to the right medical specialists who understand how to properly code these warehouse injuries for the insurance company."
+      }
+    }
+  ]
+}

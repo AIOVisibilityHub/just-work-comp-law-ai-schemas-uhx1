@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My claim was denied because they say my condition is 'non-occupational'—what now?",
+  "description": "You must file an appeal for a formal hearing before your state\\'s labor commission. This involves presenting new medical evidence and expert testimony to overco",
+  "url": "https://justworkcomplaw.com//faq/general-my-claim-was-denied-because-they-say-my-condition-is-non-occupational-what-now-201",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My claim was denied because they say my condition is 'non-occupational'—what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must file an appeal for a formal hearing before your state\\'s labor commission. This involves presenting new medical evidence and expert testimony to overcome the insurance company\\'s denial. Most successful occupational disease claims require this litigation phase.",
+        "description": "A \"denial of causation\" is the most common reason these claims fail. If the insurance company argues your back pain or illness is pre-existing or age-related, you must request a formal hearing before the Utah Labor Commission or the Idaho Industrial Commission. At this stage, you are essentially in a trial. You will need to present medical expert testimony and cross-examine the insurance company's hand-picked doctors. Many people give up here, which is what the insurer wants. We specialize in appealing these denials by finding the flaws in the insurer\\'s \"Independent Medical Exam\" and presenting a more credible medical narrative. A lawyer is statistically much more likely to win these hearings than a person representing themselves."
+      }
+    }
+  ]
+}

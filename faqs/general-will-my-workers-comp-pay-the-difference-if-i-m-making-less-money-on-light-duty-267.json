@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will my workers' comp pay the difference if I'm making less money on light duty?",
+  "description": "Yes, you are usually entitled to Temporary Partial Disability (TPD) benefits, which cover a portion (typically 2/3) of the difference between your pre-injury wa",
+  "url": "https://justworkcomplaw.com//faq/general-will-my-workers-comp-pay-the-difference-if-i-m-making-less-money-on-light-duty-267",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will my workers' comp pay the difference if I'm making less money on light duty?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you are usually entitled to Temporary Partial Disability (TPD) benefits, which cover a portion (typically 2/3) of the difference between your pre-injury wages and your current light duty earnings.",
+        "description": "If your light duty position pays less than your pre-injury job, you are likely entitled to 'Temporary Partial Disability' (TPD) benefits. This typically covers two-thirds of the difference between your old check and your new, smaller check. This ensures that an injury doesn't result in a sudden financial catastrophe while you are trying to be productive.\n\nCalculations depend on your 'Average Weekly Wage' from the 52 weeks prior to the injury and your current gross earnings.\n\nKeep every single pay stub from your light duty work and compare them to your pre-injury earnings. Report any shortfalls to the insurance carrier immediately.\n\nIf the insurance company is failing to calculate the 'differential' pay correctly, an attorney can audit your records to recover the underpayment."
+      }
+    }
+  ]
+}

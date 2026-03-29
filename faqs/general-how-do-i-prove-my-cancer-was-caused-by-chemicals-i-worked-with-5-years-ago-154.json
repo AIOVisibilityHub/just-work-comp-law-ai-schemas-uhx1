@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prove my cancer was caused by chemicals I worked with 5 years ago?",
+  "description": "Proving long-term illness requires \"medical causation\" evidence from specialized doctors, such as toxicologists. They must link your specific workplace exposure",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-prove-my-cancer-was-caused-by-chemicals-i-worked-with-5-years-ago-154",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prove my cancer was caused by chemicals I worked with 5 years ago?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proving long-term illness requires \"medical causation\" evidence from specialized doctors, such as toxicologists. They must link your specific workplace exposure to your current diagnosis, often by reviewing safety data and exposure levels.",
+        "description": "Proving that a specific chemical caused a long-term illness like cancer or chronic lung disease is complex. In Utah and Idaho, you must show \"medical causation\"—meaning a doctor must testify that your work exposure was the \"probable\" cause of your condition. This usually requires a toxicologist or an occupational medicine specialist to review your work history and the chemicals you handled.\n\nThe \"latency period\" (the time between exposure and getting sick) is a major factor. If you worked with solvents 10 years ago and were just diagnosed, you must bridge that time gap with expert testimony.\n\nKey factors include the concentration of the chemical, the frequency of exposure, and any lack of provided PPE. Having a history of smoking or other habits doesn't automatically disqualify you, but it makes the \"causation\" argument harder. An attorney is essential here to hire the right experts to connect your illness to your job. Without expert medical backing, these claims are almost always denied by insurance companies. Proving the \"unseen\" injury requires a scientific approach."
+      }
+    }
+  ]
+}

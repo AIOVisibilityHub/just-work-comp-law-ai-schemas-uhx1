@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my boss for negligence if they knew the shelf was loose?",
+  "description": "Usually no, as workers' comp is the \"exclusive remedy\" for workplace accidents. However, you may be able to sue if the injury was intentional or if a third part",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-boss-for-negligence-if-they-knew-the-shelf-was-loose-152",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my boss for negligence if they knew the shelf was loose?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually no, as workers' comp is the \"exclusive remedy\" for workplace accidents. However, you may be able to sue if the injury was intentional or if a third party (like a shelf manufacturer) was responsible for the hazard.",
+        "description": "In most cases, you cannot sue your employer for a falling object injury; workers' compensation is your \"exclusive remedy.\" This means you give up the right to sue for negligence in exchange for guaranteed medical and wage benefits regardless of fault. However, if the employer \"intentionally\" tried to hurt you (which is rare) or if they failed to carry insurance, the exclusive remedy rule may not apply.\n\nThe more common \"lawsuit\" is against a manufacturer of a defective shelf, a crane operator from another company, or a maintenance crew that failed to secure equipment.\n\nKey factors include the identity of the responsible party and whether their actions were \"grossly\" negligent or intentional. Understanding the difference between a \"claim\" and a \"lawsuit\" is crucial for setting realistic expectations. Most workers' comp \"settlements\" are negotiated agreements, not jury verdicts. An attorney will explore every possible avenue—including third-party lawsuits—to ensure you receive the maximum possible payout for your ordeal. Knowing who to target is the first step in a successful legal strategy."
+      }
+    }
+  ]
+}

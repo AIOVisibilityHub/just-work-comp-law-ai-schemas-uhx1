@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I\\'m scared to file for my forklift injury because I think my boss will fire me. Are there protections for workers?",
+  "description": "It is illegal to fire an employee specifically for filing a workers\\' comp claim. If you are injured and can\\'t work, you are entitled to benefits, and retaliat",
+  "url": "https://justworkcomplaw.com//faq/general-i-m-scared-to-file-for-my-forklift-injury-because-i-think-my-boss-will-fire-me-a-94",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I\\'m scared to file for my forklift injury because I think my boss will fire me. Are there protections for workers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is illegal to fire an employee specifically for filing a workers\\' comp claim. If you are injured and can\\'t work, you are entitled to benefits, and retaliation can lead to separate legal penalties for the employer.",
+        "description": "It is illegal for an employer in Utah or Idaho to fire or demote you solely for filing a workers\\' compensation claim. This is known as \"retaliatory discharge.\" However, laws regarding \"light duty\" can be tricky. If your doctor clears you for sedentary work and your employer offers you a position that fits those restrictions, you generally must accept it or lose your wage benefits.\n\nIf you are fired while on workers\\' comp, it may be because of a genuine warehouse layoff or \"at-will\" employment rules, but the timing is often highly suspicious.\n\nYour rights include:\n- Protection against direct retaliation for claiming benefits.\n- The right to receive wage benefits (TTD) if the employer can\\'t accommodate your restrictions.\n- The right to \"reasonable accommodation\" under the ADA in some cases.\n\nKeep a log of all interactions with your boss after the accident. If they start treating you differently or mention the \"cost\" of your claim, document it.\n\nIf your employer fires you while you are recovering, a lawyer can investigate whether this was illegal retaliation or an attempt to stop your benefits."
+      }
+    }
+  ]
+}

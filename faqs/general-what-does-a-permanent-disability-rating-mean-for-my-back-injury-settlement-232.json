@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a 'permanent disability rating' mean for my back injury settlement?",
+  "description": "PPD is a percentage rating assigned by a doctor once you've reached maximum healing. This rating determines the amount of compensation you receive for the perma",
+  "url": "https://justworkcomplaw.com//faq/general-what-does-a-permanent-disability-rating-mean-for-my-back-injury-settlement-232",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a 'permanent disability rating' mean for my back injury settlement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PPD is a percentage rating assigned by a doctor once you've reached maximum healing. This rating determines the amount of compensation you receive for the permanent loss of body function caused by your back injury.",
+        "description": "A permanent disability rating (PPD) occurs when your back has healed as much as it's going to, but you still have lasting limitations. A doctor uses the AMA Guides to determine what percentage of your body is 'impaired.' For example, a 10% whole-body impairment for a back injury transforms into a specific dollar amount based on state law. This is paid out even if you return to work.\n\nKey factors include the severity of your injury (e.g., whether you had surgery) and the state's current payout schedule.\n\nNever accept the first rating the insurance company’s doctor gives you. Often, these ratings are lower than what an independent specialist would find.\n\nAttorneys often hire independent experts to perform a 'rating exam' to ensure our clients receive the maximum possible PPD settlement."
+      }
+    }
+  ]
+}

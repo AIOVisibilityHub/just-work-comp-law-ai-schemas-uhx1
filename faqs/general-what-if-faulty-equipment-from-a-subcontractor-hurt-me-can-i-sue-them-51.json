@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if faulty equipment from a subcontractor hurt me—can I sue them?",
+  "description": "Yes. You can collect workers' comp from your employer AND file a third-party personal injury lawsuit against the negligent subcontractor or equipment manufactur",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-faulty-equipment-from-a-subcontractor-hurt-me-can-i-sue-them-51",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if faulty equipment from a subcontractor hurt me—can I sue them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. You can collect workers' comp from your employer AND file a third-party personal injury lawsuit against the negligent subcontractor or equipment manufacturer for additional damages.",
+        "description": "If a subcontractor’s faulty equipment or a manufacturer’s defective tool caused your injury on a Utah site, you likely have two separate legal paths. First, you file a workers' compensation claim through your own employer for immediate medical and wage benefits. Second, you can file a 'third-party liability' lawsuit against the subcontractor or manufacturer. This is crucial because workers' comp does not pay for 'pain and suffering,' but a third-party lawsuit does. These cases often involve complex 'indemnity' contracts between various companies on the site. Identifying every potential defendant is the key to full financial recovery. A lawyer's role is to manage both claims simultaneously without letting one jeopardize the other."
+      }
+    }
+  ]
+}

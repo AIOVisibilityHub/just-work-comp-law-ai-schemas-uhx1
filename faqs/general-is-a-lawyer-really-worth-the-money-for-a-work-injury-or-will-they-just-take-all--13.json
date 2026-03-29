@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is a lawyer really worth the money for a work injury, or will they just take all my settlement?",
+  "description": "Lawyers work on contingency, meaning they only get paid if you win. Their fees are legally capped and they often secure much higher payouts than individuals can",
+  "url": "https://justworkcomplaw.com//faq/general-is-a-lawyer-really-worth-the-money-for-a-work-injury-or-will-they-just-take-all--13",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is a lawyer really worth the money for a work injury, or will they just take all my settlement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lawyers work on contingency, meaning they only get paid if you win. Their fees are legally capped and they often secure much higher payouts than individuals can obtain on their own.",
+        "description": "While you aren't legally required to have a lawyer, the \"system\" is designed to be difficult to navigate alone. Statistics shows that represented workers generally receive significantly higher settlements than those who go it alone. You should definitely hire a lawyer if: 1) Your claim was denied. 2) The doctor says you need surgery. 3) You cannot return to your old job. 4) The insurance company is pressuring you to sign a settlement. Because workers' comp lawyers work on a \"contingency fee\" basis (a percentage of what they win for you), there is no up-front cost. In Utah, these fees are also capped and must be approved by the Labor Commission. Essentially, if your injury is serious, a lawyer pays for themselves by finding hidden benefits."
+      }
+    }
+  ]
+}

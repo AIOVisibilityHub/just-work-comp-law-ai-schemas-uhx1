@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the average settlement for a work-related chemical exposure or illness in Utah?",
+  "description": "Settlements vary based on your impairment rating, future medical needs, and lost wages. In Utah, you are entitled to medical coverage and disability payments ba",
+  "url": "https://justworkcomplaw.com//faq/general-what-is-the-average-settlement-for-a-work-related-chemical-exposure-or-illness-i-212",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the average settlement for a work-related chemical exposure or illness in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Settlements vary based on your impairment rating, future medical needs, and lost wages. In Utah, you are entitled to medical coverage and disability payments based on the level of permanent damage documented by a doctor.",
+        "description": "Occupational disease settlements depend on the severity of the illness, the cost of future medical care, and your \"Impairment Rating.\" If a chemical exposure in Salt Lake City results in permanent lung scarring, you are entitled to Permanent Partial Disability (PPD) benefits. These are calculated based on a percentage of your body's function lost. You also get 100% coverage for related medical bills and roughly two-thirds of your lost wages while you can't work. For \"catastrophic\" illnesses like cancer, the value increases significantly to cover lifetime care. There is no \"average\" because every body reacts differently to toxins. A lawyer ensures the insurance company doesn't lowball your impairment percentage."
+      }
+    }
+  ]
+}

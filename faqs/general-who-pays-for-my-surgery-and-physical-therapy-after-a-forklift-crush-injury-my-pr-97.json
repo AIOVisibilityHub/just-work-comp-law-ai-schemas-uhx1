@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who pays for my surgery and physical therapy after a forklift crush injury? My private insurance says they won\\'t cover it.",
+  "description": "Workers\\' compensation insurance is responsible for 100% of your medical bills related to a workplace injury, with no co-pays or deductibles for you. Private in",
+  "url": "https://justworkcomplaw.com//faq/general-who-pays-for-my-surgery-and-physical-therapy-after-a-forklift-crush-injury-my-pr-97",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who pays for my surgery and physical therapy after a forklift crush injury? My private insurance says they won\\'t cover it.",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers\\' compensation insurance is responsible for 100% of your medical bills related to a workplace injury, with no co-pays or deductibles for you. Private insurance often denies these claims because they are legally the employer\\'s responsibility.",
+        "description": "In Utah and Idaho, workers\\' compensation is designed to cover all \"reasonable and necessary\" medical treatment related to your work injury. This includes surgery, physical therapy, medications, and even mileage to and from doctor appointments. However, the insurance company often uses their own doctors to perform \"Independent Medical Exams\" (IMEs) to argue that you don\\'t actually need that surgery or those PT sessions.\n\nYou should not have any \"out-of-pocket\" costs for co-pays or deductibles if the claim is accepted.\n\nMedical coverage includes:\n- Emergency room visits and diagnostic imaging (MRIs, CT scans).\n- Specialist consultations (Orthopedic surgeons, Pain Management).\n- Medical equipment like braces, crutches, or wheelchairs.\n\nEnsure every doctor you see knows the injury is a \"Workers Comp\" case. If they try to bill your private health insurance, it can create a massive paperwork mess later.\n\nLawyers help by challenging \"IME\" doctors who try to cut off your medical treatment prematurely."
+      }
+    }
+  ]
+}

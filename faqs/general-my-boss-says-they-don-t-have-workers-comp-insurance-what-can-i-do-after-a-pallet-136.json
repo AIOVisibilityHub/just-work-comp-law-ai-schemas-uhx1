@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss says they don't have workers comp insurance. What can I do after a pallet crushed my foot?",
+  "description": "If your employer is illegally uninsured, you may be able to sue them directly for full damages or file a claim through the state's Uninsured Employers Fund. Do ",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-says-they-don-t-have-workers-comp-insurance-what-can-i-do-after-a-pallet-136",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss says they don't have workers comp insurance. What can I do after a pallet crushed my foot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your employer is illegally uninsured, you may be able to sue them directly for full damages or file a claim through the state's Uninsured Employers Fund. Do not accept a \"no insurance\" excuse; consult a lawyer to explore your legal options for compensation.",
+        "description": "If your employer in Boise or any part of Idaho claims they don't have workers' compensation insurance, they are likely in violation of state law. Most employers with one or more employees are required to carry this coverage. If they are illegally uninsured and you are hit by a falling pallet, you may have the right to sue them directly in civil court for damages, including pain and suffering, which is usually not allowed under workers' comp.\n\nAlternatively, Idaho has an Uninsured Employers Fund (UEF) designed to provide benefits when a company fails to protect its workers. Being in this situation is legally complex because you are fighting an employer who has already shown a disregard for the law.\n\nKey factors involve the employer's legal status, the severity of your injuries, and the cause of the falling object. You should not take your boss's word for it that you \"have no options.\" A lawyer can investigate their insurance status and determine if a personal injury lawsuit or a state fund claim is the better path for recovery."
+      }
+    }
+  ]
+}

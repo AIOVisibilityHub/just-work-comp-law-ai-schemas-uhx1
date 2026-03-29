@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I document a shelf collapse so my injury claim doesn't get denied?",
+  "description": "Take photos of the collapsed shelf and the object that hit you. Save witness contact information and ensure every medical record explicitly links your injury to",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-document-a-shelf-collapse-so-my-injury-claim-doesn-t-get-denied-145",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I document a shelf collapse so my injury claim doesn't get denied?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Take photos of the collapsed shelf and the object that hit you. Save witness contact information and ensure every medical record explicitly links your injury to the workplace event. Documentation is key to overcoming insurance company denials.",
+        "description": "When a shelf collapses or equipment fails, you need to preserve the evidence immediately. This means taking photos of the broken shelf, the debris, and any frayed cables or loose bolts. Do not let the company \"throw away\" the object that hit you if possible. You should also request copies of any safety reports or OSHA logs the company is required to keep.\n\nMedical records are the most important \"documentation.\" Every time you see a doctor, ensure the record specifically says \"injured by falling object at work.\" Any inconsistency in these records will be used against you.\n\nKey factors include physical evidence, witness statements, and consistent medical history. Keeping a \"pain journal\" that tracks how the injury affects your daily life can also be powerful evidence during settlement negotiations. If the employer refuses to provide safety data or video footage, your lawyer can issue a subpoena to force them to hand it over. Proper documentation is the difference between a denied claim and a successful one."
+      }
+    }
+  ]
+}

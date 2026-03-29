@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If I was lifting correctly but still got hurt, does workers comp still cover me?",
+  "description": "Yes. Workers' compensation is not based on fault or mistakes. Even if you followed all safety protocols and used perfect form, if the exertion caused an injury ",
+  "url": "https://justworkcomplaw.com//faq/general-if-i-was-lifting-correctly-but-still-got-hurt-does-workers-comp-still-cover-me-23",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If I was lifting correctly but still got hurt, does workers comp still cover me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Workers' compensation is not based on fault or mistakes. Even if you followed all safety protocols and used perfect form, if the exertion caused an injury like a muscle tear or disc herniation, you are entitled to benefits.",
+        "description": "In Utah and Idaho, you generally do NOT have to prove that the work task was \"unusually heavy\" or that your employer was negligent. You only need to show that your injury was \"medically caused\" by the work activity. If you were doing your job exactly as trained but your back seized up, you are still covered. The \"cumulative trauma\" or overexertion doesn't require a mistake to be compensable.\n\nThe standard is whether the work exertion was a significant contributing factor to the injury.\n\nFactors include your medical history and the specific biomechanics of the movement you were performing.\n\nDo not let your boss tell you that \"accidents happen\" and it's not their fault. Workers' comp doesn't care whose fault it was. Focus on getting a clear medical diagnosis. If the insurer tries to use your proper technique against you (saying \"you couldn't have been hurt if you lifted right\"), an attorney can help debunk that argument with medical experts."
+      }
+    }
+  ]
+}

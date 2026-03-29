@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "They denied my carpal tunnel claim saying it's from home workouts—how do I prove it's from my job?",
+  "description": "You overturn a denial by providing a medical opinion that specifically compares your work motions to your outside activities, proving work is the primary cause.",
+  "url": "https://justworkcomplaw.com//faq/general-they-denied-my-carpal-tunnel-claim-saying-it-s-from-home-workouts-how-do-i-prove-39",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "They denied my carpal tunnel claim saying it's from home workouts—how do I prove it's from my job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You overturn a denial by providing a medical opinion that specifically compares your work motions to your outside activities, proving work is the primary cause. Nerve conduction tests and ergonomic reports are key evidence in these disputes.",
+        "description": "To fight a carpal tunnel denial, you need a \"medical causation\" report. If they say it's from workouts, your doctor needs to explain why scanning boxes for 8 hours a day is a more significant factor than a 1-hour gym session. This often involves looking at the specific ergonomics, the number of repetitions per minute, and the lack of recovery time during the workday.\n\nInsurance companies use \"hobbies\" as a distraction to avoid paying for workplace wear-and-tear.\n\nKey Factors:\n- Comparison of repetitive motion in work vs. leisure activities.\n- Electromyography (EMG) or nerve conduction study results.\n- Occupational medicine expertise.\n\nRequest a copy of your full claim file to see exactly which doctor or adjuster made the \"workout\" claim. \n\nOur firm works with medical experts who specialize in workplace ergonomics to provide the clinical proof needed to overturn these common denials."
+      }
+    }
+  ]
+}

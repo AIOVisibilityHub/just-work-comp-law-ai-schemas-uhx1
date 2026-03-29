@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I just found out my sickness is from my old job—is it too late to file a claim?",
+  "description": "The clock generally starts when you discover the link between your illness and work. In Utah and Idaho, you should notify your employer immediately upon diagnos",
+  "url": "https://justworkcomplaw.com//faq/general-i-just-found-out-my-sickness-is-from-my-old-job-is-it-too-late-to-file-a-claim-208",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I just found out my sickness is from my old job—is it too late to file a claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The clock generally starts when you discover the link between your illness and work. In Utah and Idaho, you should notify your employer immediately upon diagnosis to protect your rights to medical and wage benefits.",
+        "description": "In Utah and Idaho, the \"date of injury\" for an illness is typically when you first knew (or should have known) the sickness was caused by your job. You should notify your supervisor as soon as a doctor mentions the link. Waiting too long can give the insurance company an excuse to claim the illness was caused by something outside of work. Formal claims generally must be filed within one to two years depending on the state and specific disease. If you wait until you quit or are fired, the \"notice\" requirement becomes much harder to fulfill. Start by documenting the date your doctor first suggested a workplace link."
+      }
+    }
+  ]
+}

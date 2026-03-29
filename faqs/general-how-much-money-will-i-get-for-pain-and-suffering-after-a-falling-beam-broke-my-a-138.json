@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much money will I get for pain and suffering after a falling beam broke my arm?",
+  "description": "Workers' comp does not pay for \"pain and suffering,\" but it does cover medical bills, lost wages, and permanent disability. If a third party was responsible, yo",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-money-will-i-get-for-pain-and-suffering-after-a-falling-beam-broke-my-a-138",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much money will I get for pain and suffering after a falling beam broke my arm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers' comp does not pay for \"pain and suffering,\" but it does cover medical bills, lost wages, and permanent disability. If a third party was responsible, you may be able to sue for pain and suffering through a separate personal injury claim.",
+        "description": "Pain and suffering is generally not a recoverable \"damage\" in a standard workers' compensation claim in Idaho or Utah. Workers' comp is designed to cover economic losses: your medical bills, a percentage of your lost wages, and permanent impairment ratings. It does not provide money for the physical distress or \"mental anguish\" caused by a falling object hitting you.\n\nHowever, if your injury was caused by a third party (not your employer or a coworker), you can file a personal injury lawsuit where pain and suffering are compensable. Furthermore, if the \"strike\" caused a permanent disability, you receive a \"Permanent Partial Disability\" (PPD) rating, which is a lump sum based on the severity of your physical loss.\n\nKey factors include the permanent impact on your body and the involvement of outside parties. While the base workers' comp system seems limited, an attorney can often find ways to increase the total settlement value through impairment ratings and vocational rehabilitation benefits."
+      }
+    }
+  ]
+}

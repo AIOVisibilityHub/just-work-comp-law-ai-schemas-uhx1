@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I was using the tool incorrectly when it broke?",
+  "description": "You are still eligible for workers\\' comp even if you used a tool incorrectly, as long as the injury wasn\\'t intentional. However, misuse could impact a separat",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-i-was-using-the-tool-incorrectly-when-it-broke-84",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I was using the tool incorrectly when it broke?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You are still eligible for workers\\' comp even if you used a tool incorrectly, as long as the injury wasn\\'t intentional. However, misuse could impact a separate lawsuit against the manufacturer.",
+        "description": "Even if you weren\\'t following every rule perfectly, you can still get workers\\' comp for an equipment injury. In Utah and Idaho, your benefits are not barred by \"contributory negligence.\" The only way you lose benefits is if the injury was caused by intoxication or a deliberate attempt to hurt yourself.\n\nHowever, the insurance company may try to use your \"misuse\" of the tool to deny a third-party claim against the manufacturer. They will argue the tool didn\\'t fail; you broke it.\n\nKey factors include:\n- Whether you were properly trained on the tool.\n- If the tool was missing safety guards provided by the employer.\n- Statements you made immediately after the accident.\n- The company’s history of enforcing safety rules.\n\nBe very careful what you say to insurance adjusters. They will try to lead you into admitting you used the equipment \"wrong.\" Stick to the facts: the tool malfunctioned while you were doing your job."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I have to see the company doctor for my breathing problems?",
+  "description": "Usually, yes, the employer or their insurer has the right to pick the initial doctor in Utah and Idaho. However, you have rights to seek a second opinion or a o",
+  "url": "https://justworkcomplaw.com//faq/work-related-illness-do-i-have-to-see-the-company-doctor-for-my-breathing-problems-197",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I have to see the company doctor for my breathing problems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually, yes, the employer or their insurer has the right to pick the initial doctor in Utah and Idaho. However, you have rights to seek a second opinion or a one-time change of physician if the company doctor is biased or providing inadequate care.",
+        "description": "In Utah, the employer has the right to choose the initial treating physician for your work-related illness. If you go to your own doctor first, the insurance company might refuse to pay those specific bills. However, you often have the right to request a change of doctor or get an Independent Medical Examination (IME) if the company doctor downplays your breathing issues. In Idaho, the rules are similar, but there are specific ways to get \"second opinions\" approved by the Industrial Commission. Never let the company doctor convince you that \"it's just allergies\" if you know it's not. An attorney can help you navigate the \"panel\" of doctors to ensure you see a specialist who understands occupational lung disease."
+      }
+    }
+  ]
+}

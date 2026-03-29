@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I get paid for the time I'm missing work after my fall?",
+  "description": "You are entitled to Temporary Total Disability benefits, which pay roughly 66% of your pre-tax wages while you are unable to work. You must provide consistent m",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-get-paid-for-the-time-i-m-missing-work-after-my-fall-15",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I get paid for the time I'm missing work after my fall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You are entitled to Temporary Total Disability benefits, which pay roughly 66% of your pre-tax wages while you are unable to work. You must provide consistent medical excuses to keep these checks coming.",
+        "description": "When you are out of work due to a fall injury, you are entitled to Temporary Total Disability (TTD) benefits. These payments are typically two-thirds of your average weekly wage, up to a state-mandated maximum. In Utah, these benefits continue until you are cleared to work or reach MMI. If the insurance company is slow to pay, they may be liable for interest and penalties. You must ensure your doctor is providing \"work status\" notes at every visit, or the insurance company will stop the checks. If there is a delay in your check, an attorney can file a motion for an emergency hearing to force the payment. Living without a paycheck is the hardest part of an injury; don't wait weeks for them to \"process\" your file."
+      }
+    }
+  ]
+}

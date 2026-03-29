@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My warehouse boss is pressuring me not to file a claim because it will hurt the \"safety bonus.\" What should I do?",
+  "description": "File the claim anyway. It is illegal for an employer to discourage or retaliate against you for seeking workers\\' comp. Protecting your health and future income",
+  "url": "https://justworkcomplaw.com//faq/general-my-warehouse-boss-is-pressuring-me-not-to-file-a-claim-because-it-will-hurt-the--116",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My warehouse boss is pressuring me not to file a claim because it will hurt the \"safety bonus.\" What should I do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "File the claim anyway. It is illegal for an employer to discourage or retaliate against you for seeking workers\\' comp. Protecting your health and future income is more important than a supervisor\\'s bonus.",
+        "description": "It is illegal for an employer to retaliate against you for filing a workers\\' comp claim. If they fire you, cut your hours, or move you to a \"dead-end\" shift because you got hurt, they are violating the law. However, they *can* fire you for unrelated reasons, such as a general warehouse layoff or if you violate a policy that is strictly enforced for everyone.\n\nThe timing of the firing is the most important factor. If you are fired three days after filing a claim, the law often presumes it was retaliatory.\n\nIf you feel pressured:\n- Save every text or email from your boss about your injury.\n- If they ask you \"not to file,\" record the date and time of that conversation.\n- If you are fired, ask for the reason in writing.\n\nYour priority is your health. If you are afraid to file, you are essentially giving the insurance company a \"gift\" of free money that you are legally owed for your recovery.\n\nWe help workers stand up to big warehouse employers who try to bully their staff into not using the benefits the law requires them to have."
+      }
+    }
+  ]
+}

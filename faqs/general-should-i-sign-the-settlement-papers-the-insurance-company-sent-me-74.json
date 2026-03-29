@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I sign the settlement papers the insurance company sent me?",
+  "description": "Never sign settlement papers until you have reached Maximum Medical Improvement (MMI) and a lawyer has reviewed the terms. Signing early can permanently bar you",
+  "url": "https://justworkcomplaw.com//faq/general-should-i-sign-the-settlement-papers-the-insurance-company-sent-me-74",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I sign the settlement papers the insurance company sent me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Never sign settlement papers until you have reached Maximum Medical Improvement (MMI) and a lawyer has reviewed the terms. Signing early can permanently bar you from getting future medical care paid for.",
+        "description": "No, you should never sign a settlement or a \"full and final release\" until you have reached Maximum Medical Improvement (MMI). MMI is the point where a doctor decides your condition won\\'t get any better with more treatment. If you sign early and later need surgery, the insurance company will not pay for it.\n\nMany machinery accidents result in internal damage or nerve issues that don\\'t show up immediately. Signing away your rights for a quick check is the most common mistake injured workers make.\n\nKey factors include:\n- Your current doctor’s assessment of your recovery.\n- The likelihood of needing future surgeries or PT.\n- Whether you can return to your previous job duties.\n- The total value of your long-term lost wages.\n\nBefore signing anything from an insurance adjuster, have a lawyer review the document. They can ensure that you are leaving medical \"buckets\" open for future care and that the settlement amount truly reflects your lifetime loss."
+      }
+    }
+  ]
+}

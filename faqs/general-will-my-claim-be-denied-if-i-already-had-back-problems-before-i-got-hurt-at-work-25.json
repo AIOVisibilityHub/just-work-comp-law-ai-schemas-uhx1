@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will my claim be denied if I already had back problems before I got hurt at work?",
+  "description": "Not necessarily. If a work-related exertion \"aggravates\" or \"accelerates\" a pre-existing condition, it is still a covered injury. You are entitled to benefits i",
+  "url": "https://justworkcomplaw.com//faq/general-will-my-claim-be-denied-if-i-already-had-back-problems-before-i-got-hurt-at-work-25",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will my claim be denied if I already had back problems before I got hurt at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not necessarily. If a work-related exertion \"aggravates\" or \"accelerates\" a pre-existing condition, it is still a covered injury. You are entitled to benefits if work made your underlying condition worse, even if you had prior treatment.",
+        "description": "Insurance companies love to blame \"age\" or \"old sports injuries\" for back pain. But the law in Utah and Idaho is clear: if the work activity \"aggravated, accelerated, or lighted up\" a pre-existing condition, it is a brand-new work injury. You don't need a \"perfect\" back to qualify for benefits.\n\nYou are entitled to care that brings you back to your state prior to the work incident.\n\nThe key is \"medical causation\"—a doctor must state that the lifting at work made your pre-existing condition symptomatic or worse.\n\nBe honest about your medical history with your lawyer and doctor. Trying to hide an old injury can kill your case. Instead, focus on how you were able to work 40 hours a week before this lifting incident but cannot now. A lawyer is often needed to cross-examine insurance-hired doctors who always claim everything is \"degenerative.\""
+      }
+    }
+  ]
+}

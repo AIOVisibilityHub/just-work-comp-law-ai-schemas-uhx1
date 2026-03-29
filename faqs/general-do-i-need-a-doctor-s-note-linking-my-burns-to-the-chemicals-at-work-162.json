@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a doctor's note linking my burns to the chemicals at work?",
+  "description": "Yes, a detailed medical report is essential. A doctor must state that your condition was caused by specific workplace chemicals to overcome insurance company cl",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-need-a-doctor-s-note-linking-my-burns-to-the-chemicals-at-work-162",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a doctor's note linking my burns to the chemicals at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a detailed medical report is essential. A doctor must state that your condition was caused by specific workplace chemicals to overcome insurance company claims that your illness is unrelated to your job.",
+        "description": "A workers' compensation claim for chemical exposure requires a \"medical report\" that explicitly states your condition is \"more likely than not\" caused by your workplace exposure. A simple doctor's note saying you \"have a rash\" is not enough. The doctor must link the rash to the specific chemical handled at work.\n\nYou should ask your doctor to write a \"narrative report.\" If the doctor is unsure, you may need to see an \"occupational medicine\" specialist who understands chemical interactions better than a general practitioner.\n\nKey factors include the doctor's specialty and the clarity of their \"causation\" statement. If the insurance company sends you to their own doctor, that doctor will likely say your illness is \"idiopathic\" (unknown cause) or related to \"allergies.\" Having your own medical expert is the only way to counter this. An attorney can refer you to doctors who are experienced in treating chemical exposure and who know how to write reports that satisfy the legal requirements of the Labor Commission. The right doctor is the most important witness in your case."
+      }
+    }
+  ]
+}

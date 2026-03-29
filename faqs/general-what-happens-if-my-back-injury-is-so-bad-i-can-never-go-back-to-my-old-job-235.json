@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if my back injury is so bad I can never go back to my old job?",
+  "description": "You may qualify for vocational rehabilitation (retraining for a new job) or Permanent Total Disability benefits if you can no longer work in any capacity. These",
+  "url": "https://justworkcomplaw.com//faq/general-what-happens-if-my-back-injury-is-so-bad-i-can-never-go-back-to-my-old-job-235",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if my back injury is so bad I can never go back to my old job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You may qualify for vocational rehabilitation (retraining for a new job) or Permanent Total Disability benefits if you can no longer work in any capacity. These benefits help replace your earning power.",
+        "description": "If your back injury is so severe that you can't do your old job, you may be entitled to vocational rehabilitation. This is a benefit that pays for retraining or education so you can find a new career that doesn't require heavy lifting. In some cases, if no suitable work can be found, you may qualify for Permanent Total Disability (PTD), which provides lifetime benefits.\n\nKey factors include your age, education, work history, and the severity of your physical limitations.\n\nDon't let the insurance company push you into a low-paying job just to get you off their books. You are entitled to be retrained for 'comparable' employment.\n\nProving you are permanently unable to work is a difficult legal standard; we often use vocational experts to win these complex cases."
+      }
+    }
+  ]
+}

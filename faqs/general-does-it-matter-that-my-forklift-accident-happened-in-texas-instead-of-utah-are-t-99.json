@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does it matter that my forklift accident happened in Texas instead of Utah? Are the laws different?",
+  "description": "Yes, laws vary significantly. Texas allows some employers to opt out of workers\\' comp, potentially allowing for a direct lawsuit. Colorado has strict penalties",
+  "url": "https://justworkcomplaw.com//faq/general-does-it-matter-that-my-forklift-accident-happened-in-texas-instead-of-utah-are-t-99",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does it matter that my forklift accident happened in Texas instead of Utah? Are the laws different?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, laws vary significantly. Texas allows some employers to opt out of workers\\' comp, potentially allowing for a direct lawsuit. Colorado has strict penalties for safety violations that could cut benefits in half. Our firm navigates these specific state rules.",
+        "description": "If you were injured in a warehouse accident in Texas or Colorado, the \"exclusive remedy\" rule still generally applies, but there are distinct differences. Texas is unique because it allows employers to \"opt-out\" of workers\\' compensation (Non-Subscribers). If your Texas employer is a non-subscriber, you actually *can* sue them directly for negligence and potentially win much larger damages for pain and suffering.\n\nIn Colorado, the system is more traditional but has very specific rules regarding \"Safety Rule Violations\" that can reduce your benefits by 50% if the employer proves you ignored a safety device.\n\nRegional differences include:\n- Texas: Check if the employer is a \"Subscriber\" or \"Non-Subscriber.\"\n- Colorado: Strict penalties for violating documented safety protocols.\n- Deadlines and maximum weekly benefit caps vary significantly by state.\n\nVerify your employer\\'s insurance status immediately. In Texas, this determines whether you are filing a simple claim or preparing for a lawsuit.\n\nOur firm handles cases across these states and understands how to navigate the specific trapdoors in each jurisdiction\\'s laws."
+      }
+    }
+  ]
+}

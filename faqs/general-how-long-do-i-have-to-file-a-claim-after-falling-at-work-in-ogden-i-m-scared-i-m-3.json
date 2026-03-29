@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file a claim after falling at work in Ogden? I'm scared I'm already too late.",
+  "description": "In Utah, notify your employer within 30-180 days; in Idaho, within 60 days. Formal legal filing deadlines vary by state but typically range from one to six year",
+  "url": "https://justworkcomplaw.com//faq/general-how-long-do-i-have-to-file-a-claim-after-falling-at-work-in-ogden-i-m-scared-i-m-3",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file a claim after falling at work in Ogden? I'm scared I'm already too late.",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Utah, notify your employer within 30-180 days; in Idaho, within 60 days. Formal legal filing deadlines vary by state but typically range from one to six years from the injury date.",
+        "description": "In Utah, you typically have 180 days to provide notice to your employer, but you should do it within 30 days to avoid complications. However, the formal \"statute of limitations\" to file an application for a hearing with the Labor Commission is generally six years from the date of the accident. In Idaho, you must provide notice within 60 days and file a formal claim within one year. Waiting too long creates a \"gap in treatment\" or a \"gap in reporting\" that insurance companies use to argue your injury happened elsewhere. Even if you think you missed a deadline, you should have a lawyer review the specific dates of your case. Time is your enemy in workers' comp, so the sooner you act, the safer your benefits are."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I take the lump sum for my permanent injury or keep the weekly checks?",
+  "description": "A lump sum provides immediate cash but usually requires you to give up your right to future medical care. Weekly checks offer long-term security. The 'right' ch",
+  "url": "https://justworkcomplaw.com//faq/general-should-i-take-the-lump-sum-for-my-permanent-injury-or-keep-the-weekly-checks-262",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I take the lump sum for my permanent injury or keep the weekly checks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A lump sum provides immediate cash but usually requires you to give up your right to future medical care. Weekly checks offer long-term security. The 'right' choice depends on your future medical needs and financial goals.",
+        "description": "Whether to take a lump sum or weekly payments depends on your financial stability, future medical needs, and the specific laws of your state. In Utah, taking a 'Full and Final' lump-sum settlement usually means you are closing your medical rights forever. You get a larger check now, but if you need surgery five years from now for the same injury, the insurance company won't pay a dime. Weekly payments provide a steady safety net but offer less flexibility for large debts.\n\nConsiderations for settlements:\n- Future medical costs (surgery, meds, therapy).\n- Impact on Social Security Disability (SSD) offsets.\n- Your ability to manage a large sum of money.\n\nNever sign a settlement release without knowing exactly what you are giving up. The insurance company will push for a lump sum because it allows them to 'close the books' on you. An attorney can help calculate the 'present value' of your future medical needs to ensure the lump sum is actually fair."
+      }
+    }
+  ]
+}

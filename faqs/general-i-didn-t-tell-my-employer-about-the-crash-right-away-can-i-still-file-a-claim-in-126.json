@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I didn't tell my employer about the crash right away—can I still file a claim in Boise?",
+  "description": "In Idaho, you should report within 60 days, but you may still have up to one year to file a legal claim. Delays complicate your case, so you should report the i",
+  "url": "https://justworkcomplaw.com//faq/general-i-didn-t-tell-my-employer-about-the-crash-right-away-can-i-still-file-a-claim-in-126",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I didn't tell my employer about the crash right away—can I still file a claim in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Idaho, you should report within 60 days, but you may still have up to one year to file a legal claim. Delays complicate your case, so you should report the incident and consult a lawyer immediately.",
+        "description": "In Idaho, you generally have 60 days to report the injury to your employer and one year from the date of the accident to file a formal claim with the Industrial Commission. If you missed the initial 60-day reporting window, your claim isn't automatically dead, but the insurance carrier will likely deny it for 'lack of notice,' forcing you to prove the employer wasn't prejudiced by the delay.\n\nFactors that affect your deadline:\n- When the injury first became 'manifest' (especially for late-onset neck/back issues).\n- Whether a supervisor actually saw the accident happen.\n- Payment of any initial benefits by the employer.\n\nWaiting too long creates a gap that insurers use to argue your injury happened over the weekend or at home. If you are past the 60-day mark in Boise, you should immediately document exactly why the report was delayed and seek legal counsel to file your claim formally before the one-year statute of limitations expires."
+      }
+    }
+  ]
+}

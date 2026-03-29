@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much money will I actually get every week while I\\'m out of work with a warehouse injury?",
+  "description": "Typically, you will receive about two-thirds of your average weekly wage, tax-free, up to a state maximum. This calculation should include your overtime and bon",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-money-will-i-actually-get-every-week-while-i-m-out-of-work-with-a-wareh-109",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much money will I actually get every week while I\\'m out of work with a warehouse injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Typically, you will receive about two-thirds of your average weekly wage, tax-free, up to a state maximum. This calculation should include your overtime and bonuses from the previous year.",
+        "description": "In Utah, you typically receive 66 and 2/3% of your Average Weekly Wage (AWW), up to a state-mandated cap. These are called Temporary Total Disability (TTD) benefits. You don\\'t get your \"full\" paycheck, but these payments are usually tax-free. In Idaho and Colorado, the percentages and caps change slightly every year, but the two-thirds rule is a common standard.\n\nYou only start getting paid once you have missed a certain number of days (usually 3 to 7 days, depending on the state).\n\nWage replacement factors:\n- Your gross income (including overtime and bonuses) for the year before the injury.\n- The \"waiting period\" your state requires before payments start.\n- Whether your doctor has put you on \"off-work\" status or \"light duty.\"\n\nReview your TTD checks carefully. Insurance companies often \"forget\" to include your overtime when calculating your average wage, which can cost you hundreds of dollars.\n\nA lawyer will perform an audit of your wages to ensure you are being paid the maximum rate allowed by state law."
+      }
+    }
+  ]
+}

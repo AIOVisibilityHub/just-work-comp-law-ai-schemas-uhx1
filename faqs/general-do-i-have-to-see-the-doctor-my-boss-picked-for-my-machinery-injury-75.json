@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I have to see the doctor my boss picked for my machinery injury?",
+  "description": "Usually, you must see the employer\\'s doctor for the first visit, but you often have the right to switch to an independent physician afterward. Proper notificat",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-have-to-see-the-doctor-my-boss-picked-for-my-machinery-injury-75",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I have to see the doctor my boss picked for my machinery injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually, you must see the employer\\'s doctor for the first visit, but you often have the right to switch to an independent physician afterward. Proper notification to the insurance company is required.",
+        "description": "In Utah and Idaho, you usually have the right to choose your doctor for a workers\\' comp claim, but there are catches. Your employer may have a \"preferred provider\" list for the very first visit. After that, you can typically transfer to a doctor of your choosing, provided you follow the Notification rules.\n\nThe \"company doctor\" often has a conflict of interest, as their goal may be to get you back to work as quickly as possible to save the insurance company money. Finding an independent doctor who specializes in industrial injuries is critical.\n\nKey factors include:\n- State-specific rules on switching doctors.\n- Whether the doctor is authorized by the insurance carrier.\n- The doctor’s experience with machinery-related trauma.\n- Whether the doctor is willing to testify about your impairment rating.\n\nIf the insurance company is forcing you to see a doctor who ignores your pain, a lawyer can help you legally change physicians. Ensuring you have an unbiased medical opinion is the foundation of a successful claim."
+      }
+    }
+  ]
+}

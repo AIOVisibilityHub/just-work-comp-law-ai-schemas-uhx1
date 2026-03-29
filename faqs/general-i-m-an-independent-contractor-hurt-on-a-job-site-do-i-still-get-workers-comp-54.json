@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’m an independent contractor hurt on a job site—do I still get workers comp?",
+  "description": "You might. If the company controls your work details and hours, Utah law may classify you as an 'employee' eligible for benefits despite your 1099 tax status.",
+  "url": "https://justworkcomplaw.com//faq/general-i-m-an-independent-contractor-hurt-on-a-job-site-do-i-still-get-workers-comp-54",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’m an independent contractor hurt on a job site—do I still get workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You might. If the company controls your work details and hours, Utah law may classify you as an 'employee' eligible for benefits despite your 1099 tax status.",
+        "description": "Whether you are a 'contractor' or a '1099 worker' doesn't automatically mean you are ineligible for benefits in Salt Lake City. Utah law looks at the 'right to control' your work. If the hiring company provides your tools, sets your hours, and directs how you perform tasks, you may be considered an employee for workers' comp purposes regardless of your tax status. Many construction companies 'misclassify' workers as independent contractors to save on insurance premiums. If you are hurt and they deny coverage, you can challenge this classification. An attorney can help prove employee status by analyzing your daily work routine and the degree of supervision you received."
+      }
+    }
+  ]
+}

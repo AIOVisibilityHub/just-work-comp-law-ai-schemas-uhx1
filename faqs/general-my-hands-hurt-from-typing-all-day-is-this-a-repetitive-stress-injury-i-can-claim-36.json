@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My hands hurt from typing all day—is this a repetitive stress injury I can claim in Utah?",
+  "description": "Yes, carpal tunnel and repetitive stress from typing are covered in Utah. To succeed, you must provide medical evidence showing that your job duties were the pr",
+  "url": "https://justworkcomplaw.com//faq/general-my-hands-hurt-from-typing-all-day-is-this-a-repetitive-stress-injury-i-can-claim-36",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My hands hurt from typing all day—is this a repetitive stress injury I can claim in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, carpal tunnel and repetitive stress from typing are covered in Utah. To succeed, you must provide medical evidence showing that your job duties were the primary cause of the injury, rather than outside hobbies or general aging.",
+        "description": "Yes, carpal tunnel syndrome and other repetitive stress injuries (RSI) are fully covered by workers' compensation in Utah, but they are harder to prove than \"sudden\" accidents. Because carpal tunnel doesn't happen in one moment, you must show that your computer work or typing was the \"predominant cause\" of the condition. You will need a medical opinion from a doctor clearly linking your symptoms to your office tasks.\n\nInsurance carriers frequently deny these claims by saying they are caused by \"lifestyle factors\" like gaming or hobbies.\n\nKey Factors:\n- Frequency and duration of the typing tasks.\n- Early reporting of symptoms (tingling, numbness).\n- Ergonomic assessments of your workstation.\n\nYou should report the pain to your manager as soon as you notice symptoms, not when you can no longer work. \n\nA lawyer can help you secure an expert medical report that confirms your typing duties are the primary reason for your wrist condition."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I just got hurt in a warehouse accident—what do I do right now so I don\\'t lose my rights?",
+  "description": "Seek medical care immediately and report the injury to your supervisor in writing. Document the scene with photos and secure witness contact info to prevent the",
+  "url": "https://justworkcomplaw.com//faq/general-i-just-got-hurt-in-a-warehouse-accident-what-do-i-do-right-now-so-i-don-t-lose-m-106",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I just got hurt in a warehouse accident—what do I do right now so I don\\'t lose my rights?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seek medical care immediately and report the injury to your supervisor in writing. Document the scene with photos and secure witness contact info to prevent the insurance company from claiming the accident didn\\'t happen at work.",
+        "description": "The absolute first priority is safety and health: get away from the hazard and see a doctor. In warehouse hubs like Salt Lake City or Boise, you must then notify your supervisor or HR department in writing as soon as humanly possible. Even if you think it\\'s just a \"sore back\" from a heavy pallet, failing to report it on the shift it happened gives the insurance company a \"late reporting\" excuse to deny you.\n\nDocumentation is the bedrock of your claim. If you can, take photos of the spill, the broken racking, or the faulty conveyor belt that caused the accident.\n\nImmediate steps:\n- Get to an Urgent Care or ER and tell them it happened at work.\n- File an internal incident report and keep a copy (take a photo of it with your phone).\n- Identify witnesses and get their phone numbers.\n\nDo not assume the warehouse cameras caught it; footage is often erased after 24–48 hours unless a formal request is made to save it.\n\nAn attorney can send a \"spoliation letter\" to the warehouse to ensure that video footage of your accident is legally preserved."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof do I need to win my slip and fall case if there were no cameras?",
+  "description": "Gather witness statements, take photos of the hazard that caused the fall, and ensure your medical records accurately reflect how the injury occurred. Witness t",
+  "url": "https://justworkcomplaw.com//faq/general-what-proof-do-i-need-to-win-my-slip-and-fall-case-if-there-were-no-cameras-11",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof do I need to win my slip and fall case if there were no cameras?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gather witness statements, take photos of the hazard that caused the fall, and ensure your medical records accurately reflect how the injury occurred. Witness testimony is often just as powerful as video.",
+        "description": "Evidence is the most critical part of a fall claim. You need: 1) A copy of the formal incident report. 2) Photos of the scene immediately after the fall (wet spots, torn carpet, poor lighting). 3) Names and contact info of coworkers who saw it. 4) All medical records from the first 48 hours. 5) Clothing or shoes worn during the fall if they have grease or water on them. If there were security cameras in the warehouse or office, your lawyer needs to send a \"spoliation letter\" immediately to prevent the footage from being deleted. Without this evidence, the insurance company will likely claim you just had a \"pre-existing\" bad back that flared up on its own."
+      }
+    }
+  ]
+}

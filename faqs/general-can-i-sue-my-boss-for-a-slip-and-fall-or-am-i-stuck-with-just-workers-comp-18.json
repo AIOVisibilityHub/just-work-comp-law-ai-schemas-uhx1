@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my boss for a slip and fall, or am I stuck with just workers comp?",
+  "description": "In most cases, you cannot sue your employer directly due to \"exclusive remedy\" laws. However, if a third party—like a separate cleaning crew or contractor—cause",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-boss-for-a-slip-and-fall-or-am-i-stuck-with-just-workers-comp-18",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my boss for a slip and fall, or am I stuck with just workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In most cases, you cannot sue your employer directly due to \"exclusive remedy\" laws. However, if a third party—like a separate cleaning crew or contractor—caused the hazard, you may be able to file a personal injury lawsuit against them in addition to your workers' comp claim.",
+        "description": "While workers' comp is your primary remedy against your employer, you may have a \"third-party\" claim if someone else's negligence caused your fall. If a separate cleaning company left the floor wet without signs, or a construction contractor left debris in a walkway in Salt Lake City, you could potentially sue that specific company for \"pain and suffering,\" which workers' comp does not pay.\n\nThis creates two concurrent cases: a workers' comp claim for immediate bills and a personal injury lawsuit for additional damages.\n\nFactors include the identity of the negligent party and whether they are legally distinct from your employer. \n\nIdentify every company working at the site when you fell. Take photos of any equipment or uniforms belonging to outside vendors. A lawyer is essential here to coordinate the two claims and manage the \"subrogation\" lien workers' comp will have on your settlement."
+      }
+    }
+  ]
+}

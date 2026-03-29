@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof do I need to win my workers' comp case for a lower back strain?",
+  "description": "Crucial evidence includes a prompt medical report, MRI or CT scan results showing physical damage, witness accounts, and a 'work status' note from your doctor d",
+  "url": "https://justworkcomplaw.com//faq/general-what-proof-do-i-need-to-win-my-workers-comp-case-for-a-lower-back-strain-225",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof do I need to win my workers' comp case for a lower back strain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Crucial evidence includes a prompt medical report, MRI or CT scan results showing physical damage, witness accounts, and a 'work status' note from your doctor detailing your lifting restrictions.",
+        "description": "Standard evidence includes an official accident report, immediate medical records, imaging like MRIs or CT scans, and witness statements. For back injuries, a 'duty status' report from your doctor is crucial—it outlines exactly what you can and cannot do (e.g., 'no lifting over 10 lbs'). If your work involves repetitive motion, a detailed job description showing the frequency of lifting or bending is also vital evidence.\n\nKey factors include the immediacy of the medical exam and the specificity of the diagnostic tests.\n\nAsk your doctor for an MRI if you have radiating pain or numbness (sciatica), as X-rays often miss soft tissue damage like bulging discs.\n\nA lawyer knows how to subpoena maintenance records or video footage that you might not be able to get on your own."
+      }
+    }
+  ]
+}

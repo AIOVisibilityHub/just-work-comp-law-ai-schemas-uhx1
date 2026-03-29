@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "They denied my back injury claim in Salt Lake City saying it was a 'pre-existing condition.' Is that legal?",
+  "description": "Yes, they can deny it, but they are often wrong. If your work accident aggravated or worsened a pre-existing condition, Utah law typically requires them to cove",
+  "url": "https://justworkcomplaw.com//faq/general-they-denied-my-back-injury-claim-in-salt-lake-city-saying-it-was-a-pre-existing--275",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "They denied my back injury claim in Salt Lake City saying it was a 'pre-existing condition.' Is that legal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, they can deny it, but they are often wrong. If your work accident aggravated or worsened a pre-existing condition, Utah law typically requires them to cover the treatment. You will need medical evidence to prove the 'aggravation.'",
+        "description": "In Salt Lake City and across Utah, insurers often use pre-existing conditions (like degenerative disc disease) to deny claims. However, if the work accident 'aggravated' or 'accelerated' that condition, it is still 100% compensable. You are not required to have a perfect back to qualify for workers' comp.\n\nLegal success depends on medical testimony showing the work incident caused a 'significant' change in your physical status.\n\nGather your medical records from both before and after the accident. A comparison often proves that while you had an old injury, you were 'asymptomatic' or functional until the work mishap.\n\nWe specialize in debunking the 'it's just old age' defense by using medical experts to link your current pain to the specific work event."
+      }
+    }
+  ]
+}

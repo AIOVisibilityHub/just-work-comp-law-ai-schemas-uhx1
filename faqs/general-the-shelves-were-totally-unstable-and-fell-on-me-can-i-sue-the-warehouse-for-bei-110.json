@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "The shelves were totally unstable and fell on me. Can I sue the warehouse for being unsafe?",
+  "description": "You generally can\\'t sue your employer directly for negligence, but you *can* sue the company that manufactured or installed the shelving. Workers\\' comp covers",
+  "url": "https://justworkcomplaw.com//faq/general-the-shelves-were-totally-unstable-and-fell-on-me-can-i-sue-the-warehouse-for-bei-110",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "The shelves were totally unstable and fell on me. Can I sue the warehouse for being unsafe?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You generally can\\'t sue your employer directly for negligence, but you *can* sue the company that manufactured or installed the shelving. Workers\\' comp covers the basics, while a third-party suit covers pain and suffering.",
+        "description": "If your warehouse was unsafe—for example, because of poorly maintained conveyor belts, unstable racking, or lack of safety gear—you are still primarily limited to workers\\' compensation. You generally cannot sue your employer for \"pain and suffering\" even if they were negligent. However, if the unsafe condition was caused by an outside company (like a vendor that installed the shelving incorrectly), you can file a separate third-party lawsuit.\n\nIn a third-party warehouse claim, you can recover full damages, including the pain and emotional distress that workers\\' comp doesn\\'t cover.\n\nCommon third-party warehouse scenarios:\n- Shelving collapses caused by poor installation by a contractor.\n- Conveyor belt malfunctions due to a design defect from the manufacturer.\n- Slip and falls on liquid left by an outside cleaning crew.\n\nKeep a mental or physical log of who was present at the warehouse that didn\\'t work for your employer. They might be the key to a larger settlement.\n\nOur firm investigates every warehouse accident for \"third-party\" potential to maximize the money our clients receive."
+      }
+    }
+  ]
+}

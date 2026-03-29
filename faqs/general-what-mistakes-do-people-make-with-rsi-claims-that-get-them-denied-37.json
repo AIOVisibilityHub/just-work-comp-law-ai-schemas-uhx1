@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What mistakes do people make with RSI claims that get them denied?",
+  "description": "The biggest mistakes are waiting too long to report the injury and failing to give your doctor a detailed description of your repetitive work tasks. Inconsisten",
+  "url": "https://justworkcomplaw.com//faq/general-what-mistakes-do-people-make-with-rsi-claims-that-get-them-denied-37",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What mistakes do people make with RSI claims that get them denied?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest mistakes are waiting too long to report the injury and failing to give your doctor a detailed description of your repetitive work tasks. Inconsistent stories or delayed medical treatment give insurance companies grounds to deny the claim.",
+        "description": "The most common mistake with RSI claims is waiting too long to report the pain because the worker is \"toughing it out.\" Unlike a fall, where the date is obvious, the clock for an RSI usually starts when you first realized the pain was work-related. Other mistakes include failing to mention the injury to your doctor, giving inconsistent descriptions of your duties, or not following the prescribed physical therapy.\n\nInsurance adjusters look for any reason to say the injury happened elsewhere.\n\nKey Factors:\n- Failure to report symptoms promptly to the employer.\n- Inconsistent medical history (denying pain then later claiming it's severe).\n- Not documenting the repetitive nature of the job.\n\nBe specific with your doctor about exactly how many hours a day you spend scanning, typing, or lifting. \n\nIf you've already made one of these mistakes, an attorney can help \"rehabilitate\" your claim by gathering stronger evidence to clarify the timeline and cause."
+      }
+    }
+  ]
+}

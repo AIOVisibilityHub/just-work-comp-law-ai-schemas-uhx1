@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I fell at work a few weeks ago but didn't report it because I thought I was fine—is it too late now?",
+  "description": "It is likely not too late, but you must act immediately. In Utah, you generally have 30 days to report, while Idaho allows 60 days; however, delays give insuran",
+  "url": "https://justworkcomplaw.com//faq/general-i-fell-at-work-a-few-weeks-ago-but-didn-t-report-it-because-i-thought-i-was-fine-16",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I fell at work a few weeks ago but didn't report it because I thought I was fine—is it too late now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is likely not too late, but you must act immediately. In Utah, you generally have 30 days to report, while Idaho allows 60 days; however, delays give insurance companies a reason to deny claims, so filing a written report and seeking medical care right away is critical.",
+        "description": "In Utah and Idaho, you generally must notify your employer within 30 to 60 days, respectively, to preserve your rights. If you missed this window, all is not lost, but the insurance carrier will likely use the delay as a primary reason to deny your claim, arguing the injury didn't happen at work. You must document the reason for the delay, such as internal injuries that weren't immediately apparent. Providing a written report now is better than never doing it at all. \n\nKey factors include the specific state deadline, whether the employer had \"actual knowledge\" of the fall, and if the delay prejudiced the employer's investigation. \n\nYou should immediately file a written incident report, even if late, and seek a medical evaluation to link your current pain to the workplace fall. If they deny your claim due to timing, an attorney can often argue that the \"discovery rule\" or employer knowledge satisfies the legal requirements."
+      }
+    }
+  ]
+}

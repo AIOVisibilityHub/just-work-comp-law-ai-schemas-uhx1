@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my company for my back injury or am I stuck with workers' comp?",
+  "description": "Generally, you cannot sue your employer because of the 'exclusive remedy' rule. However, you may be able to sue a third party (like a contractor or equipment ma",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-company-for-my-back-injury-or-am-i-stuck-with-workers-comp-226",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my company for my back injury or am I stuck with workers' comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally, you cannot sue your employer because of the 'exclusive remedy' rule. However, you may be able to sue a third party (like a contractor or equipment manufacturer) if their negligence caused your injury.",
+        "description": "In Utah and Idaho, you usually cannot sue your employer for a work injury due to the 'exclusive remedy' rule. This rule protects employers from lawsuits in exchange for providing no-fault insurance. However, you can sue a 'third party' if someone else caused your back injury. For example, if you were driving for work in Ogden and got rear-ended, or if a defective forklift caused your injury, you could have both a work comp claim and a personal injury lawsuit.\n\nKey factors include who was at fault and whether they are your employer or an outside entity.\n\nIdentify everyone involved in the accident. If a contractor or a manufacturer is at fault, your total compensation could be much higher than work comp alone.\n\nDistinguishing between a standard work comp claim and a third-party lawsuit is critical for maximizing your financial recovery."
+      }
+    }
+  ]
+}

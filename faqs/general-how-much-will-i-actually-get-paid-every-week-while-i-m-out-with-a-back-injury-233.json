@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much will I actually get paid every week while I’m out with a back injury?",
+  "description": "You typically receive about two-thirds of your average weekly wage in tax-free disability payments. These payments continue until you are cleared to return to w",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-will-i-actually-get-paid-every-week-while-i-m-out-with-a-back-injury-233",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much will I actually get paid every week while I’m out with a back injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You typically receive about two-thirds of your average weekly wage in tax-free disability payments. These payments continue until you are cleared to return to work or reach maximum medical improvement.",
+        "description": "In Utah and Idaho, your weekly 'Time Loss' or Temporary Total Disability (TTD) payments are usually two-thirds (66.67%) of your average weekly wage, subject to a state maximum cap. These payments continue as long as your doctor says you cannot work or while you are on restricted duty that the employer cannot accommodate. This money is tax-free, which helps offset the fact that it's less than your full paycheck.\n\nKey factors include your gross wages from the 26 weeks prior to the injury and whether you had a second job.\n\nDouble-check the insurance company’s math. They often forget to include overtime, bonuses, or income from a second job when calculating your rate.\n\nIf your check is coming in late or is for the wrong amount, an attorney can file a motion to penalize the insurance company."
+      }
+    }
+  ]
+}

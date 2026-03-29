@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if the equipment failure was sudden and I had no warning?",
+  "description": "Sudden failures are classic workers\\' comp cases. You are covered as long as the injury happened while performing work duties, regardless of whether you had tim",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-the-equipment-failure-was-sudden-and-i-had-no-warning-78",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if the equipment failure was sudden and I had no warning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sudden failures are classic workers\\' comp cases. You are covered as long as the injury happened while performing work duties, regardless of whether you had time to react to the malfunctioning gear.",
+        "description": "A \"sudden failure\" often points to a manufacturing defect or a lack of maintenance. If a ladder snaps, a harness breaks, or a power tool explodes, the law looks at whether the equipment was used as intended. If so, you are likely entitled to full workers\\' comp benefits.\n\nThe challenge is when the employer claims you \"misused\" the tool. Even in those cases, you are usually covered under Utah and Idaho law, but the investigation will be more intense.\n\nKey factors include:\n- Whether the tool was being used for its designed purpose.\n- If there were any visible warning signs before the failure.\n- The age and general condition of the equipment.\n- Training records for that specific piece of gear.\n\nYou should report the failure immediately, even if the injury seems minor. Equipment malfunctions often lead to \"near misses\" that turn into catastrophic injuries later; documenting the failure now protects your future rights."
+      }
+    }
+  ]
+}

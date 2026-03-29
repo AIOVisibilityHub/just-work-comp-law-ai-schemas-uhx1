@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I waited a week to report my back strain from lifting at work—is my claim ruined?",
+  "description": "A delay doesn't automatically ruin your claim, but it does trigger suspicion from insurance adjusters. You should report the injury and see a doctor immediately",
+  "url": "https://justworkcomplaw.com//faq/general-i-waited-a-week-to-report-my-back-strain-from-lifting-at-work-is-my-claim-ruined-30",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I waited a week to report my back strain from lifting at work—is my claim ruined?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A delay doesn't automatically ruin your claim, but it does trigger suspicion from insurance adjusters. You should report the injury and see a doctor immediately, clearly explaining that the symptoms began at work but you initially expected them to heal without intervention.",
+        "description": "Wait-and-see is a dangerous strategy with lifting injuries because insurance companies use delays to argue the injury happened at home. If you waited a week, you haven't \"ruined\" it, but you have made it more difficult. You must immediately report it now and seek medical treatment, explaining to the doctor that the pain began a week ago during a specific lifting task but you hoped it would resolve on its own.\n\nThe insurer will likely question why you waited, so your explanation needs to be consistent and documented.\n\nKey Factors:\n- Length of the delay (a few days is easier to explain than a few weeks).\n- Accuracy of the medical history provided to the doctor.\n- Consistency of your story with coworkers and employer.\n\nOnce you report it, expect the insurance adjuster to ask \"Why now?\"—be honest about your initial hope for recovery. \n\nBecause delays often trigger automatic claim investigations, having an attorney handle the communication from this point forward can prevent you from saying something that accidentally tanks the claim."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I still get workers comp for lung problems if I used to be a smoker?",
+  "description": "Yes, you can still qualify if workplace exposure significantly aggravated your condition or contributed to the illness. You will need a medical expert to testif",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-still-get-workers-comp-for-lung-problems-if-i-used-to-be-a-smoker-189",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I still get workers comp for lung problems if I used to be a smoker?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can still qualify if workplace exposure significantly aggravated your condition or contributed to the illness. You will need a medical expert to testify that your job was a substantial contributing factor despite your smoking history.",
+        "description": "Proving a \"clean\" link between work and respiratory illness is difficult when you have a history of smoking, but it does not disqualify you from workers\\' comp. Under Utah law, you must prove that your workplace exposure was a \"medical cause\" of your condition, even if it wasn't the only cause. The insurance company will likely try to blame your smoking entirely to avoid paying. You will need an expert medical opinion stating that the workplace toxins (like silica, coal dust, or chemicals) significantly aggravated or contributed to your lung disease. We focus on the \"aggravation of a pre-existing condition\" rule to protect your rights. A lawyer is essential here to counter the insurance company\\'s medical experts."
+      }
+    }
+  ]
+}

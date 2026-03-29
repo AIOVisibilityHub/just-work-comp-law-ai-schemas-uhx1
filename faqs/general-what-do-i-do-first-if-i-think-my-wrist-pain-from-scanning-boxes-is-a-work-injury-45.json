@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What do I do first if I think my wrist pain from scanning boxes is a work injury?",
+  "description": "Immediately report the symptoms to your supervisor in writing, stating you believe the pain is work-related. Then, see a doctor and clearly explain the repetiti",
+  "url": "https://justworkcomplaw.com//faq/general-what-do-i-do-first-if-i-think-my-wrist-pain-from-scanning-boxes-is-a-work-injury-45",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What do I do first if I think my wrist pain from scanning boxes is a work injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Immediately report the symptoms to your supervisor in writing, stating you believe the pain is work-related. Then, see a doctor and clearly explain the repetitive motions required by your job so they can document the link between your work and the injury.",
+        "description": "The first and most important step is to notify your supervisor—in writing—that you are experiencing work-related pain. Even if there was no \"accident,\" you must report the \"onset of symptoms.\" Then, seek a medical evaluation from an approved workers' comp doctor. Tell that doctor specifically which tasks (scanning, pulling, assembly) cause the pain.\n\nDo not wait for the pain to become unbearable, as this gives the insurance company an excuse to say it's not and \"emergency\" or a \"claim.\"\n\nKey Factors:\n- Written notice of the injury/symptoms.\n- Immediate medical diagnosis with task-specific history.\n- Avoiding \"self-treating\" or relying only on over-the-counter meds without a record.\n\nKeep a personal log of your symptoms and when they are at their worst during the workday. \n\nEarly legal advice is especially important for RSI cases because the \"date of injury\" is often a point of contention that insurers use to deny benefits."
+      }
+    }
+  ]
+}

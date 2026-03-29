@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I\\'m a temp worker at a warehouse in Ogden. Am I still covered by workers comp if I get hurt on the job?",
+  "description": "Yes. Usually, the staffing agency provides your workers\\' comp coverage. You must report the accident to both the warehouse and your agency immediately to ensur",
+  "url": "https://justworkcomplaw.com//faq/general-i-m-a-temp-worker-at-a-warehouse-in-ogden-am-i-still-covered-by-workers-comp-if--111",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I\\'m a temp worker at a warehouse in Ogden. Am I still covered by workers comp if I get hurt on the job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Usually, the staffing agency provides your workers\\' comp coverage. You must report the accident to both the warehouse and your agency immediately to ensure your benefits are protected.",
+        "description": "This is a critical situation. If you are a \"temp\" or \"staffing agency\" worker, you are usually covered by the staffing agency\\'s workers\\' comp insurance, not the warehouse\\'s. However, you must report the injury to *both* the warehouse supervisor and your staffing agency coordinator immediately. Many workers make the mistake of only telling one, and the other then denies the claim.\n\nBeing a temp worker doesn\\'t mean you have fewer rights to medical care or wage replacement.\n\nTemp worker checklist:\n- Call your staffing agency recruiter immediately after the injury.\n- Fill out an incident report at the warehouse before you leave.\n- Get the name of both companies\\' insurance carriers if possible.\n\nIf the warehouse tries to \"fire\" you by telling the agency they don\\'t want you back because of the injury, this may be a form of illegal retaliation.\n\nDetermining which insurance company is responsible (or if both are) is a technical process that an attorney needs to handle to prevent you from being \"bounced\" between the two."
+      }
+    }
+  ]
+}

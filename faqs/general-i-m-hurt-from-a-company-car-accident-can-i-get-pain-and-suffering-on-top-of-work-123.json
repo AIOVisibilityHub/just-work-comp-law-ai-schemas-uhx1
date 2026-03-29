@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm hurt from a company car accident—can I get pain and suffering on top of workers' comp?",
+  "description": "Workers' comp does not pay for pain and suffering, but if a third party (another driver) caused the accident, you can file a separate personal injury lawsuit ag",
+  "url": "https://justworkcomplaw.com//faq/general-i-m-hurt-from-a-company-car-accident-can-i-get-pain-and-suffering-on-top-of-work-123",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm hurt from a company car accident—can I get pain and suffering on top of workers' comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers' comp does not pay for pain and suffering, but if a third party (another driver) caused the accident, you can file a separate personal injury lawsuit against them to recover those specific damages.",
+        "description": "In Utah and Idaho, workers' compensation is an 'exclusive remedy' against your employer, but it does not prevent you from suing a negligent third party. If another driver caused the crash, you can file a personal injury lawsuit against them for 'non-economic' damages like pain, suffering, and loss of enjoyment of life—things workers' comp never pays for. This creates two concurrent cases: a workers' comp claim for bills and wages, and a civil suit for everything else.\n\nRecovery factors include:\n- The third party's insurance policy limits.\n- The severity of your long-term disability or scarring.\n- Comparative fault (how much you contributed to the accident).\n\nBe aware that the workers' comp insurer may have a 'subrogation' right, meaning they might want a portion of your lawsuit settlement to pay themselves back for medical bills they covered. Managing these two integrated claims requires professional legal strategy to maximize your total take-home amount."
+      }
+    }
+  ]
+}

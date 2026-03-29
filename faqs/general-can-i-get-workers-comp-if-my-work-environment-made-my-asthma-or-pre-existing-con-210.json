@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get workers comp if my work environment made my asthma or pre-existing condition worse?",
+  "description": "Yes, you are eligible if work conditions aggravated or accelerated your condition. You must provide medical evidence showing a distinct worsening of your health",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-workers-comp-if-my-work-environment-made-my-asthma-or-pre-existing-con-210",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get workers comp if my work environment made my asthma or pre-existing condition worse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you are eligible if work conditions aggravated or accelerated your condition. You must provide medical evidence showing a distinct worsening of your health specifically due to workplace exposure.",
+        "description": "Yes, you can still recover benefits, but it is more complex. In most jurisdictions like Utah, you must prove that your work environment \"interally or permanently\" aggravated or accelerated the pre-existing condition. The insurance company will try to \"apportion\" the claim, meaning they only want to pay for the \"new\" damage. Having a doctor compare your diagnostic imaging (like X-rays or MRIs) from before the exposure to your current state is vital. If work made a manageable condition unmanageable, it is a compensable injury. We focus on the \"change in baseline\" to ensure you aren't denied just because you weren't 100% healthy before."
+      }
+    }
+  ]
+}

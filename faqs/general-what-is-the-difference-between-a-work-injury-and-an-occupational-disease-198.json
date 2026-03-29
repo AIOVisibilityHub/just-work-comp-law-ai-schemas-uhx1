@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a work injury and an occupational disease?",
+  "description": "An injury is a sudden event, while an occupational disease is a condition like hearing loss or asbestosis that develops over months or years of exposure. Identi",
+  "url": "https://justworkcomplaw.com//faq/general-what-is-the-difference-between-a-work-injury-and-an-occupational-disease-198",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a work injury and an occupational disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An injury is a sudden event, while an occupational disease is a condition like hearing loss or asbestosis that develops over months or years of exposure. Identifying it as a \"disease\" claim changes the legal standards and deadlines you must follow.",
+        "description": "Occupational diseases differ from regular injuries because they develop over time due to repeated exposure rather than a single event. To win, you must prove \"legal causation\" (the job caused the condition) and \"medical causation\" (the condition is a recognized disease linked to that exposure). In Salt Lake City and throughout Utah, the \"Occupational Disease Act\" governs these claims. You need a medical expert to confirm your hearing loss, carpal tunnel, or cancer isn't just a result of aging or outside hobbies. The biggest hurdle is the timeframe; since these diseases manifest slowly, the insurer will claim you're just \"getting older.\" We combat this by documenting your specific years of exposure and industry standards."
+      }
+    }
+  ]
+}

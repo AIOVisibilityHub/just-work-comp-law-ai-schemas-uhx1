@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if I was partly at fault for my lifting injury—can I still get paid?",
+  "description": "Yes, workers' compensation is a no-fault system. You are eligible for benefits even if you used improper lifting techniques or made a mistake, provided the inju",
+  "url": "https://justworkcomplaw.com//faq/general-what-happens-if-i-was-partly-at-fault-for-my-lifting-injury-can-i-still-get-paid-27",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if I was partly at fault for my lifting injury—can I still get paid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, workers' compensation is a no-fault system. You are eligible for benefits even if you used improper lifting techniques or made a mistake, provided the injury happened in the course of your employment and you weren't intoxicated or acting with intent to self-harm.",
+        "description": "Yes, you can still receive workers' comp benefits even if you used \"bad form\" or were partially at fault for the injury. Workers' compensation is a \"no-fault\" system, meaning you are covered regardless of whether you dropped the box, forgot your back brace, or lifted with your back instead of your legs. The trade-off is that you generally cannot sue your employer for negligence, but your medical bills and lost wages are covered.\n\nThe only major exceptions are if you were intoxicated, under the influence of illegal drugs, or intentionally trying to hurt yourself.\n\nKey Factors:\n- No-fault coverage means your mistakes don't disqualify you.\n- Intoxication or intentional self-harm are the primary exclusions.\n- Safety rule violations might reduce benefits in some states, like Idaho.\n\nDon't let a supervisor tell you that \"it's your own fault\" to discourage you from filing. \n\nIf your employer is blaming you to avoid paying the claim, legal intervention is usually necessary to enforce the no-fault rules."
+      }
+    }
+  ]
+}

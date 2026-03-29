@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How am I supposed to afford a lawyer to fight this denial if I'm not even getting paid?",
+  "description": "Most workers' comp attorneys work on contingency, meaning there are no upfront costs. They only get paid a percentage of the benefits they recover for you. You ",
+  "url": "https://justworkcomplaw.com//faq/general-how-am-i-supposed-to-afford-a-lawyer-to-fight-this-denial-if-i-m-not-even-gettin-281",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How am I supposed to afford a lawyer to fight this denial if I'm not even getting paid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most workers' comp attorneys work on contingency, meaning there are no upfront costs. They only get paid a percentage of the benefits they recover for you. You don't need money out-of-pocket to hire elite representation.",
+        "description": "Many workers' comp lawyers, including us, work on a 'contingency fee' basis. This means we only get paid if we win your case or secure a settlement. In many states like Utah, the attorney fees are set by the Labor Commission and are taken as a percentage of the 'back-dated' benefits we recover for you. You should never have to pay a retainer upfront to fight a medical denial.\n\nFactors: The complexity of the medical evidence and whether the case goes to a full evidentiary hearing.\n\nLook for a firm that offers a 'free consultation.' This allows you to get your denial letter reviewed without spending a dime.\n\nBecause the insurance company has unlimited money to fight you, having a contingency-fee lawyer levels the playing field without any financial risk to you."
+      }
+    }
+  ]
+}

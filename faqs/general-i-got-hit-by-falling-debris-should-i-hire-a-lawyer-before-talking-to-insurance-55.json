@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I got hit by falling debris—should I hire a lawyer before talking to insurance?",
+  "description": "Yes. Falling object cases often involve high-value third-party claims. A lawyer preserves evidence of safety violations and prevents you from settling for less ",
+  "url": "https://justworkcomplaw.com//faq/general-i-got-hit-by-falling-debris-should-i-hire-a-lawyer-before-talking-to-insurance-55",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I got hit by falling debris—should I hire a lawyer before talking to insurance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Falling object cases often involve high-value third-party claims. A lawyer preserves evidence of safety violations and prevents you from settling for less than your case is worth.",
+        "description": "If falling debris or a tool dropped from above hits you in St. George, you should consult an attorney before speaking to any insurance representative. This is because these accidents often involve serious head or spinal injuries with delayed symptoms. An attorney can ensure that OSHA is notified—which preserves evidence of safety violations—and can investigate whether the site owner or a different contractor was responsible for securing the area. Early legal advice prevents you from inadvertently waiving your right to sue a third party in exchange for a quick, low-ball workers' comp settlement. A lawyer will also make sure the insurer pays for high-quality diagnostic imaging like MRIs right away."
+      }
+    }
+  ]
+}

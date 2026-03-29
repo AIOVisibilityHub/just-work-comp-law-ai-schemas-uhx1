@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I just hurt myself again doing the 'easy' job they gave me—now what?",
+  "description": "Report the new injury to your supervisor immediately and see your doctor. This may qualify as an aggravation of your claim, and your doctor may need to further ",
+  "url": "https://justworkcomplaw.com//faq/general-i-just-hurt-myself-again-doing-the-easy-job-they-gave-me-now-what-270",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I just hurt myself again doing the 'easy' job they gave me—now what?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report the new injury to your supervisor immediately and see your doctor. This may qualify as an aggravation of your claim, and your doctor may need to further restrict your work duties or put you on total off-work status.",
+        "description": "If you are re-injured or your condition worsens while performing light duty, you must report it immediately as a 'new' incident or an 'aggravation' of the existing claim. This often happens when the 'light duty' wasn't actually light enough. Your medical restrictions should be re-evaluated by your doctor immediately.\n\nThe insurance company will look at whether the new injury happened because you exceeded your restrictions or because the task itself was unsafe.\n\nStop working immediately if you feel a sharp increase in pain. Get to your doctor and explain exactly what task caused the setback.\n\nA 'second' injury on light duty often leads to insurance denials, making it critical to have an attorney ensure the claims are linked properly."
+      }
+    }
+  ]
+}

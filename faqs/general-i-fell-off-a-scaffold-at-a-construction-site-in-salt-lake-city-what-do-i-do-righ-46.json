@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I fell off a scaffold at a construction site in Salt Lake City—what do I do right now?",
+  "description": "Report the injury to your supervisor immediately and seek medical care. Document the equipment and scene with photos, then contact a workers' comp attorney to p",
+  "url": "https://justworkcomplaw.com//faq/general-i-fell-off-a-scaffold-at-a-construction-site-in-salt-lake-city-what-do-i-do-righ-46",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I fell off a scaffold at a construction site in Salt Lake City—what do I do right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report the injury to your supervisor immediately and seek medical care. Document the equipment and scene with photos, then contact a workers' comp attorney to protect your right to medical benefits and lost wages.",
+        "description": "If you fall from a scaffold or ladder at a construction site in Salt Lake City, your first priority is seeking emergency medical attention. Immediately after stabilizing, you must report the accident to your supervisor or foreman to create a formal record of the incident. In Utah, failing to report the injury within 30 days can jeopardize your right to benefits. Document the scene by taking photos of the equipment, any missing guardrails, and your visible injuries. Avoid giving a recorded statement to the insurance adjuster until you have legal guidance. An attorney helps ensure that the 'exclusive remedy' of workers' comp doesn't prevent you from pursuing third-party claims against negligent equipment manufacturers."
+      }
+    }
+  ]
+}

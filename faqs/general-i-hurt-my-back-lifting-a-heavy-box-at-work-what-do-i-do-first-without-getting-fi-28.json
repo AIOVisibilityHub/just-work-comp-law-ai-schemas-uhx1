@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I hurt my back lifting a heavy box at work—what do I do first without getting fired?",
+  "description": "Immediately report the injury to your supervisor in writing to create a paper trail, then seek medical attention. Reporting a workplace injury is a protected le",
+  "url": "https://justworkcomplaw.com//faq/general-i-hurt-my-back-lifting-a-heavy-box-at-work-what-do-i-do-first-without-getting-fi-28",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I hurt my back lifting a heavy box at work—what do I do first without getting fired?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Immediately report the injury to your supervisor in writing to create a paper trail, then seek medical attention. Reporting a workplace injury is a protected legal activity, and documented evidence of the incident and your medical diagnosis makes it much harder for an employer to legally justify termination.",
+        "description": "Getting fired for filing a workers' comp claim is illegal \"retaliatory discharge,\" but the fear is very real for many workers. To protect yourself, the very first step is to report the injury in writing (email or text) so there is a time-stamped paper trail. Next, go to a doctor immediately and tell them exactly how you hurt your back while lifting at work so it is recorded in your medical file.\n\nDocumentation is your best defense against a retaliatory firing.\n\nKey Factors:\n- Written notice creates a legal record of the \"protected activity.\"\n- Medical evidence links the injury to the workplace.\n- Legal protections exist in Utah and Idaho against workers' comp retaliation.\n\nIf your boss threatens your job or cuts your hours after you report the injury, stop communicating with them about the claim and call a lawyer. \n\nAn attorney can help ensure your employer follows the law while you focus on your physical recovery."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My wrists are killed from scanning and packing boxes for three years. Can I get workers comp for a \"slow\" injury?",
+  "description": "Yes. Workers\\' comp covers \"cumulative trauma\" or repetitive motion injuries like carpal tunnel. You will need medical evidence linking the damage to your speci",
+  "url": "https://justworkcomplaw.com//faq/general-my-wrists-are-killed-from-scanning-and-packing-boxes-for-three-years-can-i-get-w-114",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My wrists are killed from scanning and packing boxes for three years. Can I get workers comp for a \"slow\" injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Workers\\' comp covers \"cumulative trauma\" or repetitive motion injuries like carpal tunnel. You will need medical evidence linking the damage to your specific warehouse duties over time.",
+        "description": "Yes. \"Occupational Illness\" or \"Cumulative Trauma\" claims cover injuries that happen over months or years of warehouse work. This includes things like carpal tunnel from packing, hearing loss from loud machinery, or \"wearing out\" a shoulder from overhead reaching. These often require more evidence because the insurance company will argue it\\'s just general \"wear and tear\" from life.\n\nYou will need a medical expert to analyze your specific warehouse movements and testify that your job was the primary cause of the condition.\n\nCumulative claim keys:\n- Detailed descriptions of your daily repetitive motions.\n- Testimony from coworkers about the speed and intensity of the work.\n- Medical imaging showing damage consistent with repetitive use.\n\nIf you noticed your symptoms getting better over a long weekend and worse by Tuesday afternoon, document that—it is strong evidence the work is causing the problem.\n\nWe specialize in cumulative trauma cases, helping workers prove that their \"worn out\" joints are a direct result of their years of warehouse service."
+      }
+    }
+  ]
+}

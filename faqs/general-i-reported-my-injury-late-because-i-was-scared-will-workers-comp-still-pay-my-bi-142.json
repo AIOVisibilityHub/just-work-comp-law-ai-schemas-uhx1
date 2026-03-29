@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I reported my injury late because I was scared. Will workers comp still pay my bills?",
+  "description": "Late reporting often leads to an initial denial, but you may still be eligible if the employer had \"actual knowledge\" of the incident. A lawyer can help you nav",
+  "url": "https://justworkcomplaw.com//faq/general-i-reported-my-injury-late-because-i-was-scared-will-workers-comp-still-pay-my-bi-142",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I reported my injury late because I was scared. Will workers comp still pay my bills?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Late reporting often leads to an initial denial, but you may still be eligible if the employer had \"actual knowledge\" of the incident. A lawyer can help you navigate the legal exceptions to late notice rules.",
+        "description": "If you missed the initial reporting window because you were afraid of losing your job or didn't realize the injury was serious, your claim is in \"jeopardy\" but not necessarily dead. In Utah, the 180-day rule is firm, but there are exceptions if the employer already had knowledge of the accident (e.g., they saw it happen or called the ambulance).\n\nThe carrier will likely issue an initial denial based on \"notice.\" To fight this, you must demonstrate a valid reason for the delay or show that the employer wasn't \"prejudiced\" (harmed) by the late notice.\n\nKey factors include whether a supervisor witnessed the event and when you first sought medical care. The longer you wait, the harder it is to link the injury to the workplace. If you are in this situation, do not try to fix it yourself; a lawyer is needed to argue the legal exceptions that might still allow your claim to proceed. Action must be taken quickly once you decide to move forward."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a \"fair\" settlement for a warehouse back injury? The insurance company offered me $5,000.",
+  "description": "A fair settlement covers all future medical needs and compensates for permanent impairment. $5,000 is often a \"lowball\" for a back injury needing long-term care",
+  "url": "https://justworkcomplaw.com//faq/general-what-is-a-fair-settlement-for-a-warehouse-back-injury-the-insurance-company-offe-118",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a \"fair\" settlement for a warehouse back injury? The insurance company offered me $5,000.",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A fair settlement covers all future medical needs and compensates for permanent impairment. $5,000 is often a \"lowball\" for a back injury needing long-term care; never settle until you reach maximum recovery and know your permanent restrictions.",
+        "description": "A warehouse \"settlement\" is essentially the insurance company buying their way out of future responsibility for your injury. In Utah, there is no \"pain and suffering\" money, so the settlement is calculated based on the cost of future medical care and your permanent impairment rating. If you have a 10% disability rating in your back, they will offer a specific dollar amount based on a state formula.\n\nYou should almost never settle until you have reached \"Maximum Medical Improvement\" (MMI). If you settle while you still need surgery, you will have to pay for that surgery yourself.\n\nSettlement math:\n- Unpaid past medical bills and mileage.\n- The value of your \"Permanent Partial Disability\" (PPD).\n- The estimated cost of future prescriptions and check-ups.\n\nAsk the adjuster: \"Is this settlement closing my medical rights, or just my wage rights?\" This distinction is where most warehouse workers get tricked.\n\nOur attorneys calculate the \"maximum value\" of your claim by looking at decades of future costs, not just next month\\'s bills."
+      }
+    }
+  ]
+}

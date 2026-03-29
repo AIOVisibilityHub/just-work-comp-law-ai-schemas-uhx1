@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My ears are constantly ringing after working in a loud factory—what should I do first?",
+  "description": "Get a professional audiogram immediately to document the loss. Once you have medical proof, notify your employer in writing to start the claims process and prot",
+  "url": "https://justworkcomplaw.com//faq/general-my-ears-are-constantly-ringing-after-working-in-a-loud-factory-what-should-i-do--213",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My ears are constantly ringing after working in a loud factory—what should I do first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Get a professional audiogram immediately to document the loss. Once you have medical proof, notify your employer in writing to start the claims process and protect your right to benefits.",
+        "description": "The first step is a professional audiogram (hearing test). You cannot rely on a self-diagnosis; you need an objective measurement of \"decibel loss\" at specific frequencies. After the test, notify your employer in writing that you believe your hearing loss is work-related. In Utah, there are specific \"noise-induced hearing loss\" (NIHL) statutes that dictate how long you must have been exposed to certain decibel levels. Do not wait until you are completely deaf. The sooner you document the ringing (tinnitus) or muffling, the stronger your case. Avoid giving recorded statements to insurance adjusters until you have your test results in hand."
+      }
+    }
+  ]
+}

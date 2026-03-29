@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My supervisor is 'guilt-tripping' me for not doing my regular work. How do I handle the pressure?",
+  "description": "Document all pressure or 'guilt-tripping' in writing. Politely but firmly refer to your doctor's written restrictions in all communications. Retaliation for fol",
+  "url": "https://justworkcomplaw.com//faq/general-my-supervisor-is-guilt-tripping-me-for-not-doing-my-regular-work-how-do-i-handle-273",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My supervisor is 'guilt-tripping' me for not doing my regular work. How do I handle the pressure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Document all pressure or 'guilt-tripping' in writing. Politely but firmly refer to your doctor's written restrictions in all communications. Retaliation for following medical orders is illegal and should be reported to an attorney.",
+        "description": "If your employer is pressuring you to work outside your restrictions, document every instance in writing. Send an email or text to your manager stating: 'Per my doctor’s orders on [Date], I am restricted from [Activity]. I am willing to work, but I cannot perform this specific task without risking further injury.' This creates a paper trail that protects your benefits.\n\nEvidence includes your medical 'Work Status Report,' your written communications to HR, and witness statements from coworkers.\n\nIf they threaten to fire you for following medical orders, do not cave. Contact a lawyer immediately; this is often considered 'bad faith' or retaliatory behavior.\n\nWe step in when employers use intimidation to bypass medical safety protocols."
+      }
+    }
+  ]
+}

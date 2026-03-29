@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I just inhaled toxic fumes at work and I'm dizzy—what do I do right now?",
+  "description": "Move to fresh air, seek emergency medical care immediately, and report the exposure to your supervisor. Request the Safety Data Sheets (SDS) for the chemical an",
+  "url": "https://justworkcomplaw.com//faq/general-i-just-inhaled-toxic-fumes-at-work-and-i-m-dizzy-what-do-i-do-right-now-153",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I just inhaled toxic fumes at work and I'm dizzy—what do I do right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Move to fresh air, seek emergency medical care immediately, and report the exposure to your supervisor. Request the Safety Data Sheets (SDS) for the chemical and document all symptoms as they appear.",
+        "description": "Immediate action is critical when exposed to toxic chemicals. Your first step is to move to a well-ventilated area or an emergency wash station to mitigate further exposure. Seek medical treatment immediately, even if symptoms seem mild, as many chemical reactions (like lung damage or organ failure) develop slowly over several hours.\n\nInform your supervisor as soon as you are medically stable to ensure the incident is logged in the employer's \"OSHA 300\" logs. Request the Safety Data Sheets (SDS) for any substances involved; you have a legal right to this information under federal Law.\n\nKey factors include the duration of exposure and the specific chemical involved. Keep the clothes you were wearing in a plastic bag as evidence if they were saturated. Do not wait for \"permission\" to see a doctor if you are having breathing problems or skin burns. A lawyer can help ensure these early steps are handled properly to prevent the employer from covering up the incident. Your health must come before your job security."
+      }
+    }
+  ]
+}

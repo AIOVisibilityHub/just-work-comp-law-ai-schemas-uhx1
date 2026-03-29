@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss says my workplace fall wasn't their fault—can I still get workers comp in Utah?",
+  "description": "Yes. Utah and Idaho have no-fault workers' compensation systems, so you are eligible for benefits even if the employer wasn't negligent, as long as the injury h",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-says-my-workplace-fall-wasn-t-their-fault-can-i-still-get-workers-comp-i-2",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss says my workplace fall wasn't their fault—can I still get workers comp in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Utah and Idaho have no-fault workers' compensation systems, so you are eligible for benefits even if the employer wasn't negligent, as long as the injury happened during work.",
+        "description": "Utah is a no-fault workers' compensation state, meaning you are generally entitled to benefits regardless of who caused the fall. Whether you tripped over your own feet or your employer left a spill on the floor, the primary requirement is that the injury occurred \"in the course and scope\" of your employment. Your boss's opinion on fault does not override state law. However, there are rare exceptions for self-inflicted injuries or intoxication. As long as you were performing your job duties, you should be eligible for medical bills and lost wage coverage. Navigating a defensive employer often requires an attorney to ensure the insurance adjuster follows the law rather than the employer's narrative."
+      }
+    }
+  ]
+}

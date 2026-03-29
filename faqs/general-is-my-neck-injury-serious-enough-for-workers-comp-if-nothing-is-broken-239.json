@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is my neck injury 'serious enough' for workers' comp if nothing is broken?",
+  "description": "Yes. Soft tissue injuries, herniated discs, and nerve damage are all covered. You don't need a broken bone to qualify for full medical and wage benefits in Utah",
+  "url": "https://justworkcomplaw.com//faq/general-is-my-neck-injury-serious-enough-for-workers-comp-if-nothing-is-broken-239",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is my neck injury 'serious enough' for workers' comp if nothing is broken?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Soft tissue injuries, herniated discs, and nerve damage are all covered. You don't need a broken bone to qualify for full medical and wage benefits in Utah or Idaho.",
+        "description": "Yes. Neck injuries are often 'invisible' on standard X-rays, which only show bones. If you have radiating pain down your arms, tingling in your fingers, or chronic headaches, you likely have nerve or disc damage that requires an MRI. Workers' comp is required to pay for these diagnostic tests if a doctor deems them necessary. Insurance companies often deny MRIs because they are expensive; we can fight these denials to get you the imaging you need.\n\nKey factors include your symptoms (like 'radiculopathy' or nerve pain) and the insurance company’s willingness to pay for specialists.\n\nDemand that your treating doctor document any 'neurological deficits' like muscle weakness or loss of sensation, as this justifies an MRI request.\n\nIf the insurance company is blocking your MRI, a lawyer can use medical necessity rules to force them to authorize the scan."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can my warehouse force me to come back to work while I\\'m still in pain?",
+  "description": "If a doctor clears you for \"light duty,\" you must usually return to an accommodated role. If the job exceeds your medical restrictions, you have the right to re",
+  "url": "https://justworkcomplaw.com//faq/general-can-my-warehouse-force-me-to-come-back-to-work-while-i-m-still-in-pain-119",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can my warehouse force me to come back to work while I\\'m still in pain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If a doctor clears you for \"light duty,\" you must usually return to an accommodated role. If the job exceeds your medical restrictions, you have the right to refuse it and continue receiving benefits.",
+        "description": "If your doctor says you can work with \"light duty\" restrictions (like \"no lifting over 10 lbs\"), and your warehouse offers you a job that fits those rules (like a desk or labeling job), you generally MUST accept it. If you refuse a valid light-duty offer, the insurance company can stop your weekly wage checks. \n\nHowever, the job offer must be real and must actually follow your doctor\\'s orders. They can\\'t make you stand for 8 hours if your doctor said you need a seated position.\n\nLight duty rules:\n- The job must be within the physical limits set by your doctor.\n- In many states, you still get \"Partial\" disability checks if the light-duty job pays less than your old one.\n- You have the right to tell your doctor if the \"light duty\" is actually causing you pain.\n\nIf the warehouse is \"faking\" a light-duty job just to get you off benefits (e.g., making you sit in a broom closet doing nothing), that can be challenged.\n\nA lawyer can ensure that \"light duty\" isn\\'t used as a tool to force you to quit or to re-injure yourself."
+      }
+    }
+  ]
+}

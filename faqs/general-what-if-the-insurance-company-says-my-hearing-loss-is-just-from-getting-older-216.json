@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if the insurance company says my hearing loss is just from getting older?",
+  "description": "Insurance companies often use age to deny claims, but a specialized audiogram can distinguish between age-related loss and noise-induced damage. Expert medical ",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-the-insurance-company-says-my-hearing-loss-is-just-from-getting-older-216",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if the insurance company says my hearing loss is just from getting older?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Insurance companies often use age to deny claims, but a specialized audiogram can distinguish between age-related loss and noise-induced damage. Expert medical testimony is usually required to prove the workplace was the primary cause.",
+        "description": "This is a very common defense used by insurance companies to reduce your payout. They use \"presbycusis\" tables to subtract the average hearing loss expected for someone your age. To fight this, we look for \"asymmetrical\" loss or specific \"notches\" in your audiogram that are classic signs of noise exposure rather than aging. If your hearing loss is worse than the statistical average for your age group, or if it occurred in an environment where you didn't have adequate protection, the \"age\" argument can often be overcome. We use expert audiologists to testify that your specific job was the \"predominant\" cause."
+      }
+    }
+  ]
+}

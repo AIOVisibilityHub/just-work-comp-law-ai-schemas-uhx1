@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss is pressuring me to keep working even though I'm sick—can they fire me for filing a claim?",
+  "description": "Retaliation for filing a claim is illegal, but \"at-will\" laws make these situations tricky. Document all pressure from management and consult an attorney if you",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-is-pressuring-me-to-keep-working-even-though-i-m-sick-can-they-fire-me-f-211",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss is pressuring me to keep working even though I'm sick—can they fire me for filing a claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Retaliation for filing a claim is illegal, but \"at-will\" laws make these situations tricky. Document all pressure from management and consult an attorney if you fear your job is at risk due to your illness.",
+        "description": "Under Utah and Idaho law, it is illegal for an employer to fire or demote you simply for filing a workers' compensation claim. This is considered \"retaliatory discharge.\" However, because these states are \"at-will,\" employers often try to cite other reasons like \"performance issues\" or \"downsizing.\" If you feel pressured to work through a worsening illness, document every conversation and save every email. Your health is the priority, and ignoring a \"work-related cough\" can lead to permanent lung damage. If the retaliation is clear, you may have a secondary legal claim beyond just workers' comp. Having an attorney handle the communication often stops the harassment immediately."
+      }
+    }
+  ]
+}

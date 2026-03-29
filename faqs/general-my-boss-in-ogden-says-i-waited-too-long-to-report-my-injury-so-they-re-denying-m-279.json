@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss in Ogden says I waited too long to report my injury, so they're denying my MRI. Are they right?",
+  "description": "Utah law requires reporting within 180 days, but insurers often deny claims reported after just a few days. While a delay makes the claim harder, it is not an a",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-in-ogden-says-i-waited-too-long-to-report-my-injury-so-they-re-denying-m-279",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss in Ogden says I waited too long to report my injury, so they're denying my MRI. Are they right?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Utah law requires reporting within 180 days, but insurers often deny claims reported after just a few days. While a delay makes the claim harder, it is not an automatic disqualification. Documentation and witnesses can help overcome this denial.",
+        "description": "In Ogden and throughout Utah, you are required to report a work injury within 180 days, but ideally within days of the accident. If you wait months, the insurance company will deny the claim, arguing that the injury 'could have happened anywhere.' However, 'late reporting' is not an automatic loser if you have a valid reason or the employer had 'constructive knowledge.'\n\nFactors: Did you tell a supervisor? Are there witnesses? Is there a medical record from the day of the injury?\n\nSearch your texts or emails for any mention of the injury to your boss from the week it happened. This 'contemporaneous evidence' can save a denied claim.\n\nIf you are being denied for 'late reporting,' we look for ways to prove the employer knew you were hurt, even if a formal form wasn't signed immediately."
+      }
+    }
+  ]
+}

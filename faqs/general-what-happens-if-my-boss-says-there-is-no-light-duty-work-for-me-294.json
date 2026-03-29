@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if my boss says there is no 'light duty' work for me?",
+  "description": "If your employer cannot accommodate your medical restrictions, the insurance company is required to pay you Temporary Total Disability (TTD) benefits (wage repl",
+  "url": "https://justworkcomplaw.com//faq/general-what-happens-if-my-boss-says-there-is-no-light-duty-work-for-me-294",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if my boss says there is no 'light duty' work for me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your employer cannot accommodate your medical restrictions, the insurance company is required to pay you Temporary Total Disability (TTD) benefits (wage replacement) while you are unable to work.",
+        "description": "If your employer cannot find a job that fits your restrictions, the insurance company must pay you Temporary Total Disability (TTD) benefits. You are essentially 'disabled' in the eyes of the law because there is no 'available' work within your physical capacity. This continues until you reach Maximum Medical Improvement or until a position opens up.\n\nThe employer's inability to accommodate you is a 'trigger' for insurance-paid wage replacement.\n\n- You must have valid, updated restrictions from your doctor.\n- The employer must formally state they have no work available.\n- You must remain 'ready and willing' to work if a spot opens up.\n\nIf your employer says they have no work, but the insurance company refuses to pay your weekly check, they are breaking the law. A lawyer can file a 'Motion for Interim Benefits' to force immediate payment."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who pays the bills while I'm waiting for the appeal to go through? I have a family to feed.",
+  "description": "You may need to use private health insurance or Medicaid in the interim. If you win your appeal, the workers' comp insurer must reimburse those providers and pa",
+  "url": "https://justworkcomplaw.com//faq/general-who-pays-the-bills-while-i-m-waiting-for-the-appeal-to-go-through-i-have-a-famil-283",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who pays the bills while I'm waiting for the appeal to go through? I have a family to feed.",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You may need to use private health insurance or Medicaid in the interim. If you win your appeal, the workers' comp insurer must reimburse those providers and pay your out-of-pocket costs back to you.",
+        "description": "If your claim is denied and you need urgent care, you may have to use your private health insurance or pay out of pocket while the legal case is pending. If you later win your workers' comp appeal, the workers' comp carrier is required to 'reimburse' your private health insurance and pay you back for your out-of-pocket co-pays.\n\nThe primary factor is whether your private insurance has an 'exclusion' for work-related injuries (most do, but they will often pay if you provide the denial letter).\n\nKeep every single receipt for prescriptions, braces, and co-pays. These become part of your 'damages' that we fight to recover in a settlement or judgment.\n\nWe coordinate with health insurance providers to ensure they are paid back when we win, so you aren't left with a mountain of debt."
+      }
+    }
+  ]
+}

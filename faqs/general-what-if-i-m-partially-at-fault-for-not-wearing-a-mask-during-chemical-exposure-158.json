@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I'm partially at fault for not wearing a mask during chemical exposure?",
+  "description": "You are likely still covered. Workers' comp is no-fault, and unless you \"willfully\" disregarded a strictly enforced safety rule, simple negligence (like forgett",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-i-m-partially-at-fault-for-not-wearing-a-mask-during-chemical-exposure-158",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I'm partially at fault for not wearing a mask during chemical exposure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You are likely still covered. Workers' comp is no-fault, and unless you \"willfully\" disregarded a strictly enforced safety rule, simple negligence (like forgetting a mask) does not disqualify you from receiving medical and wage benefits.",
+        "description": "If you didn't wear your respirator or gloves during a chemical exposure incident, the insurance company will likely try to reduce your benefits or deny the claim by blaming you for \"willful misconduct.\" However, \"negligence\" (forgetting the mask) is different from \"willful\" refusal to follow a safety rule. In many states like Utah and Texas, if you were just being \"careless,\" you are still covered.\n\nIf the employer didn't properly train you on how to use the mask, or if the mask provided was faulty, your failure to wear it might not hurt your case at all.\n\nKey factors include the quality of the safety training provided and the employer's enforcement of safety rules. If \"everyone\" in the shop skips the masks and the boss knows it, they cannot suddenly blame you for doing the same. An attorney can help prove that the primary fault lies with the company's safety culture, not your individual mistake. Don't assume you have no case just because you weren't \"perfect\" in your safety habits. The law is designed to protect workers, even when they make mistakes."
+      }
+    }
+  ]
+}

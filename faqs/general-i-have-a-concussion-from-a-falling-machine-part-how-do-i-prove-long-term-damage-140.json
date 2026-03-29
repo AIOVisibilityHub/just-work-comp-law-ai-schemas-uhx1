@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have a concussion from a falling machine part—how do I prove long-term damage?",
+  "description": "Proving long-term brain injury requires specialized testing from neurologists and neuropsychologists. You must document cognitive symptoms and have a medical ex",
+  "url": "https://justworkcomplaw.com//faq/general-i-have-a-concussion-from-a-falling-machine-part-how-do-i-prove-long-term-damage-140",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have a concussion from a falling machine part—how do I prove long-term damage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proving long-term brain injury requires specialized testing from neurologists and neuropsychologists. You must document cognitive symptoms and have a medical expert link them to the workplace incident to secure coverage for ongoing care and disability.",
+        "description": "Concussions and Traumatic Brain Injuries (TBIs) from falling objects are frequently underestimated. To prove the long-term impact, you need more than just a quick ER visit. You need a comprehensive evaluation by a neurologist or a neuropsychologist who specializes in workplace head injuries. These specialists can perform testing to document cognitive deficits, memory loss, and light sensitivity.\n\nWorkers' compensation should cover these expensive diagnostic tests. If the insurance company refuses to pay for a specialist, a lawyer can file a motion to compel treatment. Proving long-term damage also requires \"functional capacity\" evidence—showing how the injury prevents you from performing your specific job duties.\n\nKey factors include specialized medical imaging, expert testimony, and \"before and after\" testimony from family and coworkers. Without legal help, insurance companies often try to \"close\" concussion cases once the visible bruises heal, ignoring the lasting neurological damage. A lawyer ensures your future care is factored into any final judgment."
+      }
+    }
+  ]
+}

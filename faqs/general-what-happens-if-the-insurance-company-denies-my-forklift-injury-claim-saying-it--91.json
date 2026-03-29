@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if the insurance company denies my forklift injury claim saying it was a pre-existing back problem?",
+  "description": "You can appeal the denial by filing an Application for Hearing. You will need medical evidence showing that the forklift accident either caused a new injury or ",
+  "url": "https://justworkcomplaw.com//faq/general-what-happens-if-the-insurance-company-denies-my-forklift-injury-claim-saying-it--91",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if the insurance company denies my forklift injury claim saying it was a pre-existing back problem?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can appeal the denial by filing an Application for Hearing. You will need medical evidence showing that the forklift accident either caused a new injury or significantly worsened your old condition.",
+        "description": "If your claim is denied, you have the right to appeal through the state\\'s labor or industrial commission. Common reasons for denial include claims that the injury was a pre-existing condition, lack of witness corroboration, or failing a drug test. In Salt Lake City and Boise, the appeal process involves an evidentiary hearing before an Administrative Law Judge. \n\nYou will need to present medical evidence from a doctor that links your specific forklift trauma to your current physical condition.\n\nSteps in the appeal process:\n- Filing a formal Application for Hearing.\n- Engaging in \"discovery\" to get maintenance records for the forklift.\n- Presenting testimony from medical experts and witnesses.\n\nImmediately request a copy of the denial letter, which will state the specific reason and your deadline to appeal. Do not give up just because the insurance company said \"no\" initially.\n\nAppeals involve complex legal rules of evidence; having a litigation-focused attorney is vital to winning at a hearing."
+      }
+    }
+  ]
+}

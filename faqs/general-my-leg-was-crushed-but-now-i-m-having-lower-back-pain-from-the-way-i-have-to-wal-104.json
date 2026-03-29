@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My leg was crushed, but now I\\'m having lower back pain from the way I have to walk. Does workers comp pay for that too?",
+  "description": "Yes. \"Consequential\" injuries—problems caused by the original injury or the way you compensate for it—are covered. You must ensure your doctor documents the con",
+  "url": "https://justworkcomplaw.com//faq/general-my-leg-was-crushed-but-now-i-m-having-lower-back-pain-from-the-way-i-have-to-wal-104",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My leg was crushed, but now I\\'m having lower back pain from the way I have to walk. Does workers comp pay for that too?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. \"Consequential\" injuries—problems caused by the original injury or the way you compensate for it—are covered. You must ensure your doctor documents the connection to your original forklift accident.",
+        "description": "Yes, secondary conditions like \"foot drop,\" chronic regional pain syndrome (CRPS), or even depression and anxiety caused by a catastrophic forklift injury are covered under workers\\' compensation. If a broken leg from a forklift accident leads to a permanent limp that eventually causes hip or back problems, the insurance company is responsible for those \"consequential\" injuries as well.\n\nThe challenge is proving medical \"causation\"—the link between the original forklift hit and the new symptom.\n\nConsequential injury factors:\n- Medical records that show a progression of pain from one area to another.\n- Expert doctor testimony linking the secondary condition to the primary trauma.\n- Psychological evaluations if the trauma caused PTSD or severe depression.\n\nTell your doctor about *every* pain you have, even if it seems unrelated to the main injury. This prevents the \"you didn\\'t mention your hip last month\" argument.\n\nLawyers ensure that \"cascading\" injuries are included in your final rating so you aren\\'t stuck paying for hip surgery 10 years from now."
+      }
+    }
+  ]
+}

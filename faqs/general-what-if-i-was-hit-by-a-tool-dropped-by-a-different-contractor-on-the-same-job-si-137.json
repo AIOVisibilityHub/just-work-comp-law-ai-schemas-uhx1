@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I was hit by a tool dropped by a different contractor on the same job site?",
+  "description": "You may be able to file both a workers' compensation claim and a third-party personal injury lawsuit. This allows you to seek additional damages, like pain and ",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-i-was-hit-by-a-tool-dropped-by-a-different-contractor-on-the-same-job-si-137",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I was hit by a tool dropped by a different contractor on the same job site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You may be able to file both a workers' compensation claim and a third-party personal injury lawsuit. This allows you to seek additional damages, like pain and suffering, that are not available through traditional workers' comp.",
+        "description": "Being struck by an object can involve \"third-party liability\" if the object was dropped by someone who doesn't work for your company. For example, if you are an electrician on a Salt Lake City job site and a different subcontractor's employee drops a hammer on you from a higher floor, you may have two separate legal claims.\n\nThe first is your standard workers' compensation claim through your own employer for medical bills and a portion of lost wages. The second is a personal injury lawsuit against the other contractor's company for full lost wages and pain and suffering.\n\nKey factors include identifying the specific entity responsible for the falling object and determining if they were \"third parties\" under the law. This drastically increases the potential value of your case. Handling both claims simultaneously requires careful coordination to ensure you aren't \"double-dipping\" in a way that generates a lien against your settlement. An attorney is essential here to maximize the recovery from both sources."
+      }
+    }
+  ]
+}

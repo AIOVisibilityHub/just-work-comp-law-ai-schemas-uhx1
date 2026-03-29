@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is my employer allowed to lower my hourly pay rate while I'm on light duty?",
+  "description": "Generally, no. Your employer should not permanently reduce your base pay rate due to a temporary work restriction. If your pay is lower due to different duties,",
+  "url": "https://justworkcomplaw.com//faq/general-is-my-employer-allowed-to-lower-my-hourly-pay-rate-while-i-m-on-light-duty-268",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is my employer allowed to lower my hourly pay rate while I'm on light duty?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally, no. Your employer should not permanently reduce your base pay rate due to a temporary work restriction. If your pay is lower due to different duties, workers' comp should bridge the gap via partial disability benefits.",
+        "description": "Employers are generally not allowed to permanently demote you or slash your hourly rate just because you are on light duty. While your 'take-home' pay might change because of fewer hours or different tasks, your base earning capacity should be protected. If your employer uses a light duty assignment as an excuse for a permanent pay cut, it may be considered illegal retaliation or a violation of workers' compensation statutes.\n\nRelevant factors include your employment contract, union agreements, and the laws of the specific state (Utah, Idaho, etc.) regarding wage protection.\n\nAsk for a written explanation of your pay rate for the light duty role. Compare this to the 'Statement of Wages' filed by the insurance company.\n\nWhen a temporary injury leads to a permanent demotion, it often indicates the employer is trying to force you out, requiring legal protection."
+      }
+    }
+  ]
+}

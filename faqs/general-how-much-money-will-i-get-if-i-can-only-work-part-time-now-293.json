@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much money will I get if I can only work part-time now?",
+  "description": "You should receive Temporary Partial Disability (TPD) benefits, which typically cover two-thirds of the difference between your old full-time pay and your new p",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-money-will-i-get-if-i-can-only-work-part-time-now-293",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much money will I get if I can only work part-time now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should receive Temporary Partial Disability (TPD) benefits, which typically cover two-thirds of the difference between your old full-time pay and your new part-time earnings, helping to stabilize your income.",
+        "description": "If you can only return to work part-time or in a lower-paying role due to your injury, you are eligible for Temporary Partial Disability (TPD) benefits. TPD is designed to 'bridge the gap.' In most cases, it pays two-thirds (66.6%) of the difference between your pre-injury weekly wage and your new, lower part-time earnings.\n\nThis ensures that you don't suffer a massive financial loss while attempting to return to the workforce.\n\n- Calculation: (Pre-injury wage - Current part-time wage) x 0.66.\n- Paid weekly or bi-weekly depending on your pay cycle.\n- Requires submission of new paystubs to the insurance carrier.\n\nBe sure to keep every paystub from your part-time work and send them immediately to the adjuster. If the insurance company stops paying the 'gap' money, you must file a motion for payment immediately to avoid falling behind on bills."
+      }
+    }
+  ]
+}

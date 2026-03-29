@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I still file a claim if the falling object hit my already-bad back?",
+  "description": "Yes, if the accident \"aggravated\" or \"accelerated\" a pre-existing condition, you are entitled to benefits. You will need clear medical evidence showing how the ",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-still-file-a-claim-if-the-falling-object-hit-my-already-bad-back-149",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I still file a claim if the falling object hit my already-bad back?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if the accident \"aggravated\" or \"accelerated\" a pre-existing condition, you are entitled to benefits. You will need clear medical evidence showing how the falling object specifically worsened your previous condition.",
+        "description": "If you were struck by a heavy object and had a \"pre-existing\" back or neck condition, the insurance company will likely try to deny your claim by saying the injury is \"old.\" However, under workers' comp law, if the falling object \"aggravated\" or \"accelerated\" your old injury, it is still a compensable claim. You don't have to be a perfect physical specimen to get benefits; you just have to prove the work accident made your condition worse.\n\nThis requires a doctor to explicitly state that the strike caused a \"new\" injury or a significant worsening of the old one. This is one of the most common battlegrounds in workers' comp.\n\nKey factors include your medical history and the force of the falling object. Comparing MRIs from before and after the accident is often the best evidence. An attorney is almost always necessary here to handle the complicated medical-legal arguments involved in \"aggravation\" cases. Don't let them deny you just because you've had back pain in the past. Your rights are still protected under the law."
+      }
+    }
+  ]
+}

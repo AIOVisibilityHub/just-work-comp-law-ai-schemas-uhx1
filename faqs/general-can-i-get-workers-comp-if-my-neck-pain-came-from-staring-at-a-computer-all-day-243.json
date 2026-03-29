@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get workers' comp if my neck pain came from staring at a computer all day?",
+  "description": "Yes, repetitive motion or 'ergonomic' injuries are covered. You must prove through medical testimony that your job duties—like constant computer use or repetiti",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-workers-comp-if-my-neck-pain-came-from-staring-at-a-computer-all-day-243",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get workers' comp if my neck pain came from staring at a computer all day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, repetitive motion or 'ergonomic' injuries are covered. You must prove through medical testimony that your job duties—like constant computer use or repetitive lifting—directly caused your neck condition.",
+        "description": "Repetitive strain in the neck is very common for office workers, dental hygienists, and assembly line workers in Utah County and beyond. These are called 'cumulative trauma' claims. While there isn't one specific 'accident,' if you can show that your daily posture or repetitive movements caused a cervical disc to bulge, it is a covered injury. These cases require strong medical backing to link the lifestyle of the job to the physical damage.\n\nKey factors include the duration of your employment and the specific ergonomic hazards of your workstation.\n\nAsk for an ergonomic evaluation at work as soon as you feel pain. This creates a paper trail showing the job is straining your neck.\n\nRepetitive motion claims are frequently denied initially; having a lawyer build the medical 'bridge' between your work and your injury is crucial."
+      }
+    }
+  ]
+}

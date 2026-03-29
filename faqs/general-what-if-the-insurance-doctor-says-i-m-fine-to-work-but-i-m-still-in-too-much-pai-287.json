@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if the insurance doctor says I’m fine to work but I’m still in too much pain?",
+  "description": "You are not required to return to work if it is unsafe, but refusing to go back may stop your benefits. You should seek a second medical opinion and use a Funct",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-the-insurance-doctor-says-i-m-fine-to-work-but-i-m-still-in-too-much-pai-287",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if the insurance doctor says I’m fine to work but I’m still in too much pain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You are not required to return to work if it is unsafe, but refusing to go back may stop your benefits. You should seek a second medical opinion and use a Functional Capacity Evaluation (FCE) to objectively prove your limitations.",
+        "description": "When an insurance company says you are 'clear' but you are still in pain, it usually means their hired doctor (IME) disagrees with your treating physician. You do not have to return to full duty if you are physically unable, but refusing to return without legal backing can result in your benefits being cut off immediately. You have the right to challenge the insurance company’s doctor with evidence from your own medical or chiropractic team.\n\nProving your inability to work requires objective medical evidence like MRIs, EMGs, or functional capacity evaluations (FCE).\n\n- The 'Independent Medical Exam' (IME) is often biased toward the insurer.\n- Your 'Treating Physician's' opinion carries weight but can be challenged.\n- An FCE can objectively prove what movements you can and cannot do.\n\nDo not simply 'no-show' for work; obtain a second medical opinion and file a dispute with the state labor board. A lawyer is vital here to cross-examine the insurance doctor's findings."
+      }
+    }
+  ]
+}

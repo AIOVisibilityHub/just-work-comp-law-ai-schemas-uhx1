@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get fired in Salt Lake City for filing a workers comp claim?",
+  "description": "No, Utah law prohibits employers from firing you simply for filing a workers' comp claim. However, they can still terminate you for unrelated legal reasons, so ",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-fired-in-salt-lake-city-for-filing-a-workers-comp-claim-256",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get fired in Salt Lake City for filing a workers comp claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, Utah law prohibits employers from firing you simply for filing a workers' comp claim. However, they can still terminate you for unrelated legal reasons, so documenting your communications is vital.",
+        "description": "It is illegal for an employer in Utah or Idaho to terminate an employee solely for filing a workers' compensation claim. This is considered 'wrongful termination' or 'retaliatory discharge.' However, it is a complicated area of law because an employer can still fire you for legitimate reasons unrelated to the claim, such as prior performance issues or a company-wide layoff. If you are fired while on temporary disability, it significantly complicates your claim but does not automatically end your benefits.\n\nProtect yourself by:\n- Documenting all communications with your supervisor.\n- Ensuring you follow all 'call-in' procedures even while injured.\n- Keeping copies of any disciplinary actions or performance reviews.\n\nIf you are fired shortly after reporting an injury, the timing alone can be evidence of retaliation. You should immediately seek legal counsel to protect both your workers' comp benefits and your potential rights to a wrongful termination suit. A lawyer can ensure the insurance company doesn't use your termination as an excuse to cut off your checks."
+      }
+    }
+  ]
+}

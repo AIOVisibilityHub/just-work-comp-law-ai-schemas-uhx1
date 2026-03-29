@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I tell HR about the chemical spill or go straight to a lawyer?",
+  "description": "Report the spill to your employer to preserve your rights, but consult a lawyer immediately. An attorney will ensure your report is filed correctly and that the",
+  "url": "https://justworkcomplaw.com//faq/general-should-i-tell-hr-about-the-chemical-spill-or-go-straight-to-a-lawyer-163",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I tell HR about the chemical spill or go straight to a lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report the spill to your employer to preserve your rights, but consult a lawyer immediately. An attorney will ensure your report is filed correctly and that the company doesn't destroy evidence or \"lose\" safety records.",
+        "description": "If you suspect a chemical spill or toxic environment, you should notify your employer as required by law, but you are not obligated to \"negotiate\" with them. You can and should consult a lawyer immediately. A lawyer can guide you on the safest way to report the incident so that you don't inadvertently admit \"fault\" or sign away your rights.\n\nYou can also file a confidential complaint with OSHA, which triggers an investigation without the employer knowing it was you (in theory).\n\nKey factors include the severity of the spill and the company's past safety record. HR is there to protect the company's interests, not yours. A lawyer is the only person in the process whose sole job is to protect your health and financial future. Consulting an attorney early allows for \"evidence preservation\" before the company cleans up the spill and hides the evidence. Your priority is your health, but your lawyer's priority is the truth. Moving quickly ensures that the truth isn't \"scrubbed away\" by the cleaning crew."
+      }
+    }
+  ]
+}

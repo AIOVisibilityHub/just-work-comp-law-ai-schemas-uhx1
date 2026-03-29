@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is there a deadline to file a claim for breathing problems that started years ago?",
+  "description": "Yes, deadlines vary by state; Utah generally requires a claim within one year of discovering the illness is work-related, while Idaho has similar one-year const",
+  "url": "https://justworkcomplaw.com//faq/general-is-there-a-deadline-to-file-a-claim-for-breathing-problems-that-started-years-ag-191",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is there a deadline to file a claim for breathing problems that started years ago?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, deadlines vary by state; Utah generally requires a claim within one year of discovering the illness is work-related, while Idaho has similar one-year constraints from manifestation. Because respiratory issues develop slowly, the clock usually starts at the moment of medical diagnosis.",
+        "description": "In Utah, the statute of limitations for workers\\' compensation is generally one year from the date of injury or the date you should have known the illness was work-related, though some occupational disease claims have longer windows up to several years. In Idaho, you generally have one year from the date of manifestation to file a formal claim with the Commission. Respiratory illnesses are tricky because they often develop slowly over years of \"micro-exposures.\" The clock usually starts when a doctor first tells you, \"Your lung issues are caused by your job.\" Waiting even a few weeks after that diagnosis can jeopardize your entire claim. If you think you\\'ve missed a deadline, an attorney can sometimes identify exceptions based on when the \"discovery\" occurred."
+      }
+    }
+  ]
+}

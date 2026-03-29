@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prove my injury is real if the insurance company says there's 'no medical evidence'?",
+  "description": "You prove it through consistent documentation, diagnostic tests like MRIs, and a strong 'causation statement' from your doctor. If the insurer ignores this, an ",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-prove-my-injury-is-real-if-the-insurance-company-says-there-s-no-medica-276",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prove my injury is real if the insurance company says there's 'no medical evidence'?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You prove it through consistent documentation, diagnostic tests like MRIs, and a strong 'causation statement' from your doctor. If the insurer ignores this, an attorney can help you secure an Independent Medical Examination (IME).",
+        "description": "The insurance company doesn't get to decide what is 'necessary'—your doctors and the medical evidence do. Denials for 'lack of medical evidence' usually mean the insurance adjuster hasn't received the right notes or is choosing to ignore them. You need to bolster your file with specialized testing or an Independent Medical Examination (IME).\n\nEvidence includes diagnostic images (MRIs, EMGs), physical therapy progress notes, and 'Causation Letters' from your treating physician.\n\nAsk your doctor to write a 'Letter of Medical Necessity' specifically addressing why the denied treatment is essential for your recovery and return to work.\n\nWhen an adjuster plays doctor, we bring in actual medical experts to override their denial in court."
+      }
+    }
+  ]
+}

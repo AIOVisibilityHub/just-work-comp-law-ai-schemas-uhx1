@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is there a deadline to appeal a denied medical claim in Boise? I don't want to wait too long.",
+  "description": "Yes. Idaho and Utah both have strict statutes of limitations for filing appeals. In Idaho, you typically must file a complaint within one year of a denial or tw",
+  "url": "https://justworkcomplaw.com//faq/general-is-there-a-deadline-to-appeal-a-denied-medical-claim-in-boise-i-don-t-want-to-wa-277",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is there a deadline to appeal a denied medical claim in Boise? I don't want to wait too long.",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Idaho and Utah both have strict statutes of limitations for filing appeals. In Idaho, you typically must file a complaint within one year of a denial or two years of the injury/last payment. Missing these deadlines will end your claim forever.",
+        "description": "Deadlines are strict. In Utah, you generally have six years from the date of injury to file for a hearing regarding medical benefits, but you should never wait that long. In Idaho, the timelines can be even tighter (often 1-2 years from the date of last payment). Missing these 'Statutes of Repose' or 'Statutes of Limitations' will permanently kill your claim.\n\nFactors include when the injury was reported, when the last 'payment' was made, and whether the claim was ever formally opened.\n\nLook for the 'Final Date' listed on any correspondence from the Labor Commission or the insurance carrier. Mark it in your calendar and act months in advance.\n\nBecause these laws vary wildly between Utah, Idaho, and Colorado, a lawyer is essential to ensure you don't lose your rights on a technicality."
+      }
+    }
+  ]
+}

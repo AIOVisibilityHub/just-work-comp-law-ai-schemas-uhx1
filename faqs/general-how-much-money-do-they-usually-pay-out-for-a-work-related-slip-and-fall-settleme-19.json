@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much money do they usually pay out for a work-related slip and fall settlement?",
+  "description": "Settlement value depends on your medical expenses, lost wages, and permanent impairment rating. Workers' comp typically covers all medical bills and pays about ",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-money-do-they-usually-pay-out-for-a-work-related-slip-and-fall-settleme-19",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much money do they usually pay out for a work-related slip and fall settlement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Settlement value depends on your medical expenses, lost wages, and permanent impairment rating. Workers' comp typically covers all medical bills and pays about two-thirds of your lost wages, plus a lump sum if you have lasting physical limitations after healing.",
+        "description": "The value of a slip and fall claim is based on three main pillars: medical bills, lost wages (TTD), and any permanent impairment (PPD). If you slipped at a warehouse in Utah County and required back surgery, your case is worth significantly more than a localized bruise. Workers' comp pays 66.6% of your average weekly wage while you can't work and covers 100% of related medical costs. \n\nThe final \"settlement\" usually involves an impairment rating once you reach Maximum Medical Improvement (MMI).\n\nKey variables include your pre-injury wage, the severity of the permanent damage, and whether you can return to your previous job.\n\nKeep a strict log of every hour of work missed and every mile driven to doctor appointments. If the insurance company offers a \"full and final\" settlement early, be very cautious. This is the point where a lawyer's calculation of your future medical needs becomes vital."
+      }
+    }
+  ]
+}

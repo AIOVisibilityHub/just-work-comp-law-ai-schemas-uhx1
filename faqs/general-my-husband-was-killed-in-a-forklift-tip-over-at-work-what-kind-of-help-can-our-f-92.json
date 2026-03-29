@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My husband was killed in a forklift tip-over at work. What kind of help can our family get?",
+  "description": "Surviving dependents are entitled to weekly death benefits (a percentage of the worker\\'s wages) and burial expenses through workers\\' compensation. A third-par",
+  "url": "https://justworkcomplaw.com//faq/general-my-husband-was-killed-in-a-forklift-tip-over-at-work-what-kind-of-help-can-our-f-92",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My husband was killed in a forklift tip-over at work. What kind of help can our family get?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surviving dependents are entitled to weekly death benefits (a percentage of the worker\\'s wages) and burial expenses through workers\\' compensation. A third-party lawsuit might also be possible if equipment failure was involved.",
+        "description": "Yes, families in Utah and Idaho are entitled to workers\\' compensation death benefits if a loved one is killed in a forklift accident. These benefits typically include a portion of the deceased worker\\'s weekly wages for a set period and a specific amount to cover funeral and burial expenses. Surviving spouses and dependent children are the primary beneficiaries.\n\nUnlike a wrongful death lawsuit, you don\\'t need to prove the employer was \"negligent\" to receive these benefits, but the payout is capped by state law.\n\nDeath benefit factors:\n- The number of dependents (spouse and children).\n- The deceased worker\\'s average weekly wage at the time of the accident.\n- Statutory limits on burial cost reimbursement.\n\nYou should file a claim for death benefits as soon as possible. Be prepared to provide marriage and birth certificates to prove dependency.\n\nIn cases of gross negligence, an attorney can help determine if there is an additional \"third-party\" claim against a manufacturer or contractor to provide extra support for the family."
+      }
+    }
+  ]
+}

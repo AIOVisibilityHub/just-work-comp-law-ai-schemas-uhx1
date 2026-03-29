@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What actually counts as 'light duty'? Can they just make me sit in a chair all day?",
+  "description": "Light duty is any work modified to fit your doctor's restrictions. While it can include sedentary tasks like filing or monitoring, it must be a legitimate, non-",
+  "url": "https://justworkcomplaw.com//faq/general-what-actually-counts-as-light-duty-can-they-just-make-me-sit-in-a-chair-all-day-271",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What actually counts as 'light duty'? Can they just make me sit in a chair all day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Light duty is any work modified to fit your doctor's restrictions. While it can include sedentary tasks like filing or monitoring, it must be a legitimate, non-humiliating role that doesn't violate your physical limits.",
+        "description": "Light duty must be 'gainful employment' that fits within your medical limitations. It cannot be 'make-work' designed to humiliate you (like sitting in a closet) or tasks that are physically impossible. In Utah and Idaho, the job must provide some value and be a legitimate position within the company or a modified version of your old role.\n\nCourts look at the physical requirements (sitting, standing, lifting) and the environment (temp, noise) compared to your doctor's orders.\n\nRequest a written 'Job Analysis' or job description from your employer and take it to your doctor for a formal 'stamp of approval' or rejection.\n\nIf your 'light duty' is just a way for the employer to harass you into quitting, you have grounds for a legal dispute."
+      }
+    }
+  ]
+}

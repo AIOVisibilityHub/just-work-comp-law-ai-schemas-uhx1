@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My family got sick from the fumes on my work clothes. Can we sue?",
+  "description": "Yes, but not through workers' comp. Your family can file a civil personal injury lawsuit against your employer for \"take-home\" exposure, seeking damages that ar",
+  "url": "https://justworkcomplaw.com//faq/general-my-family-got-sick-from-the-fumes-on-my-work-clothes-can-we-sue-160",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My family got sick from the fumes on my work clothes. Can we sue?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but not through workers' comp. Your family can file a civil personal injury lawsuit against your employer for \"take-home\" exposure, seeking damages that aren't available to you as an employee.",
+        "description": "\"Take-home\" exposure—where toxic dust or chemicals on your clothes make your family sick—is a complex area of law. Generally, your family cannot file for workers' compensation because they aren't employees. Instead, they would need to file a civil \"personal injury\" or \"wrongful death\" lawsuit against your employer for negligence.\n\nIn many states, employers have a \"duty of care\" to prevent their toxins from leaving the worksite. If they didn't provide showers or a place to change clothes, they may be liable for your family's illnesses.\n\nKey factors include the employer's knowledge of the \"take-home\" risk and the specific toxin involved (like asbestos or lead). These cases are high-stakes and often involve multiple family members. Because they fall outside the workers' comp \"protections,\" your employer can be held liable for full damages, including pain and suffering for your spouse or children. This is a specialized area of litigation that requires an attorney with experience in toxic torts. Protecting your family means holding your employer accountable for their environmental negligence."
+      }
+    }
+  ]
+}

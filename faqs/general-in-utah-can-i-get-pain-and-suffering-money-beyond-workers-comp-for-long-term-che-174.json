@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Utah, can I get pain and suffering money beyond workers comp for long-term chemical damage?",
+  "description": "Workers' comp does not pay for pain and suffering; it only covers economic losses. To receive money for pain and suffering, you must identify a third party (oth",
+  "url": "https://justworkcomplaw.com//faq/general-in-utah-can-i-get-pain-and-suffering-money-beyond-workers-comp-for-long-term-che-174",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Utah, can I get pain and suffering money beyond workers comp for long-term chemical damage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers' comp does not pay for pain and suffering; it only covers economic losses. To receive money for pain and suffering, you must identify a third party (other than your employer) whose negligence caused the exposure and file a separate personal injury lawsuit.",
+        "description": "Workers\\' compensation settlements in Utah are typically limited to medical bills, wage replacement, and permanent impairment benefits—they do not include \"pain and suffering\" or punitive damages. However, if your exposure was caused by a third party (like a machine manufacturer or an outside contractor), you can file a separate personal injury lawsuit where pain and suffering are compensable. This is often the only way to get full financial recovery for the emotional and physical toll of long-term chemical damage.\n\nTo seek extra money, you must:\n- Prove your injury was caused by someone other than your employer or a direct coworker.\n- Document the profound impact the illness has had on your quality of life.\n- Navigate the \"lien\" process where workers' comp may want reimbursement from your lawsuit settlement.\n\nCheck if the chemicals you used were part of a mass tort or product liability case. If the damage is life-altering, a simple workers' comp claim is rarely enough. Consulting a lawyer is the only way to determine if you have a viable third-party case for pain and suffering."
+      }
+    }
+  ]
+}

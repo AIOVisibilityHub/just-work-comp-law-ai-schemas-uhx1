@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much compensation can I get for a broken leg from a site accident in St. George?",
+  "description": "Compensation includes all medical expenses, roughly 66% of lost wages, and a potential permanent disability settlement based on your impairment rating. Third-pa",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-compensation-can-i-get-for-a-broken-leg-from-a-site-accident-in-st-geor-49",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much compensation can I get for a broken leg from a site accident in St. George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compensation includes all medical expenses, roughly 66% of lost wages, and a potential permanent disability settlement based on your impairment rating. Third-party claims can add pain and suffering damages.",
+        "description": "Calculating the value of a construction injury claim in St. George depends on several objective and subjective factors. Workers' compensation typically pays for 100% of authorized medical bills and roughly two-thirds of your average weekly wage while you are unable to work. If you have a permanent impairment, Utah uses a specific schedule or 'rating' to determine a lump-sum payout based on the body part and severity. If a third-party claim is possible, the value increases significantly to include pain, suffering, and full loss of future earning capacity. Your age, pre-accident earnings, and the permanence of the injury are the primary drivers of value. Legal representation is often necessary to ensure medical ratings are accurate and not understated by company doctors."
+      }
+    }
+  ]
+}

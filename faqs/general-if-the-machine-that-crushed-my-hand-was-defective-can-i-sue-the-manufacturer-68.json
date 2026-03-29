@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If the machine that crushed my hand was defective, can I sue the manufacturer?",
+  "description": "Yes. While workers\\' comp covers your medical bills, you can often file a separate third-party lawsuit against a manufacturer for a defective machine to recover",
+  "url": "https://justworkcomplaw.com//faq/general-if-the-machine-that-crushed-my-hand-was-defective-can-i-sue-the-manufacturer-68",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If the machine that crushed my hand was defective, can I sue the manufacturer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. While workers\\' comp covers your medical bills, you can often file a separate third-party lawsuit against a manufacturer for a defective machine to recover additional damages like pain and suffering.",
+        "description": "If a machine malfunctions due to a design or manufacturing flaw, you may have two separate legal paths: a workers\\' compensation claim against your employer and a \"third-party\" product liability lawsuit against the machine manufacturer. Workers\\' comp covers medical bills and a portion of lost wages regardless of fault, while a lawsuit against a manufacturer can recover \"pain and suffering\" damages not available through comp.\n\nThis is a critical distinction because workers\\' comp often fails to cover the full scope of a life-altering injury. A third-party claim allows you to hold the maker of the dangerous equipment accountable for their negligence.\n\nKey factors include:\n- The maintenance history of the machine.\n- Any previous recalls or known defects with that model.\n- Whether the machine’s safety guards were improperly designed.\n- Expert analysis of the mechanical failure.\n\nPreserving the machine in its post-accident state is essential for a product liability claim. Consulting a legal professional early ensures that independent experts can inspect the equipment before it is altered or destroyed."
+      }
+    }
+  ]
+}

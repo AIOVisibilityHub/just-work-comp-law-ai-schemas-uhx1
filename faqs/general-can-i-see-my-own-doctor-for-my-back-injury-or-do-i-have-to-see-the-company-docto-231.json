@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I see my own doctor for my back injury or do I have to see the company doctor?",
+  "description": "Initially, your employer or their insurer usually chooses the doctor. However, in Utah and Idaho, you typically have a one-time right to change your treating ph",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-see-my-own-doctor-for-my-back-injury-or-do-i-have-to-see-the-company-docto-231",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I see my own doctor for my back injury or do I have to see the company doctor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Initially, your employer or their insurer usually chooses the doctor. However, in Utah and Idaho, you typically have a one-time right to change your treating physician. You must follow specific procedures to do so.",
+        "description": "In Utah and Idaho, the insurance company generally has the right to choose the initial treating physician. However, you usually have a one-time right to switch doctors if you are unhappy with the care you are receiving. It is critical to use this switch wisely, as you want a doctor who understands the complexities of spinal injuries and isn't just trying to 'close the case' for the insurance company.\n\nKey factors include the state rules on doctor selection and your specific medical needs (e.g., needing an orthopedic surgeon vs. a general GP).\n\nDon't just pick any doctor. Look for specialists who have experience with workers' compensation and who will accurately document your limitations.\n\nWe can guide you through the process of requesting a change of physician to ensure you are treated by someone who prioritizes your recovery."
+      }
+    }
+  ]
+}

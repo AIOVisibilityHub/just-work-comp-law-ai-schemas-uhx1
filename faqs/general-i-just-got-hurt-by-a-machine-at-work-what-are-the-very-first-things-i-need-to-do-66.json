@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I just got hurt by a machine at work—what are the very first things I need to do?",
+  "description": "Immediately seek medical care and report the injury to your supervisor in writing. Document the machine\\'s ID number, take photos of the accident scene if possi",
+  "url": "https://justworkcomplaw.com//faq/general-i-just-got-hurt-by-a-machine-at-work-what-are-the-very-first-things-i-need-to-do-66",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I just got hurt by a machine at work—what are the very first things I need to do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Immediately seek medical care and report the injury to your supervisor in writing. Document the machine\\'s ID number, take photos of the accident scene if possible, and identify any witnesses to ensure your workers\\' comp claim is preserved.",
+        "description": "If you are injured by machinery at work in Utah or Idaho, your first priority is seeking medical attention and then formally reporting the incident to your supervisor. Reporting the accident in writing creates an official record and triggers the workers\\' compensation process. You must also identify the specific machine involved and, if possible, take photos of the equipment and the surrounding area. \n\nThis immediate action is vital because employers and insurance companies often try to argue that injuries happened outside of work or were not as severe as claimed. By documenting the incident and seeking a medical evaluation immediately, you link your injuries directly to the machinery malfunction or accident. \n\nKey factors include:\n- The exact time and date of the incident.\n- Witnesses who saw the machine fail or the accident occur.\n- Medical records created immediately following the injury.\n- Physical evidence of the machine\\'s condition (e.g., missing guards).\n\nYou should avoid giving a recorded statement to an insurance adjuster until you have stabilized and understood your rights. If the machinery was defective, you may have additional claims against the manufacturer. A lawyer can help preserve evidence before the company repairs or identifies the machine."
+      }
+    }
+  ]
+}

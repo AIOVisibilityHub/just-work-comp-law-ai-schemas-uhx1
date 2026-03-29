@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My doctor says it's a cumulative lifting injury over months—will comp cover that in Idaho?",
+  "description": "Yes, Idaho workers' compensation covers cumulative injuries caused by repetitive lifting. You must provide medical evidence that your job duties were a signific",
+  "url": "https://justworkcomplaw.com//faq/general-my-doctor-says-it-s-a-cumulative-lifting-injury-over-months-will-comp-cover-that-31",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My doctor says it's a cumulative lifting injury over months—will comp cover that in Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Idaho workers' compensation covers cumulative injuries caused by repetitive lifting. You must provide medical evidence that your job duties were a significant contributing factor to the injury, even if there wasn't one single \"snap\" or \"pop\" incident.",
+        "description": "In Idaho, work-related injuries are covered by workers' compensation even if the injury is \"cumulative\" rather than a single event. If your doctor can testify that months of repetitive heavy lifting caused your spine to break down or a disc to herniate, it is a valid claim. However, these cases are strictly scrutinized because insurers prefer to label them as \"degenerative conditions\" related to age.\n\nYou must show that the workplace lifting was a \"contributing factor\" to the medical need for treatment.\n\nKey Factors:\n- Medical evidence showing work caused the acceleration of the condition.\n- Detailed job description showing the frequency of lifting.\n- Absence of significant non-work-related spinal strain.\n\nDocumentation of your daily lifting volume is critical for cumulative claims. \n\nSince Idaho law can be complex regarding \"accidents\" vs \"occupational diseases,\" a consultation with an attorney is vital to ensure your claim is filed under the correct legal theory."
+      }
+    }
+  ]
+}

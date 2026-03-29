@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of proof do I need to show the machine was unsafe?",
+  "description": "Gather photos of the machine, witness contact info, and medical records. Maintenance logs and OSHA reports are also critical for proving the equipment was knowi",
+  "url": "https://justworkcomplaw.com//faq/general-what-kind-of-proof-do-i-need-to-show-the-machine-was-unsafe-72",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of proof do I need to show the machine was unsafe?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gather photos of the machine, witness contact info, and medical records. Maintenance logs and OSHA reports are also critical for proving the equipment was knowingly left in a dangerous state.",
+        "description": "To win a machinery accident case, you need more than just your own account; you need a paper trail and physical evidence. The most critical evidence is the initial medical report, which should clearly state that the injury happened while operating equipment at work. You also need the OSHA incident report if an investigation was triggered.\n\nIf the machine was old or poorly maintained, maintenance logs and repair records are vital. They can prove that the employer knew the machine was dangerous but failed to act.\n\nKey factors include:\n- Photos of the machine, safety guards, and signage.\n- Eyewitness statements from coworkers.\n- Maintenance and inspection logs for the equipment.\n- Digital data logs from the machine (if modern).\n\nOften, an employer will fix a machine immediately after an accident. Getting an attorney involved quickly allows for a \"spoliation of evidence\" letter to be sent, legally requiring the company to preserve the equipment and records in their current state."
+      }
+    }
+  ]
+}

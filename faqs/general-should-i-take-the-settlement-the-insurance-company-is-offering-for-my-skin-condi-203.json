@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I take the settlement the insurance company is offering for my skin condition?",
+  "description": "Never accept a first offer without a full medical evaluation of your long-term prognosis. Occupational diseases often recur or worsen, and a settlement might si",
+  "url": "https://justworkcomplaw.com//faq/general-should-i-take-the-settlement-the-insurance-company-is-offering-for-my-skin-condi-203",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I take the settlement the insurance company is offering for my skin condition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Never accept a first offer without a full medical evaluation of your long-term prognosis. Occupational diseases often recur or worsen, and a settlement might sign away your right to future medical treatments you will eventually need.",
+        "description": "Accepting the first offer for an occupational disease is almost always a mistake. Diseases like vibration white finger or chronic dermatitis often get worse over time, not better. Once you sign a \"full and final\" settlement, you cannot go back for more money if you need surgery or more treatment five years later. In Utah, settlements should account for your Permanent Partial Disability (PPD) rating and the likelihood of future \"medical-only\" claims. We calculate the \"full value\" by looking at your life expectancy and the cost of ongoing care. If the settlement doesn't include a provision for future medical needs, we advise against signing it. Professional valuation is the only way to ensure you aren't being lowballed."
+      }
+    }
+  ]
+}

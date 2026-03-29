@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My commute turned into a work trip and I crashed—what now in Utah?",
+  "description": "Standard commutes aren't usually covered, but if you were performing a 'special errand' or traveling between job sites, you are likely eligible for benefits. A ",
+  "url": "https://justworkcomplaw.com//faq/general-my-commute-turned-into-a-work-trip-and-i-crashed-what-now-in-utah-124",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My commute turned into a work trip and I crashed—what now in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard commutes aren't usually covered, but if you were performing a 'special errand' or traveling between job sites, you are likely eligible for benefits. A lawyer can help determine if your specific situation qualifies as an exception to the 'going and coming' rule.",
+        "description": "Utah law typically follows the 'going and coming' rule, which excludes your standard commute from workers' comp coverage. However, if your commute transformed into a work trip—perhaps because you stopped to pick up supplies, were on a multi-destination route, or were 'on-call'—you may be eligible. If your employer provides a company vehicle for the commute as an integral part of the job, the coverage window often widens.\n\nExceptions to the rule include:\n- Special errands performed at the employer's request.\n- Traveling between different work sites.\n- Using a vehicle that serves as a 'mobile office.'\n\nDetermining ‘course of employment’ during a commute is legally complex and highly fact-specific. If your claim was denied because it happened during your commute, a legal review of your specific job requirements is necessary to challenge the insurer's decision."
+      }
+    }
+  ]
+}

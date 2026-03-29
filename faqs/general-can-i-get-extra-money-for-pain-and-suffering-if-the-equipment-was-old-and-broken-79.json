@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get extra money for pain and suffering if the equipment was old and broken?",
+  "description": "Workers\\' comp doesn\\'t pay for pain and suffering, but a third-party lawsuit against the equipment manufacturer or a negligent maintenance company can provide ",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-extra-money-for-pain-and-suffering-if-the-equipment-was-old-and-broken-79",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get extra money for pain and suffering if the equipment was old and broken?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers\\' comp doesn\\'t pay for pain and suffering, but a third-party lawsuit against the equipment manufacturer or a negligent maintenance company can provide these additional damages.",
+        "description": "Standard workers\\' compensation in Utah and Idaho does not pay for \"pain and suffering.\" It is a trade-off: you get medical bills paid without proving fault, but you give up the right to sue your employer for emotional distress. However, if a third party (like a manufacturer) is involved, a lawsuit against them *does* include pain and suffering.\n\nThis is why identifying a malfunction is so important. It opens the door to money that workers\\' comp alone cannot provide.\n\nKey factors include:\n- The severity of your physical pain and duration of recovery.\n- Impact on your mental health (PTSD, anxiety).\n- Loss of enjoyment of hobbies or family life.\n- Permanent scarring or disfigurement.\n\nIf your injury is severe, relying solely on workers\\' comp may leave you financially struggling. An attorney can evaluate if a third-party claim exists to help you get the full compensation you deserve for your physical and mental suffering."
+      }
+    }
+  ]
+}

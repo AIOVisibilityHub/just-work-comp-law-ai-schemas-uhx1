@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it too late to report an equipment injury if it happened a month ago?",
+  "description": "It is likely not too late, as Utah allows up to 180 days for reporting. However, any delay gives the insurance company an excuse to doubt your claim, so report ",
+  "url": "https://justworkcomplaw.com//faq/general-is-it-too-late-to-report-an-equipment-injury-if-it-happened-a-month-ago-82",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it too late to report an equipment injury if it happened a month ago?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is likely not too late, as Utah allows up to 180 days for reporting. However, any delay gives the insurance company an excuse to doubt your claim, so report it in writing immediately.",
+        "description": "Missing the reporting deadline is one of the most common reasons equipment injury claims are denied. In Utah, you should report within 180 days; in Idaho, 60 days. If you wait longer, the insurance company will argue that your injury didn't happen at work or that your own delay made the injury worse.\n\nHowever, if you can prove your employer had \"actual knowledge\" of the injury (e.g., they saw the equipment break and saw you get hurt), you may still be able to file even if you didn't submit a written report on time.\n\nKey factors include:\n- Whether there is any digital record of the malfunction (error codes, logs).\n- Eyewitnesses who can confirm the date of the event.\n- Medical records that show you sought treatment shortly after.\n- Evidence that the employer \"knew\" about the accident without a report.\n\nIf you have missed a deadline, do not give up. A lawyer can often find legal workarounds, such as \"equitable tolling,\" to keep your claim alive if there is a valid reason for the delay."
+      }
+    }
+  ]
+}

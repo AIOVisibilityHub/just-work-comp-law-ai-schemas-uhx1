@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If I can't work anymore, am I going to lose my health insurance?",
+  "description": "Workers' comp will continue to pay for your injury-related medical care regardless of your employment status. However, your general employer-sponsored health in",
+  "url": "https://justworkcomplaw.com//faq/general-if-i-can-t-work-anymore-am-i-going-to-lose-my-health-insurance-296",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If I can't work anymore, am I going to lose my health insurance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers' comp will continue to pay for your injury-related medical care regardless of your employment status. However, your general employer-sponsored health insurance may end if you are no longer employed, making a settlement for future care costs vital.",
+        "description": "If you cannot return to your job and the insurance carrier stops paying, you generally will not lose your 'right' to health insurance immediately, but you may lose your employer-sponsored plan if you are terminated. However, your medical treatments for the *work injury specifically* must be paid for by workers' comp for as long as they are related to the accident—even if you are fired.\n\nFor non-work-related health needs (like a cold or family members' care), your job loss could end your coverage.\n\n- COBRA might be an option but is very expensive.\n- Workers' comp medical coverage stays active for the specific injury.\n- Seeking 'Settlement' often includes a lump sum to cover future health costs.\n\nBecause your family's health stability is at risk, you should explore if your case qualifies for a settlement that includes funds for private insurance. A lawyer can help negotiate these 'future care' costs into your final payout."
+      }
+    }
+  ]
+}

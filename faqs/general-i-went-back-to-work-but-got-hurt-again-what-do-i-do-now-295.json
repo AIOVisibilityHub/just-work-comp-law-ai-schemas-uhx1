@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I went back to work but got hurt again—what do I do now?",
+  "description": "Report the re-injury immediately. It is typically handled as a continuation of your original claim. You should return to your doctor to get updated restrictions",
+  "url": "https://justworkcomplaw.com//faq/general-i-went-back-to-work-but-got-hurt-again-what-do-i-do-now-295",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I went back to work but got hurt again—what do I do now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report the re-injury immediately. It is typically handled as a continuation of your original claim. You should return to your doctor to get updated restrictions and ensure your wage benefits are restarted if you cannot continue working.",
+        "description": "If you re-injure the same body part after returning to work, it is often treated as a 'recurrence' or an 'aggravation' of the original claim. You should report it immediately and return to your original workers' comp doctor. Do not let the employer tell you it's a 'new' injury that requires a new waiting period if it's clearly related to the first incident.\n\nA re-injury often suggests that you were sent back to work too soon or that the 'light duty' was too strenuous.\n\n- The insurance company for the first injury is usually still liable.\n- New restrictions should be issued by your physician immediately.\n- You may need to revisit your disability rating (PPD).\n\nDocument exactly what task you were doing when the pain returned. If your employer tries to treat it as a brand-new accident to avoid higher premiums, legal counsel can help link the two incidents to ensure continuous coverage."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much compensation is my lung damage from work chemicals worth?",
+  "description": "Compensation covers all medical bills, lost wages, and permanent impairment ratings. Since lung damage often requires lifelong care, these claims can be signifi",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-compensation-is-my-lung-damage-from-work-chemicals-worth-159",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much compensation is my lung damage from work chemicals worth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compensation covers all medical bills, lost wages, and permanent impairment ratings. Since lung damage often requires lifelong care, these claims can be significant and are calculated based on your future medical needs and reduced earning capacity.",
+        "description": "Compensation for chemical exposure lung damage (like COPD, asthma, or silicosis) includes all medical expenses, including inhalers, oxygen, and potential transplants. It also includes \"Temporary Total Disability\" if you can't work during treatment and a \"Permanent Partial Disability\" (PPD) payment if your lung function is permanently reduced.\n\nThe value of these cases is often much higher than simple injuries because the medical care is lifelong. In Salt Lake City and Boise, an attorney will use \"life care planners\" to calculate the exact cost of your future medical needs.\n\nKey factors include your \"forced expiratory volume\" (FEV) test results and your \"vocational\" ability to work in other environments. If you can never work around dust or fumes again, you may be entitled to significant vocational retraining benefits. Because these cases involve \"hidden\" internal damage, the insurance company will try to give you the smallest possible impairment rating. Legal representation is vital to fighting for a rating that truly reflects your loss of health. The goal is to ensure you are never a financial burden to your family because of a work illness."
+      }
+    }
+  ]
+}

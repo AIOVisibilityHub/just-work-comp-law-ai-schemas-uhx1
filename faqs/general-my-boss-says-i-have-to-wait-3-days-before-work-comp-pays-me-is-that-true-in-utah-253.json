@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss says I have to wait 3 days before work comp pays me—is that true in Utah?",
+  "description": "Yes, Utah has a three-day waiting period for temporary disability benefits. However, if your injury keeps you out of work for more than 14 days, you are entitle",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-says-i-have-to-wait-3-days-before-work-comp-pays-me-is-that-true-in-utah-253",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss says I have to wait 3 days before work comp pays me—is that true in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Utah has a three-day waiting period for temporary disability benefits. However, if your injury keeps you out of work for more than 14 days, you are entitled to receive back-pay for those first three days.",
+        "description": "In Utah, there is a standard three-day waiting period for temporary disability benefits. If your doctor sidelines you, you will not be paid for the first three days of missed work unless your disability extends beyond 14 days total. Once you hit that 14-day mark, the insurance company is required to retroactively pay you for those initial three days. This rule is designed to filter out very minor injuries while protecting those with more significant recovery times.\n\nKey factors include:\n- The 14-day threshold for retroactive pay.\n- The requirement of a formal work release from a medical professional.\n- Calculation based on your gross wages at the time of injury.\n\nYou should track every day you are off work and ensure your doctor provides a 'Work Status Report' specifically stating you cannot work. Failure to get this documentation can lead to a denial of those initial days. If you are approaching the two-week mark and haven't seen a check, a legal review of your claim status is often necessary."
+      }
+    }
+  ]
+}

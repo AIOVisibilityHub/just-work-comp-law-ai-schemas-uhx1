@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does 'Maximum Medical Improvement' mean for my settlement?",
+  "description": "MMI means your condition is stable and no further improvement is expected. It is the point where temporary benefits end and you are evaluated for a permanent di",
+  "url": "https://justworkcomplaw.com//faq/general-what-does-maximum-medical-improvement-mean-for-my-settlement-260",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does 'Maximum Medical Improvement' mean for my settlement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "MMI means your condition is stable and no further improvement is expected. It is the point where temporary benefits end and you are evaluated for a permanent disability rating and potential settlement.",
+        "description": "Maximum Medical Improvement (MMI) is the most critical milestone in a permanent disability claim. It is the point at which your injury has healed as much as it is going to, and no further curative treatment is expected to help. When a doctor declares you are at MMI, your weekly temporary benefits will stop, and your case moves into the 'permanent' phase. This is when the insurance company owes you for the lasting damage done to your body.\n\nWhy MMI matters:\n- It terminates temporary disability payments.\n- It triggers the requirement for an impairment rating.\n- It serves as the starting point for settlement negotiations.\n\nBeing put at MMI does not mean you are 'cured'—it just means you are 'stable.' You may still need maintenance care, such as pain medication or occasional physical therapy. If a doctor puts you at MMI too early, you must challenge that finding immediately to keep your medical treatment and temporary checks flowing. An attorney can help you secure an independent medical exam to dispute a premature MMI status."
+      }
+    }
+  ]
+}

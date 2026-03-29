@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get paid for pain and suffering in an industrial workplace injury?",
+  "description": "Not through traditional workers' comp. However, you can recover for pain and suffering by filing a third-party lawsuit against negligent contractors or equipmen",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-paid-for-pain-and-suffering-in-an-industrial-workplace-injury-58",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get paid for pain and suffering in an industrial workplace injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not through traditional workers' comp. However, you can recover for pain and suffering by filing a third-party lawsuit against negligent contractors or equipment manufacturers.",
+        "description": "In standard workers' compensation cases in Utah and Idaho, 'pain and suffering' is not a recoverable category of damange. Workers' comp is strictly limited to medical bills, specific wage replacement, and permanent disability ratings. However, you can recover for pain and suffering if you successfully file a third-party personal injury lawsuit against someone other than your employer (like a vendor or manufacturer). Additionally, if your employer's conduct was 'intentionally' harmful—which is a very high legal bar—you might be able to sue outside of the comp system. An attorney's job is to search for these 'extra' avenues of compensation so you aren't limited to the basic, often insufficient, comp benefits."
+      }
+    }
+  ]
+}

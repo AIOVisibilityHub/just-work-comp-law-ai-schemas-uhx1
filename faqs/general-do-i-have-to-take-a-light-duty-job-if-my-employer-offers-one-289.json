@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I have to take a 'light duty' job if my employer offers one?",
+  "description": "Generally, yes—if the job fits your doctor's restrictions. If you refuse valid light duty, your benefits may be suspended. However, if the job exceeds your limi",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-have-to-take-a-light-duty-job-if-my-employer-offers-one-289",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I have to take a 'light duty' job if my employer offers one?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally, yes—if the job fits your doctor's restrictions. If you refuse valid light duty, your benefits may be suspended. However, if the job exceeds your limitations, you have the right to refuse it.",
+        "description": "If your employer offers 'light duty' within your doctor's restrictions, you generally must accept it or risk losing your TTD (wage replacement) checks. However, if the job they offer is a 'sham' job (e.g., sitting in a closet doing nothing) or if it actually violates your medical restrictions, you can contest the assignment. If no light duty is available, the insurance company remains responsible for paying your weekly disability benefits.\n\nThe key is whether the offered work is 'productive' and consistent with your physical limitations.\n\n- Restrictions must be strictly followed by the employer.\n- You cannot be forced to perform tasks that cause further injury.\n- If the light duty pays less, 'temporary partial disability' should cover the difference.\n\nAlways take a copy of your restrictions to the light-duty shift. If the manager asks you to do more than allowed, politely decline and cite the doctor's orders. If they pressure you, contact a lawyer immediately."
+      }
+    }
+  ]
+}

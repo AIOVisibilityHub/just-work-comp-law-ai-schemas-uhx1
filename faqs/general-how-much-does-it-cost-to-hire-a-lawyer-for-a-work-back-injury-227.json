@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to hire a lawyer for a work back injury?",
+  "description": "Nothing upfront. We work on a contingency fee basis, meaning we only get paid a percentage of the settlement we secure for you. If you don't win, you don't pay ",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-does-it-cost-to-hire-a-lawyer-for-a-work-back-injury-227",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to hire a lawyer for a work back injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nothing upfront. We work on a contingency fee basis, meaning we only get paid a percentage of the settlement we secure for you. If you don't win, you don't pay attorney fees.",
+        "description": "You do not have to pay anything out of pocket. Workers' compensation attorneys at Just Work Comp Law work on a 'contingency fee' basis. This means our fee is a percentage of the back pay or settlement we recover for you. If we don't win your case or get you a settlement, you owe us nothing in attorney fees. Our goal is to make the process stress-free so you can focus on physical therapy and recovery.\n\nKey factors include the state-mandated fee caps (Utah and Idaho have specific limits on what work comp lawyers can charge).\n\nAlways read the fee agreement clearly. In most cases, the fee is deducted directly from the final check issued by the insurance company.\n\nBecause there is no upfront cost, there is no financial risk in hiring an attorney to handle your back injury claim."
+      }
+    }
+  ]
+}

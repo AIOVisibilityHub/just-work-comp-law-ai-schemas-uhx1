@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my employer in Salt Lake says the toxic exposure wasn't their equipment's fault?",
+  "description": "It doesn't matter. Workers' comp is a no-fault system, so you are covered even if the equipment worked perfectly or if someone made a mistake, as long as the ex",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-my-employer-in-salt-lake-says-the-toxic-exposure-wasn-t-their-equipment--186",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my employer in Salt Lake says the toxic exposure wasn't their equipment's fault?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It doesn't matter. Workers' comp is a no-fault system, so you are covered even if the equipment worked perfectly or if someone made a mistake, as long as the exposure happened during your work duties.",
+        "description": "If your employer in Ogden or Salt Lake claims the equipment wasn't at fault, they are still potentially liable under workers' compensation. Because workers' comp is a \"no-fault\" system, the reason the exposure happened (equipment failure vs. employee error vs. \"act of God\") doesn't usually matter—all that matters is that it happened while you were doing your job. The only time equipment fault matters is if you are trying to sue the manufacturer of that equipment in a third-party claim.\n\nLegal realities:\n- Employers often use \"it wasn't the equipment\" as a distraction to get you to drop the claim.\n- Even if you used the equipment incorrectly, you are still covered in most cases.\n- Fault only becomes a major factor in a personal injury lawsuit, not a comp claim.\n\nContinue with your claim regardless of what they say about the equipment. If they are pushing this narrative heavily, it might be because they are afraid of an OSHA investigation. A lawyer will help you focus on the medical link to your injury, which is the only thing that truly matters for workers' comp."
+      }
+    }
+  ]
+}

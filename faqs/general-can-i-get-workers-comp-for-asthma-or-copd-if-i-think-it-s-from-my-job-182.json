@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get workers comp for asthma or COPD if I think it's from my job?",
+  "description": "Yes, if you can prove your work environment was the 'preponderant cause' of your condition. While insurance companies often blame these on 'life factors' like s",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-workers-comp-for-asthma-or-copd-if-i-think-it-s-from-my-job-182",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get workers comp for asthma or COPD if I think it's from my job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if you can prove your work environment was the 'preponderant cause' of your condition. While insurance companies often blame these on 'life factors' like smoking, specialized medical testimony can link your asthma or COPD directly to workplace irritants.",
+        "description": "Respiratory conditions like COPD, asthma, or chemical pneumonitis are notoriously difficult to prove because insurance companies argue they are \"ordinary diseases of life.\" To win, you must prove your job was a \"preponderant cause\" of the condition. This means your work environment contributed more significantly to the illness than your genetics, smoking history, or general pollution.\n\nFactors that affect your claim:\n- The length of time you were exposed to the irritant.\n- Whether your symptoms improve when you are away from work (the \"weekend effect\").\n- The specific chemical markers found in your medical tests.\n\nYou must be honest about your medical history, including any history of smoking. A history of smoking does not automatically disqualify you, but it makes the legal fight more complex. A lawyer will use vocational and medical experts to distinguish work-related lung damage from other factors."
+      }
+    }
+  ]
+}

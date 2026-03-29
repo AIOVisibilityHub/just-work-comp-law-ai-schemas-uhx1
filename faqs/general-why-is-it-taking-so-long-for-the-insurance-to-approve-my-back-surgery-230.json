@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is it taking so long for the insurance to approve my back surgery?",
+  "description": "Insurance companies often delay expensive back surgeries to conduct their own medical reviews. In Utah and Idaho, there are legal timelines they must follow, an",
+  "url": "https://justworkcomplaw.com//faq/general-why-is-it-taking-so-long-for-the-insurance-to-approve-my-back-surgery-230",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is it taking so long for the insurance to approve my back surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Insurance companies often delay expensive back surgeries to conduct their own medical reviews. In Utah and Idaho, there are legal timelines they must follow, and an attorney can help expedite this process.",
+        "description": "The insurance carrier has a legal obligation to respond to treatment requests within a specific timeframe (usually 14 days in Utah for an initial decision). If they are dragging their feet on a necessary back surgery, it is often because they want to perform an IME (Insurance Medical Exam) first. Delaying surgery can lead to permanent nerve damage. We can file an expedited motion with the Labor Commission to force a decision or challenge a 'utilization review' denial.\n\nKey factors include the surgeon’s recommendation and the insurance company’s internal review process.\n\nKeep a log of every time you call the adjuster. If they ignore your doctor's surgery request for more than two weeks, it's time to take legal action.\n\nA lawyer can cut through the red tape and use 'bad faith' arguments or commission orders to speed up your medical care."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "The insurance company offered me a $5,000 settlement for my work fall—how do I know if that's a fair deal?",
+  "description": "A settlement is rarely fair until you have reached Maximum Medical Improvement. Never sign a release without a lawyer's review, as you may be giving up rights t",
+  "url": "https://justworkcomplaw.com//faq/general-the-insurance-company-offered-me-a-5-000-settlement-for-my-work-fall-how-do-i-kn-8",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "The insurance company offered me a $5,000 settlement for my work fall—how do I know if that's a fair deal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A settlement is rarely fair until you have reached Maximum Medical Improvement. Never sign a release without a lawyer's review, as you may be giving up rights to future surgery and lifetime benefits.",
+        "description": "Insurance adjusters often make \"lowball\" offers early in the process to close the file before the full extent of your injury is known. You should never accept a settlement until you have reached \"Maximum Medical Improvement\" (MMI), meaning your condition isn't going to get any better with more treatment. If you settle too early and later find out you need a knee replacement, you cannot go back for more money. A fair offer should cover all past medical bills, future projected medical needs, and a fair calculation of your permanent impairment. An attorney can run a \"pro-forma\" calculation to show you what the law actually says your injury is worth compared to the adjuster's offer."
+      }
+    }
+  ]
+}

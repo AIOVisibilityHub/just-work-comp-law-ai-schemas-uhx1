@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I forgot to wear my respirator some days; does that mean I can't get benefits?",
+  "description": "You are usually still eligible since workers\\' comp is no-fault, but your benefits could be reduced by roughly 15% in Utah if the failure was \"willful.\" Avoid g",
+  "url": "https://justworkcomplaw.com//faq/general-i-forgot-to-wear-my-respirator-some-days-does-that-mean-i-can-t-get-benefits-195",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I forgot to wear my respirator some days; does that mean I can't get benefits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You are usually still eligible since workers\\' comp is no-fault, but your benefits could be reduced by roughly 15% in Utah if the failure was \"willful.\" Avoid giving statements to adjusters until you speak with a lawyer to prevent them from mischaracterizing your actions.",
+        "description": "Workers\\' compensation is a \"no-fault\" system, meaning you are generally entitled to benefits even if you forgot your mask or ignored a safety rule. However, in some jurisdictions like Utah, your benefits can be reduced by 15% if you \"willfully\" failed to use provided safety gear. In Idaho, similar reductions or even denials can occur if the violation was intentional. The insurer will look for any excuse to blame your behavior. It is important not to give a recorded statement to the insurance adjuster without legal counsel, as they will try to trick you into admitting intentional negligence. In most cases, simple forgetfulness is not enough for them to deny the claim."
+      }
+    }
+  ]
+}

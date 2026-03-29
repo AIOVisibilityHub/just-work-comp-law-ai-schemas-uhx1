@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Hawaii resort pesticides made my family sick too—can I include that in my work claim?",
+  "description": "No, you cannot include family members in a workers' comp claim. However, you can file a separate personal injury lawsuit against the employer or manufacturer fo",
+  "url": "https://justworkcomplaw.com//faq/general-hawaii-resort-pesticides-made-my-family-sick-too-can-i-include-that-in-my-work-c-177",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Hawaii resort pesticides made my family sick too—can I include that in my work claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, you cannot include family members in a workers' comp claim. However, you can file a separate personal injury lawsuit against the employer or manufacturer for 'take-home' exposure that harmed your family, which allows for different types of damages.",
+        "description": "While workers' compensation only covers the employee, a chemical exposure that reaches your family may fall under \"take-home toxin\" litigation. This is common with substances like asbestos or strong pesticides where residue on your clothing or skin travels home. This would be a personal injury lawsuit against your employer or the pesticide manufacturer, completely separate from your workers' compensation claim.\n\nPaths for family claims:\n- Personal injury lawsuits based on \"premises liability.\"\n- Product liability claims against the chemical manufacturer.\n- Proving the employer knew or should have known about the drift risk.\n\nKeep your contaminated work clothes in a sealed bag if possible. Have your family members seen by a toxicologist to verify the chemical presence. You need a lawyer to handle these cases because they involve complex scientific evidence that goes far beyond standard workers' comp."
+      }
+    }
+  ]
+}

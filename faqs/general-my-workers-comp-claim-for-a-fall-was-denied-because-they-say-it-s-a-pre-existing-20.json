@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My workers comp claim for a fall was denied because they say it’s a pre-existing condition. What now?",
+  "description": "A denial isn't the end. You can appeal by proving the workplace fall \"aggravated\" or \"accelerated\" your condition. In Utah and Idaho, even if you had a prior in",
+  "url": "https://justworkcomplaw.com//faq/general-my-workers-comp-claim-for-a-fall-was-denied-because-they-say-it-s-a-pre-existing-20",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My workers comp claim for a fall was denied because they say it’s a pre-existing condition. What now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A denial isn't the end. You can appeal by proving the workplace fall \"aggravated\" or \"accelerated\" your condition. In Utah and Idaho, even if you had a prior injury, you are eligible if the work incident made it worse. Seeking a legal appeal is the next step.",
+        "description": "Insurance companies often deny slip and fall claims by arguing the injury was \"pre-existing\" or \"idiopathic\" (meaning it just happened internally). To win an appeal in Idaho or Utah, you must provide \"medical causation\" evidence. This usually requires a doctor's statement clarifying that the fall was the primary cause of your current symptoms or that it significantly worsened a quiet, non-symptomatic condition.\n\nThe appeal process involves a formal hearing before an Administrative Law Judge. \n\nSuccess depends on consistent medical records, credible testimony, and often a second medical opinion from a favorable doctor.\n\nDo not give up if you receive a denial letter. You have a limited time to file an Application for Hearing. Collect all your medical records and seek a legal review to identify why the carrier is or is not accepting the claim. An attorney is almost always necessary to navigate the formal litigation of a denial."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Texas oil field, I think the fumes caused my skin issues—do I need a lawyer right away?",
+  "description": "Yes, because Texas allows 'non-subscriber' employers who don't carry traditional workers' comp. You must determine your employer's status immediately, as your r",
+  "url": "https://justworkcomplaw.com//faq/general-in-texas-oil-field-i-think-the-fumes-caused-my-skin-issues-do-i-need-a-lawyer-ri-176",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Texas oil field, I think the fumes caused my skin issues—do I need a lawyer right away?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, because Texas allows 'non-subscriber' employers who don't carry traditional workers' comp. You must determine your employer's status immediately, as your rights to sue for negligence or file a comp claim depend entirely on whether they opted into the state system.",
+        "description": "Proving an oil field illness in Texas requires clear medical evidence linking your specific skin condition or internal health issues to the specific fumes or chemicals found at the refinery. You should request a list of all chemicals used on-site (often found in the Safety Data Sheets). Since Texas allows employers to \"opt-out\" of workers' comp (non-subscribers), the first step is determining if your employer is actually covered by workers' comp or if you must sue them for negligence.\n\nNecessary evidence:\n- Blood or skin tests demonstrating the presence of toxins.\n- Photos of rashes or lesions immediately following shifts.\n- Records of poor ventilation or lack of required respirators.\n\nIf your employer is a \"non-subscriber,\" you have more legal options but also a higher burden of proof. Do not sign any waivers or \"acceptance of benefits\" forms from the oil company until you know your status. A lawyer can quickly identify if your employer is a subscriber and what your specific legal path should be."
+      }
+    }
+  ]
+}

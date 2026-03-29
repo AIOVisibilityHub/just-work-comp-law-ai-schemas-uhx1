@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if I go back to light duty but make less money—do I still get paid?",
+  "description": "Yes, if you return to work at a lower wage due to your injury, you are eligible for Temporary Partial Disability (TPD) benefits to cover a portion of the differ",
+  "url": "https://justworkcomplaw.com//faq/general-what-happens-if-i-go-back-to-light-duty-but-make-less-money-do-i-still-get-paid-255",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if I go back to light duty but make less money—do I still get paid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if you return to work at a lower wage due to your injury, you are eligible for Temporary Partial Disability (TPD) benefits to cover a portion of the difference between your current and pre-injury earnings.",
+        "description": "Temporary Partial Disability (TPD) is designed to make up the difference when you return to work in a limited capacity—often called 'light duty'—and earn less than your pre-injury wages. If your employer offers a desk job that pays $15/hour but you were making $25/hour as a mechanic, workers' comp should pay a percentage of that $10/hour gap. This allows you to stay connected to the workforce while still receiving financial support during your physical recovery.\n\nCritical considerations:\n- The 'wage gap' between your old pay and light-duty pay.\n- Accurate reporting of hours worked to the insurance adjuster.\n- Continued medical documentation of your physical restrictions.\n\nNever refuse a light-duty offer that fits your doctor's restrictions, as doing so can forfeit your right to all disability benefits. Keep detailed records of your reduced paychecks and compare them to your pre-injury averages. If the insurance company stops paying the differential, you may need a legal intervention to restart those payments."
+      }
+    }
+  ]
+}

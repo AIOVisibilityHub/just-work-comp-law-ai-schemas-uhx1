@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If I'm partly at fault in a work vehicle crash, do I still get workers' comp in Utah?",
+  "description": "Yes. Utah workers' compensation is a no-fault system, meaning you are entitled to benefits even if you caused the accident, provided you weren't intoxicated or ",
+  "url": "https://justworkcomplaw.com//faq/general-if-i-m-partly-at-fault-in-a-work-vehicle-crash-do-i-still-get-workers-comp-in-ut-125",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If I'm partly at fault in a work vehicle crash, do I still get workers' comp in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Utah workers' compensation is a no-fault system, meaning you are entitled to benefits even if you caused the accident, provided you weren't intoxicated or acting with intentional misconduct.",
+        "description": "Being partially at fault does not disqualify you from receiving workers' compensation benefits in Utah. Unlike a standard personal injury case where 'comparative negligence' can reduce your check, workers' comp is a no-fault system. Whether you hydroplaned, took a turn too fast, or were momentarily distracted, you are entitled to medical coverage and wage replacement as long as the accident wasn't caused by intentional self-injury or intoxication.\n\nExceptions to the no-fault rule:\n- Being under the influence of drugs or alcohol.\n- Engaging in 'horseplay' or fighting.\n- Deliberately violating safety rules.\n\nWhile your benefits remain intact, being at fault might prevent you from suing the other driver for additional damages. Because insurance companies often look for reasons to claim 'intoxication' or 'willful misconduct,' having a lawyer ensures your right to benefits is protected regardless of who caused the wreck."
+      }
+    }
+  ]
+}

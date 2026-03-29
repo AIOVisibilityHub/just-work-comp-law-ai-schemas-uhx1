@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My workers comp claim got denied after a machine pinched my finger—what next?",
+  "description": "You must file a formal regular 'Application for Hearing' with the state labor commission. An attorney can help gather the medical evidence needed to overturn th",
+  "url": "https://justworkcomplaw.com//faq/general-my-workers-comp-claim-got-denied-after-a-machine-pinched-my-finger-what-next-57",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My workers comp claim got denied after a machine pinched my finger—what next?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must file a formal regular 'Application for Hearing' with the state labor commission. An attorney can help gather the medical evidence needed to overturn the denial.",
+        "description": "When an industrial insurer denies a claim for a 'pinched finger' or crush injury, the most common reason is that the injury was 'not work-related' or was due to a 'pre-existing condition.' In Salt Lake City, your next step is to file an Application for Hearing with the Utah Labor Commission. This starts a formal legal process where an Administrative Law Judge will eventually decide your case. During this time, you must continue to see your doctor to document your symptoms. An attorney is vital here to collect expert medical testimony that links your specific workplace incident to the physical damage shown in your medical records. Most 'denied' claims are actually winnable with the right evidence."
+      }
+    }
+  ]
+}

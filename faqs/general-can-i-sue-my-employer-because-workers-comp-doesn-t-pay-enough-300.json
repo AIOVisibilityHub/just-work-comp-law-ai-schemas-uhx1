@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my employer because workers' comp doesn't pay enough?",
+  "description": "Generally, no; workers' comp is your 'exclusive remedy.' However, you can sue third parties (like equipment manufacturers or other drivers) who caused the injur",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-employer-because-workers-comp-doesn-t-pay-enough-300",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my employer because workers' comp doesn't pay enough?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally, no; workers' comp is your 'exclusive remedy.' However, you can sue third parties (like equipment manufacturers or other drivers) who caused the injury, which can provide compensation for pain and suffering that workers' comp doesn't cover.",
+        "description": "In most cases, including Utah and Idaho, workers' compensation is the 'exclusive remedy.' This means you generally cannot sue your employer for 'pain and suffering' or 'negligence.' However, there are two major exceptions: 1) If a third party (not your employer) caused the injury—like a reckless driver while you were on the clock—you can sue that person. 2) If your employer intentionally caused you harm.\n\nWorkers' comp covers medical bills and wages, but is not designed to 'make you whole' like a personal injury lawsuit.\n\n- 3rd party claims (e.g., equipment manufacturers) can yield much higher payouts.\n- Employer 'intentional torts' are very rare but possible.\n- Subrogation rules mean the comp insurance might want a cut of your 3rd party win.\n\nIf you were injured by someone else while working, you have *two* cases: a workers' comp case and a personal injury case. A lawyer is essential to manage both and maximize your total recovery."
+      }
+    }
+  ]
+}

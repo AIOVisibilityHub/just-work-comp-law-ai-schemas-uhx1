@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if a machine part hit me at my Utah factory job?",
+  "description": "Report the incident immediately, seek medical care, and ensure your employer files a Form 122. Be cautious of company doctors and consider an independent medica",
+  "url": "https://justworkcomplaw.com//faq/general-what-should-i-do-if-a-machine-part-hit-me-at-my-utah-factory-job-147",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if a machine part hit me at my Utah factory job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report the incident immediately, seek medical care, and ensure your employer files a Form 122. Be cautious of company doctors and consider an independent medical opinion to accurately document the extent of your injuries.",
+        "description": "If you were hit by a tool or machine part at a Utah factory, your first step is notifying your foreman and going to the doctor. Utah law requires the employer to fill out a \"First Report of Injury\" (Form 122). You should receive a copy of this. If the factory uses an on-site clinic, be aware that those doctors often work closely with the employer; seeking a secondary opinion from an outside doctor is often a smart move to ensure an unbiased diagnosis.\n\nIdentify any safety violations, such as missing \"toe boards\" on scaffolding or lack of machine guarding, that caused the object to fall. While this doesn't change your basic benefits, it is crucial if you intend to file an OSHA complaint or look for third-party liability.\n\nKey factors include the immediate medical prognosis and the employer's response to the report. Factory environments are heavily regulated, so deviations from safety standards are important evidence. A lawyer can help you navigate the Utah Labor Commission's specific rules for factory-based injury claims. Early legal advice prevents the \"it was just a bump\" narrative from taking hold."
+      }
+    }
+  ]
+}

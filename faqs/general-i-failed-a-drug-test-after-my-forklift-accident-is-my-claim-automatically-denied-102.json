@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I failed a drug test after my forklift accident—is my claim automatically denied?",
+  "description": "Not necessarily. The insurer must typically prove the intoxication actually caused the accident. If mechanical failure or someone else\\'s mistake caused the cra",
+  "url": "https://justworkcomplaw.com//faq/general-i-failed-a-drug-test-after-my-forklift-accident-is-my-claim-automatically-denied-102",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I failed a drug test after my forklift accident—is my claim automatically denied?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not necessarily. The insurer must typically prove the intoxication actually caused the accident. If mechanical failure or someone else\\'s mistake caused the crash, you may still be eligible for benefits.",
+        "description": "Failing a drug test after a forklift accident is a common reason for claim denial, but it is not an automatic \"game over.\" In Utah and Idaho, the insurance company must usually prove that the intoxication *caused* the accident. For example, if a shelf collapsed on you while you were stationary, having marijuana in your system from three weeks ago shouldn\\'t legally disqualify you, as it didn\\'t cause the crash.\n\nHowever, if you're driving erratically and test positive for high levels of alcohol or stimulants, the claim will be very difficult to win.\n\nFight a drug-test denial by:\n- Proving the accident was caused by mechanical failure (bad brakes) rather than impairment.\n- Showing the substance in your system did not cause actual impairment at the time of the crash.\n- Challenging the validity of the testing procedure or chain of custody.\n\nRequest the full lab report, not just a \"positive/negative\" summary. The levels of the substance matter immensely.\n\nAttorneys can hire toxicologists to testify that the presence of a substance doesn\\'t equal impairment, potentially saving your claim."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I take the lump sum settlement the insurance company is offering for my back?",
+  "description": "Only if the amount covers all your future medical needs and lost earning capacity. Signing a 'full and final' settlement ends your right to any future payments ",
+  "url": "https://justworkcomplaw.com//faq/general-should-i-take-the-lump-sum-settlement-the-insurance-company-is-offering-for-my-b-237",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I take the lump sum settlement the insurance company is offering for my back?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Only if the amount covers all your future medical needs and lost earning capacity. Signing a 'full and final' settlement ends your right to any future payments or medical care for that injury.",
+        "description": "A 'full and final' settlement means you take a lump sum of money in exchange for closing your case forever. This includes giving up future medical treatments, surgery coverage, and lost wage checks. While this sounds attractive, it is very risky for back injuries because spinal issues often get worse with age. You should never sign this until a doctor confirms you are at MMI and you fully understand the cost of future care.\n\nKey factors include the quality of the settlement offer and your projected long-term medical needs.\n\nHave an attorney review any settlement document before you sign. The insurance company’s job is to pay you as little as possible to go away.\n\nWe ensure that any settlement includes enough money to cover your future needs, potentially including Medicare Set-Asides if applicable."
+      }
+    }
+  ]
+}

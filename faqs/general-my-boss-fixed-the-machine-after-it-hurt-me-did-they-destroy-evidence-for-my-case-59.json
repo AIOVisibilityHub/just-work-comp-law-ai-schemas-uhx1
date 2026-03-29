@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss fixed the machine after it hurt me—did they destroy evidence for my case?",
+  "description": "Potentially. While they are allowed to fix hazards, they must preserve evidence. An attorney should send a 'preservation of evidence' letter immediately to prev",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-fixed-the-machine-after-it-hurt-me-did-they-destroy-evidence-for-my-case-59",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss fixed the machine after it hurt me—did they destroy evidence for my case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Potentially. While they are allowed to fix hazards, they must preserve evidence. An attorney should send a 'preservation of evidence' letter immediately to prevent further loss of data.",
+        "description": "If your employer repaired the industrial machine immediately after your injury in Colorado, they may have 'spoliated' or destroyed critical evidence. In many states, employers have a duty to preserve evidence if they know a claim is likely. While repairs for safety are common, failing to document the pre-repair state (such as through photos or logs) can be used against them or the manufacturer in a lawsuit. An attorney will immediately send a 'Spoliation Letter' to the employer, legally demanding that they preserve all pieces of equipment, maintenance logs, and surveillance footage. If they still destroy evidence after receiving this, the court may give you a favorable 'adverse inference' instruction at trial."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "They denied my claim because no one saw me fall. Can I still win my medical benefits?",
+  "description": "Yes. You do not need a witness to have a valid workers' comp claim. As long as your medical records and report of the injury are consistent and credible, you ca",
+  "url": "https://justworkcomplaw.com//faq/general-they-denied-my-claim-because-no-one-saw-me-fall-can-i-still-win-my-medical-benef-282",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "They denied my claim because no one saw me fall. Can I still win my medical benefits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. You do not need a witness to have a valid workers' comp claim. As long as your medical records and report of the injury are consistent and credible, you can successfully appeal a denial based on a lack of witnesses.",
+        "description": "In a 'no-witness' scenario, your credibility and the consistency of your story are the most important factors. Insurance companies love to deny these claims because they think it’s your word against theirs. However, Utah law does not require a witness for an accident to be valid; it only requires proof that it happened in the 'course and scope' of employment.\n\nFactors: Did you report it immediately? Does the medical record from the ER match your story? Is your 'mechanism of injury' physically possible?\n\nDocument every detail of the accident—time, location, what you were lifting—and keep that story consistent with every doctor you see.\n\n'No-witness' cases are a specialty of ours; we use circumstantial evidence and medical data to prove that your injury couldn't have happened any other way."
+      }
+    }
+  ]
+}

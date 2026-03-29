@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my warehouse doesn\\'t even have workers compensation insurance? Am I stuck with the bills?",
+  "description": "No. In Utah, you can claim through the Uninsured Employers\\' Fund. In most states, you can also sue an uninsured employer directly, and they are often liable fo",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-my-warehouse-doesn-t-even-have-workers-compensation-insurance-am-i-stuck-100",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my warehouse doesn\\'t even have workers compensation insurance? Am I stuck with the bills?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. In Utah, you can claim through the Uninsured Employers\\' Fund. In most states, you can also sue an uninsured employer directly, and they are often liable for double or triple damages plus penalties.",
+        "description": "If your employer doesn\\'t have workers\\' comp insurance in Utah or Idaho, they are in serious legal trouble, but you are not necessarily out of luck. In Utah, you can file a claim against the \"Uninsured Employers\\' Fund\" (UEF), which acts as a safety net to pay benefits to injured workers of uninsured companies. You can also sue an uninsured employer directly in civil court, where they lose many of their legal protections.\n\nIn Idaho, the Industrial Commission can shut down a business for not having insurance and can force them to pay the claim directly plus penalties.\n\nOptions for uninsured accidents:\n- Filing with the state\\'s Uninsured Employers Fund.\n- Pursuing a direct civil lawsuit for damages (including pain and suffering).\n- Reporting the employer to the state labor board for penalties.\n\nCheck your paystubs or ask HR for the name of the insurance carrier. If they dodge the question, it\\'s a major red flag that they may move to hide assets.\n\nHandling an uninsured employer claim is much more complex than a standard case; legal representation is almost always required to navigate the state funds."
+      }
+    }
+  ]
+}

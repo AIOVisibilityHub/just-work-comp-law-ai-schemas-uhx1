@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I didn't go to the doctor right after my delivery accident—is it too late?",
+  "description": "It's not too late, but every day you wait strengthens the insurance company's defense. Seek medical attention immediately and specify the work-related cause of ",
+  "url": "https://justworkcomplaw.com//faq/general-i-didn-t-go-to-the-doctor-right-after-my-delivery-accident-is-it-too-late-132",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I didn't go to the doctor right after my delivery accident—is it too late?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It's not too late, but every day you wait strengthens the insurance company's defense. Seek medical attention immediately and specify the work-related cause of your injury to create a formal paper trail.",
+        "description": "This is one of the most common mistakes delivery drivers make. If you didn't go to the doctor immediately after a fall or crash in St. George, the insurance company will argue that your injury didn't happen at work or isn't as serious as you claim. However, it is rarely 'too late' as long as you seek care now and have a consistent story. \n\nTo rehabilitate your case:\n- See a doctor immediately and explain it was a work injury.\n- Be extremely specific about the date, time, and location of the incident.\n- Document any witnesses or 'near misses' that occurred.\n\nThe gap in treatment is a hurdle, but not a brick wall. A lawyer can help 'bridge the gap' by using your delivery logs and phone history to prove you were at the scene of the injury on the day you claim. Immediate medical documentation is the best way to stop the insurance company from questioning your credibility."
+      }
+    }
+  ]
+}

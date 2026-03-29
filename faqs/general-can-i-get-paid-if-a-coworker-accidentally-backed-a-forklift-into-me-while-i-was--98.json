@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get paid if a coworker accidentally backed a forklift into me while I was walking to the breakroom?",
+  "description": "Yes. As long as you were at work, injuries caused by coworkers are covered by workers\\' compensation. You don\\'t need to prove they were being \"bad at their job",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-paid-if-a-coworker-accidentally-backed-a-forklift-into-me-while-i-was--98",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get paid if a coworker accidentally backed a forklift into me while I was walking to the breakroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. As long as you were at work, injuries caused by coworkers are covered by workers\\' compensation. You don\\'t need to prove they were being \"bad at their job,\" only that the accident happened at work.",
+        "description": "A coworker backing into you is a classic forklift accident scenario. Because it happened at work, it doesn\\'t matter that your \"friend\" or \"coworker\" was the one driving—it is still a workers\\' compensation claim against the company\\'s insurance. You generally cannot sue your coworker individually; the workers\\' comp system is designed to prevent employees from suing each other.\n\nThe focus will be on the fact that you were hit while performing your job duties.\n\nKey elements of a coworker accident:\n- Your coworker\\'s level of training and certification.\n- Whether the forklift\\'s backup alarm or lights were functioning.\n- The company\\'s \"pedestrian safety\" policies in the warehouse.\n\nBe sure to identify exactly who was driving and if anyone else saw the accident. If the coworker was acting intentionally or was under the influence, the legal situation changes.\n\nAn attorney can check if the company violated OSHA standards regarding pedestrian and forklift separation, which can strengthen your claim."
+      }
+    }
+  ]
+}

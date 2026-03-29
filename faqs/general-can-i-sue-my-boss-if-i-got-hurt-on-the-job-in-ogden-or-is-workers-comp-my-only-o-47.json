@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my boss if I got hurt on the job in Ogden, or is workers comp my only option?",
+  "description": "Generally, you cannot sue your employer due to workers' compensation 'exclusive remedy' laws. However, you can often sue third parties like subcontractors or eq",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-boss-if-i-got-hurt-on-the-job-in-ogden-or-is-workers-comp-my-only-o-47",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my boss if I got hurt on the job in Ogden, or is workers comp my only option?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally, you cannot sue your employer due to workers' compensation 'exclusive remedy' laws. However, you can often sue third parties like subcontractors or equipment manufacturers for additional damages like pain and suffering.",
+        "description": "In Utah and Idaho, the 'exclusive remedy' rule generally prevents you from suing your employer for a workplace injury, as workers' compensation is designed to cover you regardless of fault. However, if your injury was caused by a third party—such as a reckless subcontractor, a delivery driver, or a manufacturer of a defective tool—you may be able to file a separate personal injury lawsuit. This 'third-party claim' allows you to seek damages not covered by workers' comp, such as pain and suffering. Determining if a third party is involved requires a detailed investigation of the site's various contractors. A lawyer can identify these additional parties to maximize your total recovery."
+      }
+    }
+  ]
+}

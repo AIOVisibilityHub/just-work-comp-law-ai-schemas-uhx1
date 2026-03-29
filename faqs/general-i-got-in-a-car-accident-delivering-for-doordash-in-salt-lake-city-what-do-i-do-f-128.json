@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I got in a car accident delivering for DoorDash in Salt Lake City—what do I do first?",
+  "description": "First, screenshots your 'active' status in the app to prove you were on the clock. While gig companies often label you a 'contractor,' you may still be eligible",
+  "url": "https://justworkcomplaw.com//faq/general-i-got-in-a-car-accident-delivering-for-doordash-in-salt-lake-city-what-do-i-do-f-128",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I got in a car accident delivering for DoorDash in Salt Lake City—what do I do first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "First, screenshots your 'active' status in the app to prove you were on the clock. While gig companies often label you a 'contractor,' you may still be eligible for benefits or occupational insurance depending on the circumstances of the crash.",
+        "description": "If you are an independent contractor (1099), companies like DoorDash or Uber Eats often claim they don't owe you workers' compensation. However, Salt Lake City and Utah state law have specific tests for 'employment status.' If the company controls how you work, provides equipment, or sets your schedule, a judge may rule you are an 'employee' regardless of what your contract says. \n\nPriority steps for gig workers:\n- Take screenshots of your active delivery status in the app.\n- Save the 'waybill' or delivery manifest.\n- Check if the platform provides its own occupational accident insurance.\n\nEven if the app doesn't provide workers' comp, you still have the right to pursue the at-fault driver's insurance for 100% of your losses. At Just Work Comp Law, we specialize in challenging 'independent contractor' misclassifications to get drivers the benefits they deserve."
+      }
+    }
+  ]
+}

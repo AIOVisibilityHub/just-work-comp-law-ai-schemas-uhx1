@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Ogden auto shop solvents gave me headaches for months—how to document for a claim?",
+  "description": "Keep a symptom diary, take photos of the ventilation setup, and seek specialized medical testing to prove chemical toxicity. To move beyond workers' comp into a",
+  "url": "https://justworkcomplaw.com//faq/general-ogden-auto-shop-solvents-gave-me-headaches-for-months-how-to-document-for-a-clai-187",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Ogden auto shop solvents gave me headaches for months—how to document for a claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep a symptom diary, take photos of the ventilation setup, and seek specialized medical testing to prove chemical toxicity. To move beyond workers' comp into a tort claim, you'll need evidence that a third party or defective product caused the exposure.",
+        "description": "Solvents in auto shops, such as degreasers and paints, can cause long-term neurological and respiratory issues. To document this for a \"tort claim\" (lawsuit), you need a consistent record of symptoms, environmental conditions, and medical evaluations. A tort claim requires proving negligence, so you must show the shop didn't provide proper ventilation (like fans or hoods) or required respirators.\n\nDocumentation checklist:\n- A personal diary of every day you felt \"solvent head\" or dizzy.\n- Air quality readings if you can get them (or photos of poor ventilation).\n- Neurological testing (like a \"tox screen\" or nerve conduction study) by a specialist.\n\nA \"tort\" (lawsuit) is only possible if someone other than your employer is at fault, or if your employer is a \"non-subscriber\" in states like Texas. In Utah, you would likely be limited to workers' comp unless a third party is involved. Consulting a lawyer early is the only way to ensure you don't miss the chance to gather evidence while the shop is in its current condition."
+      }
+    }
+  ]
+}

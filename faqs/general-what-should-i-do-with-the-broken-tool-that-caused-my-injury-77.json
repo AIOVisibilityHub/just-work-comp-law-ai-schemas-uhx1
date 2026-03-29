@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do with the broken tool that caused my injury?",
+  "description": "Do not throw it away or let it be repaired. Take photos of the defect immediately and ask that the tool be preserved as evidence for your claim and any potentia",
+  "url": "https://justworkcomplaw.com//faq/general-what-should-i-do-with-the-broken-tool-that-caused-my-injury-77",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do with the broken tool that caused my injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not throw it away or let it be repaired. Take photos of the defect immediately and ask that the tool be preserved as evidence for your claim and any potential lawsuit against the manufacturer.",
+        "description": "If you suspect a tool or piece of equipment was defective, you must ensure it is not tampered with, repaired, or thrown away. This equipment is the single most important piece of evidence in your case. In legal terms, losing or destroying this evidence is called \"spoliation,\" and it can ruin your chances of a third-party lawsuit.\n\nEmployers often want to fix the tool immediately to get production moving again. You or your representative should formally request that the item be \"sequestered\" or set aside for inspection.\n\nKey factors include:\n- Clear photos of the broken parts from multiple angles.\n- The serial number and model of the equipment.\n- Any manual or maintenance logs associated with the tool.\n- A \"litigation hold\" letter sent to the employer.\n\nBecause you likely don\\'t have control over company property, a lawyer needs to intervene quickly. They can file an emergency motion to prevent the employer from altering the equipment until an expert can examine it."
+      }
+    }
+  ]
+}

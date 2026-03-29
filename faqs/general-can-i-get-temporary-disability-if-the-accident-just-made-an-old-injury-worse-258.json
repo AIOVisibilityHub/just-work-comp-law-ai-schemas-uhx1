@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get temporary disability if the accident just made an old injury worse?",
+  "description": "Yes. In Utah and Idaho, you are entitled to benefits if a work accident aggravates or worsens a pre-existing condition. The insurance company must pay if the wo",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-temporary-disability-if-the-accident-just-made-an-old-injury-worse-258",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get temporary disability if the accident just made an old injury worse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. In Utah and Idaho, you are entitled to benefits if a work accident aggravates or worsens a pre-existing condition. The insurance company must pay if the work event was a contributing factor to your inability to work.",
+        "description": "Yes, you can still claim workers' compensation benefits for a work-related injury even if it aggravated a pre-existing condition. Legal doctrine typically holds that the employer 'takes the employee as they find them' (the Eggshell Skull Rule). If you had a bad back but were able to work, and a warehouse fall made that back condition so severe you can no longer work, the insurance company is responsible for the temporary disability caused by that 'acute-on-chronic' injury.\n\nFactors to consider:\n- Evidence that you were functioning effectively before the new injury.\n- Medical testimony showing the work event caused a distinct change.\n- Disclosure of your medical history to avoid the appearance of fraud.\n\nInsurance adjusters will almost always try to blame your pain on the old injury to deny your claim. It is essential to have a doctor clearly state how the work incident worsened your baseline condition. Legal assistance is often needed here to counter the insurance company’s 'pre-existing' defense."
+      }
+    }
+  ]
+}

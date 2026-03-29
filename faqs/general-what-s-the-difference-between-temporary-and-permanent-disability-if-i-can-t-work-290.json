@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between temporary and permanent disability if I can't work?",
+  "description": "Temporary disability (TTD) pays you while you are recovering. Permanent total disability (PTD) is for injuries that indefinitely prevent you from any gainful em",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-the-difference-between-temporary-and-permanent-disability-if-i-can-t-work-290",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between temporary and permanent disability if I can't work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Temporary disability (TTD) pays you while you are recovering. Permanent total disability (PTD) is for injuries that indefinitely prevent you from any gainful employment. PTD usually requires a higher burden of proof regarding your age and education.",
+        "description": "Temporary Total Disability (TTD) applies while you are still healing and cannot work at all. Permanent Total Disability (PTD) is for workers who will never be able to return to any form of gainful employment. In Utah, PTD is difficult to prove and requires showing that you cannot perform even sedentary 'desk work' considering your age, education, and physical limitations.\n\nThe transition from temporary to permanent usually happens once you reach Maximum Medical Improvement (MMI).\n\n- TTD is 66.6% of your average weekly wage, subject to state maximums.\n- PTD is a lifetime benefit but requires a rigorous 'Odd-Lot' or statutory proof.\n- PPD (Permanent Partial Disability) is a middle ground for permanent but non-total injuries.\n\nYou should track your 'MMI' status closely with your doctor. When a doctor says you are 'medically stable' but still can't work, that is the moment to file for permanent benefits. These cases are almost always litigated and require attorney representation."
+      }
+    }
+  ]
+}

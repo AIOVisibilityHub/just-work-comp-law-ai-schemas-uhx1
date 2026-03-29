@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my employer directly for using broken equipment?",
+  "description": "Generally no; workers\\' comp is your \"exclusive remedy\" against your employer. However, you can sue third parties like manufacturers or external repair companie",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-employer-directly-for-using-broken-equipment-80",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my employer directly for using broken equipment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally no; workers\\' comp is your \"exclusive remedy\" against your employer. However, you can sue third parties like manufacturers or external repair companies for their role in the malfunction.",
+        "description": "In Utah, workers\\' compensation is the \"exclusive remedy\" against your employer. This means you generally cannot sue your boss or your company in civil court, even if they were negligent in maintaining equipment. However, there is a very narrow exception for \"intentional torts,\" where an employer knowingly put you in a position where injury was certain to occur.\n\nWhile you can't sue your boss, you can sue almost any other party responsible for the malfunction. This includes vendors, subcontractors, or manufacturers.\n\nKey factors include:\n- State laws regarding \"Exclusive Remedy.\"\n- Whether the employer\\'s actions were \"grossly negligent\" or intentional.\n- The involvement of outside companies in the equipment\\'s upkeep.\n- The availability of \"Safety Requirement Violations\" penalties in some states.\n\nBecause suing an employer is extremely difficult, your legal team will focus on identifying third parties who don't have the \"exclusive remedy\" protection. This is the most effective way to bypass the limits of workers\\' comp."
+      }
+    }
+  ]
+}

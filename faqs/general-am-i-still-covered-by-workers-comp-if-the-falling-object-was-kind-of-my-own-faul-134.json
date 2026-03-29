@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Am I still covered by workers comp if the falling object was kind of my own fault?",
+  "description": "Yes, workers' compensation in Utah and Idaho is a no-fault system. You are generally eligible for benefits even if your own mistake contributed to the injury, p",
+  "url": "https://justworkcomplaw.com//faq/general-am-i-still-covered-by-workers-comp-if-the-falling-object-was-kind-of-my-own-faul-134",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Am I still covered by workers comp if the falling object was kind of my own fault?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, workers' compensation in Utah and Idaho is a no-fault system. You are generally eligible for benefits even if your own mistake contributed to the injury, provided you were acting within the scope of your employment.",
+        "description": "In Utah and Idaho, workers' compensation is a \"no-fault\" system, meaning you are generally covered even if the accident was partially your fault. If you dropped a tool that bounced and hit you, or if you were standing in a restricted area when an object fell, you are still eligible for medical and wage benefits. The only common exceptions are injuries caused by willful intoxication or intentional self-harm.\n\nThe insurance company may try to argue that your \"negligence\" proves you weren't performing work duties, but this is a difficult hurdle for them to clear. As long as you were \"within the scope of employment,\" the cause of the falling object usually doesn't disqualify you.\n\nFactors like whether you were wearing required PPE (like a hard hat) can sometimes impact specific benefit amounts but rarely result in a total denial. You should focus on your recovery rather than fearing you've lost your rights due to a mistake. An attorney can help defend your claim if the insurer tries to use your \"fault\" as a reason to deny payment."
+      }
+    }
+  ]
+}

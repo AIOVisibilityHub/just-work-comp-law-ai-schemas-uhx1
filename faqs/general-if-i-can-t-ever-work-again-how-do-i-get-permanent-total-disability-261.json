@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If I can't ever work again, how do I get permanent total disability?",
+  "description": "To get Permanent Total Disability (PTD), you must prove that your injury prevents you from performing any gainful employment. This involves medical evidence of ",
+  "url": "https://justworkcomplaw.com//faq/general-if-i-can-t-ever-work-again-how-do-i-get-permanent-total-disability-261",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If I can't ever work again, how do I get permanent total disability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To get Permanent Total Disability (PTD), you must prove that your injury prevents you from performing any gainful employment. This involves medical evidence of your restrictions and often a vocational expert's testimony.",
+        "description": "Permanent Total Disability (PTD) is reserved for workers who can never return to any form of gainful employment due to their injuries. This isn't just about not being able to do your *old* job; it’s about not being able to do *any* job in the current labor market. In Utah, this often involves the 'Odd-Lot Doctrine,' which considers your age, education, and work experience alongside your physical injuries. If you are a 55-year-old construction worker with a failed back surgery and no computer skills, you may be functionally unemployable.\n\nKey requirements for PTD:\n- Total inability to perform any work.\n- Medical proof that the condition is permanent.\n- Support from a vocational expert regarding the job market.\n\nPTD claims are the most expensive for insurance companies, so they fight them aggressively. They may hire private investigators to follow you or use vocational experts to suggest jobs you 'could' do, like 'ticket taker.' You will almost certainly need an attorney and your own vocational experts to win a permanent total disability award."
+      }
+    }
+  ]
+}

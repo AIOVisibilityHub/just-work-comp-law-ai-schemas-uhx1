@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if the slip and fall was my own fault? Can I still get workers comp in Utah?",
+  "description": "Yes. Utah and Idaho workers' compensation are no-fault systems. You are entitled to benefits even if you caused your own fall, provided you weren't intoxicated ",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-the-slip-and-fall-was-my-own-fault-can-i-still-get-workers-comp-in-utah-17",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if the slip and fall was my own fault? Can I still get workers comp in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Utah and Idaho workers' compensation are no-fault systems. You are entitled to benefits even if you caused your own fall, provided you weren't intoxicated or intentionally self-injuring. Your own negligence does not bar you from medical or wage benefits.",
+        "description": "Workers' compensation is a \"no-fault\" system, meaning you are covered even if you were clumsy or distracted when you slipped. Unlike a standard personal injury case, you do not have to prove the employer was negligent, and your own negligence does not disqualify you from receiving medical benefits and wage replacement. The only major exceptions are if you were intoxicated or intentionally trying to hurt yourself.\n\nYour eligibility depends on the injury occurring within the \"course and scope\" of your employment. Even if you ignored a \"wet floor\" sign, the insurance company is usually still required to pay.\n\nFocus on documenting exactly what happened and what you were doing for work at the time. Do not apologize or admit \"fault\" in a way that suggests the injury didn't happen during work duties. An attorney can protect you if the insurance company tries to claim traveler's or willful misconduct."
+      }
+    }
+  ]
+}

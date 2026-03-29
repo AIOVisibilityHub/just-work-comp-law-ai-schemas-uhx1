@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is workers comp my only option, or can I sue the company that made the forklift if the brakes failed?",
+  "description": "Workers\\' comp covers your medical bills and lost wages regardless of fault, but you may also have a separate \"third-party\" lawsuit against the manufacturer if ",
+  "url": "https://justworkcomplaw.com//faq/general-is-workers-comp-my-only-option-or-can-i-sue-the-company-that-made-the-forklift-i-89",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is workers comp my only option, or can I sue the company that made the forklift if the brakes failed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers\\' comp covers your medical bills and lost wages regardless of fault, but you may also have a separate \"third-party\" lawsuit against the manufacturer if a mechanical defect caused your injury.",
+        "description": "While workers\\' compensation is usually your \"exclusive remedy\" against your employer, you may be able to sue a \"third party\" if their negligence caused the forklift accident. Common examples include the forklift manufacturer (if the brakes failed or it tipped due to a design flaw) or a separate maintenance company that failed to repair the vehicle correctly. These lawsuits allow for damages not available in workers\\' comp, such as pain and suffering.\n\nIn a third-party claim, you must prove the other company was negligent, whereas workers\\' comp doesn\\'t require proof of fault.\n\nThird-party claim factors:\n- Mechanical failure or manufacturing defects in the forklift.\n- Negligence by a contractor or outside vendor on the job site.\n- Presence of \"pain and suffering\" damages which workers\\' comp doesn\\'t pay.\n\nNotify your attorney if you suspect the forklift was malfunctioning. They can hire experts to inspect the machine before it is put back into service or repaired.\n\nIdentifying a third-party claim is often the only way to get full compensation beyond basic wage replacement."
+      }
+    }
+  ]
+}

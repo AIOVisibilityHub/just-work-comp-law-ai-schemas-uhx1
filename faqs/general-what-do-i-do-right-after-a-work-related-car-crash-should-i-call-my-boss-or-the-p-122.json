@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What do I do right after a work-related car crash? Should I call my boss or the police first?",
+  "description": "Call the police and seek medical attention first. Once you are safe, notify your employer immediately. Timely reporting is critical for securing workers' compen",
+  "url": "https://justworkcomplaw.com//faq/general-what-do-i-do-right-after-a-work-related-car-crash-should-i-call-my-boss-or-the-p-122",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What do I do right after a work-related car crash? Should I call my boss or the police first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Call the police and seek medical attention first. Once you are safe, notify your employer immediately. Timely reporting is critical for securing workers' compensation benefits and preventing claim denials.",
+        "description": "Your health and safety are the absolute priority, so you should call 911 or local police first to secure the scene and get medical help. Once you are safe, you must notify your supervisor as soon as possible, ideally within the same shift. In Utah, you technically have 180 days to report, but waiting even a few days can make the insurance company suspicious that the injury happened elsewhere. \n\nImmediate steps include:\n- Obtaining a police report number.\n- Taking photos of all vehicles and the surrounding area.\n- Seeking a medical evaluation, even for 'minor' stiffness.\n\nFailing to report the crash to your boss promptly is a leading cause of claim denials. After seeking medical care, consulting a workers' comp attorney can prevent you from making statements to adjusters that might jeopardize your wage replacement benefits."
+      }
+    }
+  ]
+}

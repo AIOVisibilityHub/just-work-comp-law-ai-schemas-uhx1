@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I was partially at fault in my Boise construction injury—can I still get money?",
+  "description": "Yes. Workers' compensation is a no-fault system in Idaho, so you are eligible for benefits even if you caused the accident, provided you weren't intoxicated or ",
+  "url": "https://justworkcomplaw.com//faq/general-i-was-partially-at-fault-in-my-boise-construction-injury-can-i-still-get-money-48",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I was partially at fault in my Boise construction injury—can I still get money?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Workers' compensation is a no-fault system in Idaho, so you are eligible for benefits even if you caused the accident, provided you weren't intoxicated or acting intentionally.",
+        "description": "Yes, you can still receive benefits even if you were partially at fault for your construction accident in Boise or anywhere in Idaho. Workers' compensation is a 'no-fault' system, meaning your negligence—such as tripping or making a mistake—usually doesn't disqualify you from receiving medical coverage and wage replacement. The only major exceptions are if the injury was intentional or caused by intoxication. However, if you are pursuing a third-party lawsuit against a manufacturer, Idaho's modified comparative negligence rules may reduce your award if you are found more than 50% at fault. An attorney ensures the insurance company doesn't unfairly blame you to deny the claim."
+      }
+    }
+  ]
+}

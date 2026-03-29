@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I just hurt my back lifting a heavy box at work—what are my first steps?",
+  "description": "Report the injury to your supervisor immediately in writing and seek medical attention to document the incident. In Utah and Idaho, strict reporting deadlines a",
+  "url": "https://justworkcomplaw.com//faq/general-i-just-hurt-my-back-lifting-a-heavy-box-at-work-what-are-my-first-steps-218",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I just hurt my back lifting a heavy box at work—what are my first steps?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report the injury to your supervisor immediately in writing and seek medical attention to document the incident. In Utah and Idaho, strict reporting deadlines apply; failing to notify your employer promptly can result in a denial of benefits.",
+        "description": "You must notify your supervisor immediately, preferably in writing, and seek medical attention from an approved provider. In Utah and Idaho, failing to report the injury within specific statutory windows (often 30 to 60 days) can permanently bar your claim. Even if the pain seems minor, a medical record must be established to link the back strain to your job duties. Avoid giving recorded statements to insurance adjusters until you have documented the incident. \n\nKey factors include the timing of your report, the consistency of your medical records, and whether the injury occurred during the scope of employment. \n\nYou should document the names of any witnesses who saw you lift the heavy object or slip. Keep a log of your symptoms and follow all doctor-prescribed limitations strictly.\n\nIf your employer disputes the claim or suggests it didn't happen at work, legal intervention is often necessary to secure benefits."
+      }
+    }
+  ]
+}

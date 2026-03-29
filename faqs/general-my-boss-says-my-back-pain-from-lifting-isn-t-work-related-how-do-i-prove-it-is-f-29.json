@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss says my back pain from lifting isn't work-related—how do I prove it is for comp?",
+  "description": "You prove a lifting injury is work-related through medical records where a doctor links your diagnosis to your specific job tasks. Consistent reporting, witness",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-says-my-back-pain-from-lifting-isn-t-work-related-how-do-i-prove-it-is-f-29",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss says my back pain from lifting isn't work-related—how do I prove it is for comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You prove a lifting injury is work-related through medical records where a doctor links your diagnosis to your specific job tasks. Consistent reporting, witness statements, and a clear medical opinion stating the injury was \"more probable than not\" caused by work are the strongest forms of evidence.",
+        "description": "Proving a lifting injury is work-related requires a \"medical bridge\" between your job duties and your physical condition. Your doctor must state that it is \"more likely than not\" that the lifting at work caused the herniated disc or strain. This is often done through a formal medical opinion or a specific note in your treatment records after the doctor reviews your job description.\n\nInsurance companies often try to claim the pain is from \"normal aging\" or an \"off-the-job injury.\"\n\nKey Factors:\n- Consistency between your report and medical history.\n- Expert medical testimony or records.\n- Witness statements from coworkers who saw you lifting.\n\nKeep a log of the specific heavy items you lift daily and any witnesses who saw the incident. \n\nIf a doctor's initial note is vague, a lawyer can work with them to clarify the causation in a way that satisfies the insurance carrier's requirements."
+      }
+    }
+  ]
+}

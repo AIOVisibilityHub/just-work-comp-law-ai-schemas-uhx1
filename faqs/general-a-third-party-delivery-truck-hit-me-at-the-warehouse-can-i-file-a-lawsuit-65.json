@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "A third-party delivery truck hit me at the warehouse—can I file a lawsuit?",
+  "description": "Yes. You can file for workers' comp through your employer and simultaneously file a personal injury lawsuit against the delivery company for full damages.",
+  "url": "https://justworkcomplaw.com//faq/general-a-third-party-delivery-truck-hit-me-at-the-warehouse-can-i-file-a-lawsuit-65",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "A third-party delivery truck hit me at the warehouse—can I file a lawsuit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. You can file for workers' comp through your employer and simultaneously file a personal injury lawsuit against the delivery company for full damages.",
+        "description": "Yes, if a delivery driver or an outside contractor hits you in an industrial warehouse, you have a classic 'third-party' case. You will receive workers' compensation benefits from your own employer (medical and wage replacement), and you can also file a lawsuit against the driver’s company for negligence. Unlike workers' comp, the lawsuit against the truck company allows you to sue for full lost wages, loss of enjoyment of life, and pain and suffering. This 'double' claim is often the only way to be fully compensated for a serious injury. An attorney will ensure that the workers' comp insurer's 'lien' on your lawsuit settlement is negotiated down so you keep more money."
+      }
+    }
+  ]
+}

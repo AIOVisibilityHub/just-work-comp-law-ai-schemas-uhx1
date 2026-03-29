@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get pain and suffering money for a work lifting injury, or just medical bills?",
+  "description": "No, workers' comp does not pay for pain and suffering. However, it pays for all related medical bills, a portion of lost wages, and \"impairment benefits\" if the",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-pain-and-suffering-money-for-a-work-lifting-injury-or-just-medical-bil-32",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get pain and suffering money for a work lifting injury, or just medical bills?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, workers' comp does not pay for pain and suffering. However, it pays for all related medical bills, a portion of lost wages, and \"impairment benefits\" if the lifting injury leaves you with permanent physical limitations.",
+        "description": "Workers' compensation does not pay for \"pain and suffering\" in the way a car accident lawsuit does. Instead, it provides \"Permanent Partial Disability\" (PPD) or \"Permanent Total Disability\" (PTD) benefits if your lifting injury results in a permanent physical impairment. These payments are calculated based on an impairment rating given by a doctor after you reach Maximum Medical Improvement (MMI).\n\nWhile you can't get money for the \"hurt,\" you get compensated for the \"loss of function.\"\n\nKey Factors:\n- Impairment ratings (percentage of the body as a whole).\n- State-mandated benefit schedules.\n- Your average weekly wage before the injury.\n\nYou are also entitled to medical bill coverage and a portion of your lost wages while you are unable to work. \n\nBecause insurance companies often try to influence doctors to give lower impairment ratings, an attorney is often needed to get a second opinion that reflects your true physical limitations."
+      }
+    }
+  ]
+}

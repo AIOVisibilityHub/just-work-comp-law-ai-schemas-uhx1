@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "The insurance company denied my machinery injury claim—what now?",
+  "description": "You must file a formal appeal with the state Labor Commission. A denial is common, but it can be overturned with the right medical evidence and legal testimony ",
+  "url": "https://justworkcomplaw.com//faq/general-the-insurance-company-denied-my-machinery-injury-claim-what-now-73",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "The insurance company denied my machinery injury claim—what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must file a formal appeal with the state Labor Commission. A denial is common, but it can be overturned with the right medical evidence and legal testimony during a hearing.",
+        "description": "A denial is not the end of your case; it is the beginning of the appeals process. In Utah, this involves filing an Application for Hearing with the Labor Commission. Common reasons for denial include claims that the injury was pre-existing, that you missed a deadline, or that the accident didn't happen \"in the course of employment.\"\n\nOnce a claim is denied, the insurance company will stop paying for your medical treatment and lost wages. You must act quickly to gather the evidence needed to overturn their decision.\n\nKey factors include:\n- The specific reason listed on the Notice of Denial.\n- New medical evidence or expert opinions.\n- Testimony from coworkers regarding the accident.\n- Proper legal filing of appeal documents.\n\nAppealing a machinery injury denial is highly technical and requires knowledge of administrative law. Having a lawyer represents your best chance of navigating the hearing process and successfully securing the benefits you were unfairly denied."
+      }
+    }
+  ]
+}

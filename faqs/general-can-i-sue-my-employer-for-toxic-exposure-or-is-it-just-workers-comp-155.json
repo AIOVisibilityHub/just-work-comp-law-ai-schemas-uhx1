@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my employer for toxic exposure or is it just workers' comp?",
+  "description": "Usually, you are limited to workers' comp, but if the exposure was \"intentional\" or caused by a third-party manufacturer's defective product, you may be able to",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-employer-for-toxic-exposure-or-is-it-just-workers-comp-155",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my employer for toxic exposure or is it just workers' comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually, you are limited to workers' comp, but if the exposure was \"intentional\" or caused by a third-party manufacturer's defective product, you may be able to file a separate lawsuit for pain and suffering.",
+        "description": "The \"exclusive remedy\" rule in Utah, Idaho, and Texas generally prevents you from suing your employer for chemical exposure; you are limited to workers' compensation benefits. However, if your employer \"intentionally\" exposed you—meaning they knew with \"substantial certainty\" that you would be harmed—you may be able to bypass workers' comp and sue for full damages.\n\nAdditionally, you can often sue the manufacturer of the chemical (a products liability claim) if the warning labels were inadequate or if the chemical was \"unreasonably dangerous.\" You can also sue a third-party safety contractor if they failed to inspect the ventilation systems.\n\nKey factors include the employer's level of knowledge and the involvement of outside manufacturers. These \"dual-track\" cases—a workers' comp claim plus a civil lawsuit—are the best way to recover for pain and suffering. An attorney will investigate the \"safety data sheets\" and the company's internal emails to determine if gross negligence or intentional harm occurred. Knowing your options beyond workers' comp can significantly increase your total recovery."
+      }
+    }
+  ]
+}

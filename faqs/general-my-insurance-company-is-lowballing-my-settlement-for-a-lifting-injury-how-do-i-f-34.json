@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My insurance company is lowballing my settlement for a lifting injury—how do I fight it?",
+  "description": "You fight a low offer by obtaining an Independent Medical Examination (IME) to challenge the insurer's impairment rating and by documenting all future medical n",
+  "url": "https://justworkcomplaw.com//faq/general-my-insurance-company-is-lowballing-my-settlement-for-a-lifting-injury-how-do-i-f-34",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My insurance company is lowballing my settlement for a lifting injury—how do I fight it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You fight a low offer by obtaining an Independent Medical Examination (IME) to challenge the insurer's impairment rating and by documenting all future medical needs. Do not sign a settlement until an attorney reviews the long-term impact on your ability to work.",
+        "description": "A \"lowball\" offer usually happens when the insurance company uses their own hand-picked doctor to give you a low impairment rating or says you are ready to go back to work before you are. You fight this by gathering counter-evidence, specifically an Independent Medical Examination (IME) from a doctor who isn't on the insurance company's payroll. \n\nYou should never accept a settlement for a lifting injury until you know the full extent of your future medical needs.\n\nKey Factors:\n- Your current and future medical costs (surgery, PT, meds).\n- The difference between the insurance company's impairment rating and your private doctor's.\n- Your ability to return to your previous job.\n\nNegotiation is a formal process involving a \"demand package\" that outlines why you deserve more. \n\nAn attorney handles these negotiations and ensures that if the insurance company won't budge, your case is ready to be presented to a judge or administrative law judge."
+      }
+    }
+  ]
+}

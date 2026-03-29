@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Hit by a delivery driver, do I sue the driver or the company like Instacart?",
+  "description": "You can generally pursue the company if the driver was an employee acting within their job scope. For gig workers (Instacart), you often target the company's co",
+  "url": "https://justworkcomplaw.com//faq/general-hit-by-a-delivery-driver-do-i-sue-the-driver-or-the-company-like-instacart-131",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Hit by a delivery driver, do I sue the driver or the company like Instacart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can generally pursue the company if the driver was an employee acting within their job scope. For gig workers (Instacart), you often target the company's commercial liability policy, which typically carries much higher limits than a personal policy.",
+        "description": "If a delivery driver caused your accident, liability usually follows the 'Respondeat Superior' doctrine—meaning the employer is responsible for the driver's actions while they are on the clock. If the driver was an employee of a company like UPS or a local pizza shop, you would typically file a claim against the company's high-limit commercial insurance policy rather than the driver's personal insurance.\n\nComplications occur when:\n- The driver was a 'gig worker' (Instacart, Grubhub).\n- The driver was 'off-app' or between deliveries at the time.\n- The company claims the driver violated safety policies.\n\nSuing a large corporation yields higher recovery potential but involves aggressive defense lawyers. You need to secure the driver's delivery log and employment contract immediately. Our firm helps victims in Colorado and Utah identify all liable parties to ensure there is enough insurance money to cover catastrophic injuries."
+      }
+    }
+  ]
+}

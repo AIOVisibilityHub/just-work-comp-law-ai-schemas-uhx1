@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is there a difference between being 'struck' by an object and being 'crushed' by one?",
+  "description": "The legal process is similar, but the medical implications differ. \"Struck-by\" usually involves impact trauma, while \"crush\" injuries involve pressure and poten",
+  "url": "https://justworkcomplaw.com//faq/general-is-there-a-difference-between-being-struck-by-an-object-and-being-crushed-by-one-146",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is there a difference between being 'struck' by an object and being 'crushed' by one?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The legal process is similar, but the medical implications differ. \"Struck-by\" usually involves impact trauma, while \"crush\" injuries involve pressure and potential internal organ damage. Accurate description of the accident to doctors is essential for proper treatment and benefits.",
+        "description": "A \"struck-by\" injury occurs when something falls or is thrown/accelerated into you. An \"entrapment\" or \"crush\" injury (often called \"caught-in-between\") happens when you are squeezed between two objects, like a falling shelf pinning you against a wall. Under workers' comp, the distinction doesn't change your eligibility for medical benefits, but it does change how you describe the mechanism of injury to your doctor.\n\nCrush injuries often involve internal organ damage or \"compartment syndrome,\" which requires different medical specialists than a simple strike-induced fracture. Describing the event accurately is vital for receiving the correct diagnosis and treatment plan.\n\nKey factors include the medical specialist required and the potential for \"permanent total disability\" if the crush was catastrophic. Regardless of the label, the goal remains the same: proving the work environment caused the harm. A lawyer can help ensure the insurance company's doctors isn't overlooking the internal damage typical of crush injuries while focusing only on the \"strike\" impact. Accuracy in your initial report is paramount."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I think I threw my back out lifting heavy boxes at work—should I report it now or wait to see if it gets better?",
+  "description": "Report it immediately. Waiting to see if an overexertion injury improves is the leading cause of claim denials. In Utah and Idaho, you must document the specifi",
+  "url": "https://justworkcomplaw.com//faq/general-i-think-i-threw-my-back-out-lifting-heavy-boxes-at-work-should-i-report-it-now-o-21",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I think I threw my back out lifting heavy boxes at work—should I report it now or wait to see if it gets better?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report it immediately. Waiting to see if an overexertion injury improves is the leading cause of claim denials. In Utah and Idaho, you must document the specific lifting incident to ensure your medical bills and lost wages are covered.",
+        "description": "Overexertion injuries, like a hernia or a popped disc from lifting heavy equipment, are \"accidents\" even if there wasn't a sudden fall. In Utah and Idaho, an injury is compensable if it was caused by an \"identifiable exertion\" that is unusual compared to your daily life outside of work. You must report this to your supervisor immediately, even if you think it's just a strain that will go away. \n\nWaiting to see if it gets better is the most common reason claims are denied for \"lack of notice.\"\n\nKey factors include the timing of the report and the specific task you were doing when the pain started. \n\nGo to a doctor and explicitly tell them, \"I felt a pop/pain while lifting [X] at work.\" Ensure the doctor's note mentions work duties. This documentation is your strongest shield against a denial. A lawyer can help clarify the \"legal causation\" if the insurance company claims your job is \"just naturally hard\" and doesn't count as an accident."
+      }
+    }
+  ]
+}

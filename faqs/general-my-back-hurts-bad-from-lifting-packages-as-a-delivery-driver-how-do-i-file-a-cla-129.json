@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My back hurts bad from lifting packages as a delivery driver—how do I file a claim?",
+  "description": "You file by reporting the 'repetitive stress' injury to your employer and seeking a medical evaluation that links the pain to your lifting duties. Cumulative in",
+  "url": "https://justworkcomplaw.com//faq/general-my-back-hurts-bad-from-lifting-packages-as-a-delivery-driver-how-do-i-file-a-cla-129",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My back hurts bad from lifting packages as a delivery driver—how do I file a claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You file by reporting the 'repetitive stress' injury to your employer and seeking a medical evaluation that links the pain to your lifting duties. Cumulative injuries are covered by workers' comp just like sudden accidents.",
+        "description": "Many delivery drivers assume they are only eligible for benefits for 'sudden' accidents like a car wreck. In Utah and Idaho, 'cumulative trauma' or 'wear and tear' injuries caused by repetitive lifting are valid workers' comp claims. If your back pain developed over months of delivering heavy packages in St. George, you can file a claim for medical coverage and lost wages.\n\nThe challenge is proving medical causation:\n- You must show the injury was caused by work, not a prior condition.\n- Your doctor must provide a 'nexus' letter linking the lifting to the injury.\n- You must report the pain as soon as it becomes a 'disability' that hinders work.\n\nInsurance companies often fight these claims by calling them 'pre-existing.' It is crucial to see a doctor specifically for your work-related pain and to be consistent in describing your job duties as the cause. Professional legal help is often needed to win these 'gradual' injury cases."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss is making me do heavy lifting even though my doctor put me on light duty—what do I do?",
+  "description": "You should immediately notify your supervisor in writing that the tasks exceed your medical restrictions. Do not perform any work that violates your doctor's or",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-is-making-me-do-heavy-lifting-even-though-my-doctor-put-me-on-light-duty-264",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss is making me do heavy lifting even though my doctor put me on light duty—what do I do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should immediately notify your supervisor in writing that the tasks exceed your medical restrictions. Do not perform any work that violates your doctor's orders, as this could jeopardize your health and your benefits. If the pressure continues, contact a workers' comp attorney.",
+        "description": "You cannot be forced to perform work that exceeds the physical limitations set by your treating physician. If your employer demands you perform tasks that cause pain or risk re-injury, you must refer specifically to your written work status note. Employers in Utah and Idaho must honor these restrictions or risk legal penalties. \n\nKey factors include the specific wording of your 'Work Status Report,' whether the employer provided a written job offer, and if the tasks actually match the description. \n\nImmediately notify your supervisor in writing that the task violates your medical restrictions. Do not simply walk off the job, as this can be viewed as voluntary resignation. \n\nIf your employer persists in ignoring medical orders, legal intervention is often the only way to protect your physical health and your claim."
+      }
+    }
+  ]
+}

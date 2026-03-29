@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the biggest mistakes people make with work illness claims?",
+  "description": "The biggest mistakes are failing to report symptoms early, miscalculating the filing deadlines, and giving recorded statements to insurance adjusters without a ",
+  "url": "https://justworkcomplaw.com//faq/general-what-are-the-biggest-mistakes-people-make-with-work-illness-claims-206",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the biggest mistakes people make with work illness claims?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest mistakes are failing to report symptoms early, miscalculating the filing deadlines, and giving recorded statements to insurance adjusters without a lawyer. These actions provide the insurer with the ammunition they need to deny your claim.",
+        "description": "Common errors include waiting to see if it \"goes away,\" not being specific with your doctor about your job duties, and giving a recorded statement to the insurance adjuster. Adjusters often ask leading questions to get you to say your hobby (like gardening or gaming) is the cause instead of work. Another mistake is missing the filing deadlines because you thought the clock started at the \"accident\" instead of the \"diagnosis.\" Finally, many people don't keep their own logs of their symptoms and exposure. Keeping a simple calendar of when your symptoms flare up can be the evidence that wins your case. A lawyer prevents these mistakes by managing the communication from the start."
+      }
+    }
+  ]
+}

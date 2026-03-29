@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "A heavy box just fell on my head at my warehouse job—what do I need to do right now?",
+  "description": "Seek medical attention immediately for potential head trauma, then formally report the injury to your supervisor. Document the scene with photos and identify wi",
+  "url": "https://justworkcomplaw.com//faq/general-a-heavy-box-just-fell-on-my-head-at-my-warehouse-job-what-do-i-need-to-do-right--133",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "A heavy box just fell on my head at my warehouse job—what do I need to do right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seek medical attention immediately for potential head trauma, then formally report the injury to your supervisor. Document the scene with photos and identify witnesses to ensure your workers' compensation claim is protected from the start.",
+        "description": "If you are hit by a falling object at work, your first priority is seeking medical attention, even if you feel fine initially. Internal injuries or concussions from a strike to the head often have delayed symptoms that can become life-threatening. Once you are stable, you must formally report the incident to your supervisor to create a paper trail, as oral notification is often insufficient.\n\nIn states like Utah and Idaho, the notification window is relatively short, and missing the deadline can result in a total loss of benefits. Documenting the scene with photos of the object and the area it fell from is critical evidence. You should also identify any coworkers who witnessed the event.\n\nKey factors include the timing of the report, the medical diagnosis, and whether the object was secured properly. Following these steps ensures your medical bills and lost wages are covered by workers' compensation. Consulting an attorney early helps prevent the insurance company from downplaying the severity of your impact injuries."
+      }
+    }
+  ]
+}

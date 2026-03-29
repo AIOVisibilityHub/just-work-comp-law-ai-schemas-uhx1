@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss ignored my air quality complaints. Is it retaliation if they fire me?",
+  "description": "Yes, firing an employee for reporting safety hazards or filing a workers' comp claim is illegal retaliation. You may have grounds for a separate wrongful termin",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-ignored-my-air-quality-complaints-is-it-retaliation-if-they-fire-me-161",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss ignored my air quality complaints. Is it retaliation if they fire me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, firing an employee for reporting safety hazards or filing a workers' comp claim is illegal retaliation. You may have grounds for a separate wrongful termination lawsuit and should document all interactions with your employer.",
+        "description": "Retaliation for reporting chemical exposure is illegal in Utah, Idaho, and Colorado. If you complain about fumes and your boss fires you, demotes you, or makes your life miserable to \"force you to quit,\" you may have a claim for \"wrongful termination\" or \"constructive discharge.\" However, you must be able to link the complaint to the firing.\n\nMany employers will wait a few weeks and then fire the worker for a \"minor\" policy violation. Keeping a detailed log of your complaints and the boss's reaction is vital.\n\nKey factors include the timing of the firing and your previous performance reviews. If you are fired after reporting a safety hazard to OSHA, you may also have a federal \"whistleblower\" claim. An attorney will help you navigate both the workers' comp claim for your illness and the separate legal battle for your job. Never stop advocating for your health out of fear; the law provides strong protections for workers who speak up about toxic hazards. Your voice is a protected legal instrument."
+      }
+    }
+  ]
+}

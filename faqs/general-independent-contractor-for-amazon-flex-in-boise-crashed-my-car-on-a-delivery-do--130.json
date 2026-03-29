@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Independent contractor for Amazon Flex in Boise, crashed my car on a delivery—do I get anything?",
+  "description": "While you likely won't get traditional workers' comp, you may be covered by Amazon's Occupational Accident Insurance. You also can pursue a personal injury clai",
+  "url": "https://justworkcomplaw.com//faq/general-independent-contractor-for-amazon-flex-in-boise-crashed-my-car-on-a-delivery-do--130",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Independent contractor for Amazon Flex in Boise, crashed my car on a delivery—do I get anything?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While you likely won't get traditional workers' comp, you may be covered by Amazon's Occupational Accident Insurance. You also can pursue a personal injury claim against the driver who hit you to cover vehicle repairs and medical costs.",
+        "description": "Amazon Flex and other gig platforms typically do not provide standard workers' compensation because they classify drivers as independent contractors. However, Amazon does provide 'Occupational Accident Insurance' for Flex drivers in many states, which can cover medical bills and a portion of lost income. If another driver hit you, you must also navigate your personal car insurance, which might deny the claim if you didn't have a 'commercial delivery' rider.\n\nPotential avenues for recovery:\n- Flex Occupational Accident Insurance policy.\n- Personal injury claim against the at-fault driver.\n- Uninsured/Underinsured motorist coverage (UIM).\n\nThe biggest risk is falling into a 'gap' where both your personal insurance and the work platform deny coverage. Because Boise and Idaho laws are strict on contractor status, having a lawyer review the specific 'Flex' terms of service and the accident details is vital to finding a source of payment."
+      }
+    }
+  ]
+}

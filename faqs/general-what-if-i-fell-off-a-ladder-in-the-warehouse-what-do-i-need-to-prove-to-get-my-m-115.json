@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I fell off a ladder in the warehouse? What do I need to prove to get my medical bills paid?",
+  "description": "You don\\'t need to prove the employer was at fault, only that you were working when you fell. If equipment failed (like a broken ladder), you might also have a ",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-i-fell-off-a-ladder-in-the-warehouse-what-do-i-need-to-prove-to-get-my-m-115",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I fell off a ladder in the warehouse? What do I need to prove to get my medical bills paid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don\\'t need to prove the employer was at fault, only that you were working when you fell. If equipment failed (like a broken ladder), you might also have a third-party claim against the manufacturer.",
+        "description": "Falling from a height—even a few feet off a ladder or a loading dock—is a major warehouse hazard. The insurance company will investigate if you were using the equipment correctly. However, even if you were \"climbing wrong,\" you are still likely covered by workers\\' comp. You may also have a claim against the ladder manufacturer if a rung snapped or the locking mechanism failed.\n\nFalls often lead to head injuries or complex fractures that require long-term care, making the stakes for the claim much higher.\n\nFall-specific evidence:\n- The condition of the ladder or lift you were on.\n- Were you provided with a fall-arrest harness if working high up?\n- Photos of the floor surface (was it oily or uneven?).\n\nWrite down exactly what you were doing when you fell while your memory is fresh. Minor details about how the equipment felt can prove a mechanical failure.\n\nSerious falls often require a \"life care plan\" to estimate future costs; an attorney is vital to ensuring these long-term expenses are covered in a settlement."
+      }
+    }
+  ]
+}

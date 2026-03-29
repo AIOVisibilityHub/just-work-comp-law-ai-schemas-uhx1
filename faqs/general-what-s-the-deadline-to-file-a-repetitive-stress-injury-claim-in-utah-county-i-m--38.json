@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the deadline to file a repetitive stress injury claim in Utah County? I'm scared I missed it.",
+  "description": "In Utah, you generally have 30 days from the date you realize your pain is work-related to notify your employer. While specific \"discovery\" rules exist for repe",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-the-deadline-to-file-a-repetitive-stress-injury-claim-in-utah-county-i-m--38",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the deadline to file a repetitive stress injury claim in Utah County? I'm scared I missed it.",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Utah, you generally have 30 days from the date you realize your pain is work-related to notify your employer. While specific \"discovery\" rules exist for repetitive injuries, you should report symptoms immediately to avoid a denial based on late notice.",
+        "description": "The 30-day reporting rule in Utah applies to the date you \"knew or should have known\" the injury was work-related. For a repetitive strain injury, this isn't always the first day you felt a twinge; it's the day the pain became a medical concern or a doctor told you it was caused by work. However, if you've been in pain for months and just now decided to report it, you face a steep uphill battle.\n\nThe law rewards those who report early and punishes those who wait.\n\nKey Factors:\n- The date of diagnosis vs. the date symptoms started.\n- When you first associated the pain with your job.\n- Written vs. oral notification to your supervisor.\n\nEven if you fear you missed the deadline, you should still report it and consult an attorney. \n\nThere are legal arguments regarding the \"discovery rule\" that can sometimes save a late-filed RSI claim."
+      }
+    }
+  ]
+}

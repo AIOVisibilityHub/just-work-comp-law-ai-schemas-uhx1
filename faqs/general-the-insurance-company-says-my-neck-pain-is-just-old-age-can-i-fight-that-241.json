@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "The insurance company says my neck pain is just 'old age.' Can I fight that?",
+  "description": "Yes. If a work incident aggravated your pre-existing 'wear and tear' or an old injury, workers' comp must still pay. You'll need medical evidence to prove the w",
+  "url": "https://justworkcomplaw.com//faq/general-the-insurance-company-says-my-neck-pain-is-just-old-age-can-i-fight-that-241",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "The insurance company says my neck pain is just 'old age.' Can I fight that?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. If a work incident aggravated your pre-existing 'wear and tear' or an old injury, workers' comp must still pay. You'll need medical evidence to prove the work event caused a new 'flare-up' or worsening.",
+        "description": "This is the most common tactic insurance companies use to deny neck claims. They will point to 'age-related' cervical spondylosis or an old car accident. However, under the law in Utah, Idaho, and Texas, if your work duties made that old condition symptomatic or worse, it is a compensable injury. You are not required to have a 'perfect' neck to get help; you just need to prove this job made it worse.\n\nKey factors include your level of activity before the work incident and the scientific proof of 'aggravation.'\n\nBe open with your doctor about your history. If you hide a previous injury, the insurance company will use it to destroy your credibility and deny the whole claim.\n\nWe work with medical experts to prove 'legal causation'—showing that the work incident was the straw that broke the camel's back."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My multiple jobs in Utah exposed me to the same toxin—who pays if I get sick later?",
+  "description": "Under Utah's 'Last Injurious Exposure' rule, the employer you worked for at the time of your most recent significant exposure is typically responsible for the e",
+  "url": "https://justworkcomplaw.com//faq/general-my-multiple-jobs-in-utah-exposed-me-to-the-same-toxin-who-pays-if-i-get-sick-lat-175",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My multiple jobs in Utah exposed me to the same toxin—who pays if I get sick later?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Under Utah's 'Last Injurious Exposure' rule, the employer you worked for at the time of your most recent significant exposure is typically responsible for the entire claim. This simplifies the process so you can get benefits without waiting for past employers to settle a dispute.",
+        "description": "If multiple employers exposed you to the same toxin over time, Utah law uses the \"Last Injurious Exposure\" rule. This generally means the employer you were working for when your symptoms became disabling (or when you were most recently significantly exposed) is responsible for the entire claim. This prevents insurance companies from endlessly arguing over which company contributed 10% versus 20%, which would leave the worker with nothing while they fight.\n\nRules for multiple-employer claims:\n- The \"last\" employer is usually liable even if they weren't the \"main\" cause.\n- You must show the exposure at the last job was of a nature that could have caused the illness.\n- Evidence of protective gear used at different jobs can shift the balance.\n\nIdentify all your past employers where the toxin was present. Provide this history to your doctor so they can help determine when the \"last\" significant exposure occurred. Because insurance companies will fight over who has to pay, having a lawyer is vital to ensure you don't get lost in the crossfire between two carriers."
+      }
+    }
+  ]
+}

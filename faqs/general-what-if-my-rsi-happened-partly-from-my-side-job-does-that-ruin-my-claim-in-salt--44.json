@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my RSI happened partly from my side job—does that ruin my claim in Salt Lake City?",
+  "description": "No, but it complicates the case. You must show your primary employer's tasks were the \"substantial\" cause of the injury. Be transparent about both jobs, as hidi",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-my-rsi-happened-partly-from-my-side-job-does-that-ruin-my-claim-in-salt--44",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my RSI happened partly from my side job—does that ruin my claim in Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, but it complicates the case. You must show your primary employer's tasks were the \"substantial\" cause of the injury. Be transparent about both jobs, as hiding a second job can lead to a fraud investigation and claim denial.",
+        "description": "Having a second job does not ruin your claim, but it makes the \"causation\" argument more complex. The insurance company will try to blame the side job as the primary cause. To win, you must show that your main job's tasks were the \"substantial contributing factor\" to the medical problem. If you spend 40 hours a week scanning at your main job and 5 hours a week at a side job, the 40-hour job is the likely culprit.\n\nBe 100% honest about both jobs from the start; getting caught hiding a side job is a \"fraud\" red flag.\n\nKey Factors:\n- Number of hours worked at each position.\n- Similarity of tasks (e.g., are both jobs repetitive hand-motion jobs?).\n- When the symptoms occur (e.g., do they get worse during the 40-hour week?).\n\nYou may even be entitled to higher lost-wage benefits if both jobs are covered under workers' comp.\n\nA lawyer will help you present your work history in a way that emphasizes the primary job's role in your injury while ensuring you are not unfairly penalized for having a second income."
+      }
+    }
+  ]
+}

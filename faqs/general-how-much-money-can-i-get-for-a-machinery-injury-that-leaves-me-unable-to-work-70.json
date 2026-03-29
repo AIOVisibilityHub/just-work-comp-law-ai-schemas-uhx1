@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much money can I get for a machinery injury that leaves me unable to work?",
+  "description": "You can receive 100% medical coverage and roughly 66% of your lost wages. If the injury is permanent, you may receive a disability settlement based on an impair",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-money-can-i-get-for-a-machinery-injury-that-leaves-me-unable-to-work-70",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much money can I get for a machinery injury that leaves me unable to work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can receive 100% medical coverage and roughly 66% of your lost wages. If the injury is permanent, you may receive a disability settlement based on an impairment rating and your future earning capacity.",
+        "description": "Workers\\' compensation typically pays for all \"reasonable and necessary\" medical treatment related to your machinery injury and roughly two-thirds of your average weekly wage while you are unable to work. However, there are caps on these payments, and \"pain and suffering\" is not included in standard workers\\' comp benefits.\n\nIf your injury is permanent—such as an amputation or loss of function—you may be eligible for Permanent Partial Disability (PPD) or Permanent Total Disability (PTD) benefits. These are calculated based on your \"impairment rating\" assigned by a doctor.\n\nKey factors include:\n- Your pre-injury average weekly wage.\n- The severity and location of the injury (scheduled vs. unscheduled).\n- Your ability to return to any type of work.\n- The cost of future medical care or prosthetics.\n\nCalculating the full value of a machinery accident claim is complex and often requires vocational and medical experts. An attorney ensures the insurance company uses the correct wage data and doesn\\'t downplay your permanent impairment."
+      }
+    }
+  ]
+}

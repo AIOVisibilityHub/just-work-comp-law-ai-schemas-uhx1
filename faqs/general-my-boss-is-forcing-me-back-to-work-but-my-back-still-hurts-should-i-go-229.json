@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss is forcing me back to work but my back still hurts—should I go?",
+  "description": "If your employer offers 'light duty' within your doctor's restrictions, you generally must accept it to keep your benefits. However, you should not perform any ",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-is-forcing-me-back-to-work-but-my-back-still-hurts-should-i-go-229",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss is forcing me back to work but my back still hurts—should I go?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your employer offers 'light duty' within your doctor's restrictions, you generally must accept it to keep your benefits. However, you should not perform any tasks that exceed your medical limitations.",
+        "description": "If the workers' comp doctor clears you for 'light duty,' your employer might offer you a different role, like sitting at a desk or monitoring a station. In Utah, if they offer work within your doctor's restrictions and you refuse it, you may lose your right to lost-wage benefits (TTD). However, if the job they offer actually requires you to bend or lift despite your restrictions, you have the right to refuse and protect your back.\n\nKey factors include the specific written restrictions from your doctor and the reality of the job being offered.\n\nAlways get a written 'light duty' job description from your boss and show it to your doctor before you start the new role.\n\nIf your boss is pressuring you to work beyond your physical limits, a lawyer can intervene to protect your health and your claim."
+      }
+    }
+  ]
+}

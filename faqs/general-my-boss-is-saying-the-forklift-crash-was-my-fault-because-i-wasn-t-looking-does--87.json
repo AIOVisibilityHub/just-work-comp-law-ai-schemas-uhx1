@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss is saying the forklift crash was my fault because I wasn\\'t looking. Does that mean I can\\'t get workers comp?",
+  "description": "In no-fault states like Utah and Idaho, you are generally eligible for workers\\' comp even if you made a mistake. Only extreme cases like intoxication or intent",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-is-saying-the-forklift-crash-was-my-fault-because-i-wasn-t-looking-does--87",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss is saying the forklift crash was my fault because I wasn\\'t looking. Does that mean I can\\'t get workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In no-fault states like Utah and Idaho, you are generally eligible for workers\\' comp even if you made a mistake. Only extreme cases like intoxication or intentional self-harm typically result in a claim denial based on fault.",
+        "description": "Yes, you can still receive workers\\' compensation benefits even if the accident was partially your fault. Utah, Idaho, and most other states use a \"no-fault\" system for workers\\' comp, meaning you don\\'t have to prove the employer was negligent, and your own negligence (like a momentary lapse in safety protocol) rarely disqualifies you. However, there are narrow exceptions, such as injuries caused by intoxication or intentional self-harm. \n\nThe insurance company may try to use \"horseplay\" or \"willful misconduct\" as a reason to deny the claim, but a simple mistake or misjudgment while operating a forklift usually won\\'t block your benefits.\n\nKey considerations involve:\n- Whether you were acting within the scope of your job duties.\n- If there was any drug or alcohol involvement at the time of the crash.\n- Whether you bypassed a known, strictly enforced safety device.\n\nFocus on getting medical treatment and filing the formal paperwork. Do not admit fault in a recorded statement, as the legal definition of \"fault\" in workers\\' comp is very specific.\n\nAn attorney can help protect you if the insurance company tries to blame your \"carelessness\" to avoid paying for your medical bills or lost wages."
+      }
+    }
+  ]
+}

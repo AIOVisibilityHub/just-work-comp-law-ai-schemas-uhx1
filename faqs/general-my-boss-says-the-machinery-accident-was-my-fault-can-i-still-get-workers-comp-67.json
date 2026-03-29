@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss says the machinery accident was my fault—can I still get workers comp?",
+  "description": "Yes, workers\\' compensation is a no-fault system in Utah and Idaho. You are eligible for benefits even if you made a mistake, provided the injury wasn\\'t intent",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-says-the-machinery-accident-was-my-fault-can-i-still-get-workers-comp-67",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss says the machinery accident was my fault—can I still get workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, workers\\' compensation is a no-fault system in Utah and Idaho. You are eligible for benefits even if you made a mistake, provided the injury wasn\\'t intentional or caused by intoxication.",
+        "description": "In Utah and Idaho, workers\\' compensation is a \"no-fault\" system, meaning you are generally entitled to benefits even if the accident was partially your fault. Unless you were intoxicated or intentionally tried to hurt yourself, making a mistake while operating heavy machinery does not disqualify you from receiving medical coverage and lost wage benefits. \n\nThis protection exists because industrial environments are inherently dangerous, and human error is expected. However, if your employer claims you willfully violated a safety rule, they might try to reduce your compensation. \n\nKey factors include:\n- Whether there was adequate training on the machine.\n- If safety protocols were consistently enforced by management.\n- Whether the employer provided required safety gear.\n- If the machine itself had mechanical issues that contributed to the error.\n\nDo not admit fault in your official report; simply describe the facts of what happened. An attorney can help counter arguments that your \"negligence\" should bar you from the benefits you need to recover."
+      }
+    }
+  ]
+}

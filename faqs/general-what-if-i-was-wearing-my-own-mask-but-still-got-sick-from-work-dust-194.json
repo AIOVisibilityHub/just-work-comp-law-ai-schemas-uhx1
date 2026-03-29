@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I was wearing my own mask but still got sick from work dust?",
+  "description": "Wearing a mask does not disqualify you; the employer is still responsible for maintaining a safe environment. Proving that the workplace toxins bypassed your PP",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-i-was-wearing-my-own-mask-but-still-got-sick-from-work-dust-194",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I was wearing my own mask but still got sick from work dust?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wearing a mask does not disqualify you; the employer is still responsible for maintaining a safe environment. Proving that the workplace toxins bypassed your PPE or that the PPE provided was insufficient is a key part of securing benefits.",
+        "description": "Using your own mask or respirator doesn't waive your right to workers\\' compensation if the employer failed to provide a safe environment or required PPE. If the employer knew the air was toxic and didn't provide a respirator, they may even face OSHA citations, which strengthens your claim. However, the insurance company might argue that your \"voluntary\" use of a mask proves you knew the risk and \"assumed\" it, or that your specific illness was caused by an improperly fitted mask. We counter this by showing that the employer is responsible for air quality regardless of individual precautions. Never admit fault for \"not wearing it enough\"—the law focuses on the workplace hazard itself."
+      }
+    }
+  ]
+}

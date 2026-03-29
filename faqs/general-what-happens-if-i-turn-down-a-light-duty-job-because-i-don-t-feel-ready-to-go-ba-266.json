@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if I turn down a light duty job because I don't feel ready to go back yet?",
+  "description": "Refusing a light duty job that meets your doctor's restrictions can result in the termination of your wage benefits. Always consult your doctor before refusing ",
+  "url": "https://justworkcomplaw.com//faq/general-what-happens-if-i-turn-down-a-light-duty-job-because-i-don-t-feel-ready-to-go-ba-266",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if I turn down a light duty job because I don't feel ready to go back yet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Refusing a light duty job that meets your doctor's restrictions can result in the termination of your wage benefits. Always consult your doctor before refusing an offer to ensure the refusal is medically justified.",
+        "description": "Refusing a valid, 'light duty' job offer that falls within your medical restrictions can lead to a complete suspension of your workers' comp benefits. In Utah, the law views this as a 'refusal of suitable employment.' However, the offer must be legitimate and physically possible for you to perform according to your specific medical file.\n\nFactors include the distance of the commute, the specific physical requirements, and whether the offer was made in writing. \n\nCarefully review the job description with your doctor before saying no. If the doctor agrees the job is too much, their medical opinion provides the legal shield you need to refuse.\n\nIf you believe the job offer is a 'sham' designed to make you quit, you need legal counsel to challenge the suitability of the position."
+      }
+    }
+  ]
+}

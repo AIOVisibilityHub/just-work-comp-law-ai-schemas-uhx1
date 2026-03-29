@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is there a deadline to file a workers comp claim after an industrial accident?",
+  "description": "Yes. In Utah, you must notify your employer within 30 days. The formal statute of limitations to file with the state is generally 1-2 years, depending on the ju",
+  "url": "https://justworkcomplaw.com//faq/general-is-there-a-deadline-to-file-a-workers-comp-claim-after-an-industrial-accident-63",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is there a deadline to file a workers comp claim after an industrial accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. In Utah, you must notify your employer within 30 days. The formal statute of limitations to file with the state is generally 1-2 years, depending on the jurisdiction.",
+        "description": "In Utah and Idaho, you typically have 1-2 years to file a formal claim for an industrial accident, but notice must be given much sooner. In Utah, you must notify your employer within 30 days of the accident. Failing to meet the notification deadline is the #1 reason claims are denied. For 'occupational diseases' like chemical exposure, the clock usually starts when you first become aware that the illness is work-related. Because these deadlines are strict and vary by state (Utah vs. Idaho), you should consult a lawyer the moment you realize your injury requires ongoing medical care. Once the statute of limitations passes, your right to medical coverage is gone forever."
+      }
+    }
+  ]
+}

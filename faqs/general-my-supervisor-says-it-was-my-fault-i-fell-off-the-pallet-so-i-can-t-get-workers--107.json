@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My supervisor says it was my fault I fell off the pallet, so I can\\'t get workers comp. Is that true?",
+  "description": "No. Workers\\' compensation is a no-fault system. Unless you were intoxicated or intentionally hurting yourself, you are still eligible for benefits even if you ",
+  "url": "https://justworkcomplaw.com//faq/general-my-supervisor-says-it-was-my-fault-i-fell-off-the-pallet-so-i-can-t-get-workers--107",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My supervisor says it was my fault I fell off the pallet, so I can\\'t get workers comp. Is that true?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Workers\\' compensation is a no-fault system. Unless you were intoxicated or intentionally hurting yourself, you are still eligible for benefits even if you made a mistake that led to your injury.",
+        "description": "Workers\\' compensation was designed for exactly this reason: to provide a safety net regardless of who was \"at fault.\" In Utah, Idaho, and Colorado, even if you were rushing, didn\\'t wear your gloves, or made a mistake while lifting, you are still entitled to benefits. The system is \"no-fault,\" meaning as long as you were doing your job, your medical bills and a portion of your lost wages are covered.\n\nThe only common exceptions are if you were purposely trying to hurt yourself or if you were under the influence of drugs or alcohol.\n\nFault-related factors:\n- Did the accident happen while you were on the clock and working?\n- Were you engaged in \"horseplay\" (which might lead to a denial)?\n- Was there a mechanical failure that contributed to your mistake?\n\nDo not apologize or sign an admission of fault. Simply describe the physical facts of what happened to the medical providers and your employer.\n\nIf your employer tries to use \"your fault\" as a reason to deny your claim, a lawyer can quickly intervene to remind them of the no-fault nature of the law."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss is acting weird since I fell on the ice—can they fire me for making a claim?",
+  "description": "It is illegal in Utah and Idaho to fire an employee specifically for filing a workers' comp claim, though they can fire you for unrelated business reasons. This",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-is-acting-weird-since-i-fell-on-the-ice-can-they-fire-me-for-making-a-cl-10",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss is acting weird since I fell on the ice—can they fire me for making a claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is illegal in Utah and Idaho to fire an employee specifically for filing a workers' comp claim, though they can fire you for unrelated business reasons. This is called unlawful retaliation.",
+        "description": "Utah law protects workers from being fired solely for filing a workers' compensation claim. This is known as \"retaliatory discharge.\" However, an employer can still fire you for other reasons, such as a genuine reduction in force or if your injury makes it impossible for you to perform your job even with reasonable accommodations. If you feel you are being pressured or \"pushed out\" after a fall injury, document every conversation and email. In Boise or Salt Lake City, the threat of a lawsuit for wrongful termination often keeps employers in line. If the pressure becomes unbearable, having an attorney step in ensures your rights are communicated clearly to the company's HR department."
+      }
+    }
+  ]
+}

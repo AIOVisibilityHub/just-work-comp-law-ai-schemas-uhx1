@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "The insurance company is lowballing my falling shelf injury claim. What can I do?",
+  "description": "Don't sign a settlement until you reach Maximum Medical Improvement. Use medical experts to calculate future care costs and disability ratings to ensure your se",
+  "url": "https://justworkcomplaw.com//faq/general-the-insurance-company-is-lowballing-my-falling-shelf-injury-claim-what-can-i-do-143",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "The insurance company is lowballing my falling shelf injury claim. What can I do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Don't sign a settlement until you reach Maximum Medical Improvement. Use medical experts to calculate future care costs and disability ratings to ensure your settlement covers the lifetime impact of the injury.",
+        "description": "Insurance companies often \"lowball\" settlements for falling object injuries by focusing only on your current symptoms and ignoring future medical needs. To get a fair settlement, you need a \"medical narrative\" from your doctor that outlines what your health will look like in 5 or 10 years. Will you need another surgery? Will you develop arthritis?\n\nIn Hawaii and Utah, you shouldn't settle until you reach \"Maximum Medical Improvement\" (MMI). Settling early is a mistake because once you sign the release, you cannot ask for more money if your condition worsens.\n\nKey factors include your permanent impairment rating, future medical costs, and your ability to return to your previous pay grade. An attorney helps by hiring vocational and medical experts to calculate the true lifetime cost of your injury. If the offer doesn't cover these long-term realities, you shouldn't accept it without a formal \"mediation\" or hearing."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I waited a week to report my factory burn injury—will that mess up my claim?",
+  "description": "It makes the claim harder, but not impossible. Report it in writing immediately and see a doctor to document that the injury is consistent with a workplace acci",
+  "url": "https://justworkcomplaw.com//faq/general-i-waited-a-week-to-report-my-factory-burn-injury-will-that-mess-up-my-claim-62",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I waited a week to report my factory burn injury—will that mess up my claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It makes the claim harder, but not impossible. Report it in writing immediately and see a doctor to document that the injury is consistent with a workplace accident.",
+        "description": "A week-long delay in reporting a factory burn in Texas is not an automatic disqualifier, but it creates a 'credibility gap.' The insurance company will argue that if the burn was serious, you would have reported it instantly. They may also suggest the burn happened at home over the weekend. To protect your claim, report it in writing now and explain the delay (e.g., you thought it would heal or you were afraid of retaliation). Seek medical attention immediately so a doctor can record the 'mechanism of injury' as work-related. An attorney can help mitigate the damage of a late report by gathering coworker testimonies or security footage showing the incident happened on-site."
+      }
+    }
+  ]
+}

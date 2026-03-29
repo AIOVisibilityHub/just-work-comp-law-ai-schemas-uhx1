@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "The company doctor says I'm fine for light duty but my own doctor says stay home—who do I listen to?",
+  "description": "This is a common conflict. Legally, the 'authorized' doctor's opinion usually takes precedence for benefits, but you have the right to challenge this. You shoul",
+  "url": "https://justworkcomplaw.com//faq/general-the-company-doctor-says-i-m-fine-for-light-duty-but-my-own-doctor-says-stay-home-272",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "The company doctor says I'm fine for light duty but my own doctor says stay home—who do I listen to?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This is a common conflict. Legally, the 'authorized' doctor's opinion usually takes precedence for benefits, but you have the right to challenge this. You should seek a second medical opinion and legal advice immediately.",
+        "description": "Under Utah and Idaho workers' comp laws, you generally have to see the doctor authorized by the insurance company for the initial period. However, if that doctor is ignoring your pain and pushing you back to work too early, you have the right to request a second opinion or a 'Panel' change. \n\nYour 'Functional Capacity Evaluation' (FCE) results and the credibility of the company doctor vs. your own primary care physician are the primary factors.\n\nDo not just ignore the work release. Instead, schedule an appointment with your own doctor immediately to get a competing medical opinion on your restrictions.\n\nWhen doctors and employers team up to ignore your injuries, we use independent medical exams (IMEs) to prove the restrictions are necessary."
+      }
+    }
+  ]
+}

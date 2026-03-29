@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between a 'bulging' disc and 'herniated' disc for my claim?",
+  "description": "A herniated disc is often viewed as a more severe, traumatic injury, while a bulging disc is sometimes labeled 'degenerative.' Both are compensable if they caus",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-the-difference-between-a-bulging-disc-and-herniated-disc-for-my-claim-250",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between a 'bulging' disc and 'herniated' disc for my claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A herniated disc is often viewed as a more severe, traumatic injury, while a bulging disc is sometimes labeled 'degenerative.' Both are compensable if they cause pain and limit your ability to work.",
+        "description": "A disc that is 'bulging' is generally less severe than one that has 'herniated' (ruptured) and is leaking fluid onto the nerves. However, both can cause debilitating pain. From a workers' comp perspective, a herniation usually leads to a higher impairment rating and a larger settlement, especially if it requires a 'discectomy.' Insurance companies often call a bulge 'degenerative' and a herniation 'traumatic.'\n\nKey factors include the MRI findings and whether the disc is pressing on a nerve root (impingement).\n\nAsk your doctor to explain the 'axial' and 'sagittal' views of your MRI. If your doctor says the injury is 'acute' (recent), that helps prove it was work-related.\n\nWe challenge 'degenerative' labels by showing that your bulging disc was asymptomatic until the work incident occurred."
+      }
+    }
+  ]
+}

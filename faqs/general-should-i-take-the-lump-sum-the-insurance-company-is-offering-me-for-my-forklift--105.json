@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I take the \"lump sum\" the insurance company is offering me for my forklift injury?",
+  "description": "Only if you are prepared to cover all future medical costs yourself. A lump sum ends the insurance company\\'s obligation to pay for your treatment, so it must b",
+  "url": "https://justworkcomplaw.com//faq/general-should-i-take-the-lump-sum-the-insurance-company-is-offering-me-for-my-forklift--105",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I take the \"lump sum\" the insurance company is offering me for my forklift injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Only if you are prepared to cover all future medical costs yourself. A lump sum ends the insurance company\\'s obligation to pay for your treatment, so it must be large enough to cover your needs for the rest of your life.",
+        "description": "A \"full settlement\" (called a Compromise and Release) usually means you get a lump sum of money in exchange for closing your case forever. This means the insurance company will no longer pay for your doctor visits, surgeries, or weekly checks. You should only do this if you are sure your medical condition is stable and you won\\'t need a major surgery in three years.\n\nOnce you sign, you cannot come back for more money, even if your condition gets much worse.\n\nBefore settling:\n- Ensure your doctor has declared you have reached Maximum Medical Improvement (MMI).\n- Have a clear estimate of what future meds or therapy will cost.\n- Understand how the settlement affects your Social Security or other benefits.\n\nNever accept an oral offer. Get everything in writing and have it reviewed by a professional to ensure the \"fine print\" doesn\\'t sign away your life.\n\nAn attorney can calculate the \"true\" future value of your medical needs, which is usually much higher than what the insurance company offers you directly."
+      }
+    }
+  ]
+}

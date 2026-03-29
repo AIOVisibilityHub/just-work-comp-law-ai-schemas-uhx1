@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I waited a few days to report my back pain—did I ruin my chances for workers' comp?",
+  "description": "Not necessarily, but delays give insurance companies a reason to doubt your claim. Report the injury as soon as possible and explain that the pain took time to ",
+  "url": "https://justworkcomplaw.com//faq/general-i-waited-a-few-days-to-report-my-back-pain-did-i-ruin-my-chances-for-workers-com-236",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I waited a few days to report my back pain—did I ruin my chances for workers' comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not necessarily, but delays give insurance companies a reason to doubt your claim. Report the injury as soon as possible and explain that the pain took time to develop or intensify.",
+        "description": "If you wait to report the injury, the insurance company will argue that your back pain happened at home, over the weekend, or is simply 'not work-related.' However, if you have a valid reason for the delay (like symptoms that took a few days to appear) and your medical records support a work-related cause, you can still win. In Utah, the law technically gives you 180 days to notify your employer, but waiting more than a few days creates a massive uphill battle.\n\nKey factors include the length of the delay and whether there are witnesses who can verify your pain started at work.\n\nIf you haven't reported it yet, do it today. Use email or text so there is a digital time-stamp of your report.\n\nIf your claim is being denied solely because of a three-day delay, we can help prove that the logic is legally flawed."
+      }
+    }
+  ]
+}

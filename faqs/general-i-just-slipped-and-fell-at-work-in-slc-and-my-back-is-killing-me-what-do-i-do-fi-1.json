@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I just slipped and fell at work in SLC and my back is killing me—what do I do first so I don't mess up my case?",
+  "description": "Report the fall to your supervisor immediately and seek medical care. Be sure to specify to the doctor that the injury occurred at work, as this creates the nec",
+  "url": "https://justworkcomplaw.com//faq/general-i-just-slipped-and-fell-at-work-in-slc-and-my-back-is-killing-me-what-do-i-do-fi-1",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I just slipped and fell at work in SLC and my back is killing me—what do I do first so I don't mess up my case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report the fall to your supervisor immediately and seek medical care. Be sure to specify to the doctor that the injury occurred at work, as this creates the necessary medical link for your workers' compensation claim.",
+        "description": "If you slipped or tripped at work, the first step is to report the incident to your supervisor immediately. In Utah and Idaho, failing to report the injury within the state-mandated window (typically 30 to 60 days) can provide the insurance carrier a reason to deny your benefits entirely. Seek medical attention right away, even if the pain feels minor, and clearly state to the doctor that the injury happened while you were performing job duties. Document everything, including photos of the floor conditions or the object you tripped over. Following these steps preserves your right to medical coverage and wage replacement. Consulting with a legal professional early ensures that your employer’s insurance company doesn't lead you into making statements that could hurt your claim."
+      }
+    }
+  ]
+}

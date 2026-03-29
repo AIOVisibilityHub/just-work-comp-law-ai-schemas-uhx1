@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If my RSI means I can't do my old job anymore, what retraining benefits can I get in Boise?",
+  "description": "If you can't return to your previous work, you may be eligible for vocational rehabilitation and retraining benefits. This provides professional assistance and ",
+  "url": "https://justworkcomplaw.com//faq/general-if-my-rsi-means-i-can-t-do-my-old-job-anymore-what-retraining-benefits-can-i-get-42",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If my RSI means I can't do my old job anymore, what retraining benefits can I get in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you can't return to your previous work, you may be eligible for vocational rehabilitation and retraining benefits. This provides professional assistance and potentially funding to help you gain skills for a new occupation compatible with your physical limitations.",
+        "description": "If your RSI (like severe carpal tunnel or tendonitis) prevents you from returning to your old job, you may be eligible for \"Vocational Rehabilitation\" benefits. In states like Idaho, this includes assistance from specialists who help you find a new career path, and in some cases, it can pay for retraining or schooling. Workers' comp is designed to either get you back to your old job or provide a bridge to a new one.\n\nPermanent impairment benefits also provide a lump sum if you are forever limited in the type of work you can do.\n\nKey Factors:\n- Your \"Permanent Functional Impairment\" (PFI) rating.\n- The availability of light-duty work with your current employer.\n- State-specific vocational rehab funds.\n\nThis is a frequently overlooked part of workers' comp that insurers rarely volunteer to explain to workers. \n\nA lawyer will fight to include vocational retraining in your final settlement if your RSI has effectively ended your career in your previous field."
+      }
+    }
+  ]
+}

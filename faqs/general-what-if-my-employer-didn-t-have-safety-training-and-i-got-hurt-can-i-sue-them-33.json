@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my employer didn't have safety training and I got hurt—can I sue them?",
+  "description": "Generally, you cannot sue your employer due to workers' comp \"exclusive remedy\" laws. However, you may be able to file a lawsuit against a third party, such as ",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-my-employer-didn-t-have-safety-training-and-i-got-hurt-can-i-sue-them-33",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my employer didn't have safety training and I got hurt—can I sue them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally, you cannot sue your employer due to workers' comp \"exclusive remedy\" laws. However, you may be able to file a lawsuit against a third party, such as an equipment manufacturer or a property owner, if their negligence contributed to your lifting injury. village.",
+        "description": "In most cases, workers' compensation is the \"exclusive remedy,\" meaning you generally cannot sue your employer for a lifting injury, even if they were negligent. However, you can sue a \"third party\" if someone other than your employer or a coworker caused the injury. For example, if you were lifting a heavy crate that failed due to a manufacturing defect, or if you were injured at a client's site due to their unsafe premises, you might have a personal injury case against them.\n\nThird-party lawsuits allow you to recover pain and suffering, which workers' comp does not allow.\n\nKey Factors:\n- Manufacturer of lifting equipment or packaging.\n- Owners of the property where you were working (if not your employer).\n- Contractors or outside vendors who created the hazard.\n\nIdentifying these third parties is complex but can significantly increase the total compensation you receive. \n\nAn attorney can investigate the equipment, the site, and the parties involved to see if a lawsuit is possible alongside your comp claim."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it too late to file if I was exposed to toxins 2 years ago but just got sick?",
+  "description": "Not necessarily. Deadlines for chemical exposure typically begin when you discover the link between your illness and your work. However, you should file as soon",
+  "url": "https://justworkcomplaw.com//faq/general-is-it-too-late-to-file-if-i-was-exposed-to-toxins-2-years-ago-but-just-got-sick-156",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it too late to file if I was exposed to toxins 2 years ago but just got sick?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not necessarily. Deadlines for chemical exposure typically begin when you discover the link between your illness and your work. However, you should file as soon as a doctor suggests your condition is work-related to avoid \"statute of limitations\" issues. house.",
+        "description": "In Idaho and Utah, \"occupational disease\" claims have different deadlines than sudden accident claims. Generally, the clock starts \"ticking\" not when you were exposed, but when you first realized (or should have realized) that your illness was related to your work. In Idaho, you typically need to file a claim within one year of this discovery.\n\nWaiting too long is a common reason for denial. If you've been coughing for years but only now a doctor says \"this is from the paint fumes,\" your deadline usually starts from that diagnosis.\n\nKey factors include the \"date of manifest\" and when you first received medical advice linking the two. The insurance company will argue you knew much earlier to try and dismiss your claim based on the statute of limitations. Because of these moving deadlines, you should contact a lawyer the moment you suspect a link between your health and your work environment. Timeliness is the foundation of a successful occupational illness claim. Don't let a \"slow-rolling\" illness rob you of your legal window."
+      }
+    }
+  ]
+}

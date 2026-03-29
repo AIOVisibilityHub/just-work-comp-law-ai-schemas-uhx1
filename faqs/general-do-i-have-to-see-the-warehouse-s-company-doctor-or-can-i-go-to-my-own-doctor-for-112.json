@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I have to see the warehouse\\'s \"company doctor,\" or can I go to my own doctor for my injury?",
+  "description": "Initially, the employer usually picks the doctor. However, you often have a legal right to change doctors or get a second opinion. You must follow specific noti",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-have-to-see-the-warehouse-s-company-doctor-or-can-i-go-to-my-own-doctor-for-112",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I have to see the warehouse\\'s \"company doctor,\" or can I go to my own doctor for my injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Initially, the employer usually picks the doctor. However, you often have a legal right to change doctors or get a second opinion. You must follow specific notice rules to ensure the insurance company still pays the bills.",
+        "description": "In Utah, Idaho, and Oregon/Hawaii jurisdictions, you generally do not get to pick your own doctor for the very first visit. The employer has the right to send you to their \"company doctor\" or an occupational clinic. However, after that first visit, the rules change. In Utah, you can usually switch to a doctor of your choice one time, but you MUST notify the insurance company.\n\nIf you just start seeing your family doctor without following the rules, the insurance company will refuse to pay those bills.\n\nDoctor choice rules:\n- The initial visit is usually at a clinic chosen by the employer.\n- You have a right to a second opinion or a one-time \"doctor swap\" in many states.\n- The insurance company must pay for specialized referrals (like to a surgeon) if the first doctor recommends them.\n\nDon\\'t assume the company doctor has your best interests at heart. Their goal is often to get you back to work as quickly as possible.\n\nWe help our clients navigate the \"doctor swap\" process to ensure they are seeing a specialist who actually focuses on their recovery, not the company\\'s bottom line."
+      }
+    }
+  ]
+}

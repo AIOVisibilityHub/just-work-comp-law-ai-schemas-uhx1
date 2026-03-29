@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Utah County construction site had no air testing for dust—how do I gather proof for compensation?",
+  "description": "Document the conditions with photos, keep a daily log of symptoms, and identify coworkers who can testify to the lack of air testing or PPE. Medical tests like ",
+  "url": "https://justworkcomplaw.com//faq/general-utah-county-construction-site-had-no-air-testing-for-dust-how-do-i-gather-proof--179",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Utah County construction site had no air testing for dust—how do I gather proof for compensation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Document the conditions with photos, keep a daily log of symptoms, and identify coworkers who can testify to the lack of air testing or PPE. Medical tests like spirometry and chest X-rays are critical to proving your lungs were damaged by construction dust.",
+        "description": "Building a case for dust exposure in Utah County requires proving that your employer failed to provide a safe environment or required PPE (Personal Protective Equipment). Since you cannot always \"see\" dust, air quality monitoring reports are the best evidence. If those don't exist, you must rely on circumstantial evidence like the thickness of dust on surfaces, reports of clogged filters, or similar health complaints from your crew.\n\nEvidence to gather:\n- Photos of dusty work areas and lack of shrouds or vacuums.\n- A log of every day you worked in those conditions without a respirator.\n- Medical tests like spirometry or chest X-rays showing particulate matter.\n\nTry to find out if OSHA has ever cited the site for silica or dust violations. If you suspect current violations, you can request an OSHA inspection anonymously. An attorney can help subpoena the company's internal safety logs and air testing data which they are legally required to maintain."
+      }
+    }
+  ]
+}

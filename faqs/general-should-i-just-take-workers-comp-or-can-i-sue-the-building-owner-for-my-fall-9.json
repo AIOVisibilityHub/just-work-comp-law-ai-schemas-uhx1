@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I just take workers comp or can I sue the building owner for my fall?",
+  "description": "You typically can't sue your employer, but you may be able to sue a third-party building owner or contractor for negligence, which can provide compensation for ",
+  "url": "https://justworkcomplaw.com//faq/general-should-i-just-take-workers-comp-or-can-i-sue-the-building-owner-for-my-fall-9",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I just take workers comp or can I sue the building owner for my fall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You typically can't sue your employer, but you may be able to sue a third-party building owner or contractor for negligence, which can provide compensation for pain and suffering.",
+        "description": "You generally cannot sue your employer directly for a fall due to the \"exclusive remedy\" rule of workers' compensation. However, if your fall was caused by a third party—such as a cleaning company that left a floor wet without signs, or a contractor who left debris in a walkway—you may have a separate personal injury lawsuit against them. This is called a \"third-party claim.\" Unlike workers' comp, a third-party claim allows you to seek damages for pain, suffering, and emotional distress. This significantly increases the potential recovery. Determining if a third party is involved requires a detailed investigation of the work site and contracts, which is where a specialized law firm is essential."
+      }
+    }
+  ]
+}

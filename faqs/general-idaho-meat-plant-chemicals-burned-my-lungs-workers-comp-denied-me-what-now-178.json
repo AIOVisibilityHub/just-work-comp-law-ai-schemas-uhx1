@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Idaho meat plant chemicals burned my lungs—workers comp denied me, what now?",
+  "description": "You must appeal the denial through the Idaho Industrial Commission. Success requires medical evidence from a respiratory specialist proving the specific plant c",
+  "url": "https://justworkcomplaw.com//faq/general-idaho-meat-plant-chemicals-burned-my-lungs-workers-comp-denied-me-what-now-178",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Idaho meat plant chemicals burned my lungs—workers comp denied me, what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must appeal the denial through the Idaho Industrial Commission. Success requires medical evidence from a respiratory specialist proving the specific plant chemicals caused your lung damage, as insurance companies often blame smoking or pre-existing conditions.",
+        "description": "If your Idaho meat plant claim was denied, the most common reason is \"lack of medical causation\"—the insurance company claims your lung issues are due to smoking, allergies, or a previous viral illness. You have the right to appeal this decision to the Idaho Industrial Commission. You will need an \"Independent Medical Examination\" (IME) from a respiratory specialist who can testify that the plant chemicals (like ammonia or sanitizers) are the primary cause of your lung damage.\n\nYour next steps:\n- Obtain the formal \"Notice of Denial\" and check the reason given.\n- Find a pulmonologist who specializes in occupational lung disease.\n- Gather statements from coworkers about the chemical smells or lack of ventilation.\n\nStrict deadlines apply to appeals in Idaho. Do not wait for your health to improve before acting. An attorney is almost always necessary for an appeal because you will have to cross-examine medical experts and prove scientific links."
+      }
+    }
+  ]
+}

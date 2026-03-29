@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I hire a lawyer for a repetitive strain injury from assembly line work?",
+  "description": "Yes. Repetitive motion claims are frequently denied as 'pre-existing.' A lawyer helps prove that your work duties were the direct cause of your medical conditio",
+  "url": "https://justworkcomplaw.com//faq/general-should-i-hire-a-lawyer-for-a-repetitive-strain-injury-from-assembly-line-work-64",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I hire a lawyer for a repetitive strain injury from assembly line work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Repetitive motion claims are frequently denied as 'pre-existing.' A lawyer helps prove that your work duties were the direct cause of your medical condition.",
+        "description": "Repetitive strain injuries (RSI) like carpal tunnel from an industrial assembly line in St. George are fully covered under workers' compensation law, but they are frequently challenged. Insurers often claim these injuries are caused by age, hobbies, or previous jobs. Because there isn't a single 'accident date,' you must report the injury as soon as a medical professional links your pain to your job duties. You need a lawyer early in this process because the 'occupational disease' legal standard is different from a one-time accident. An attorney will work with ergonomic experts and your treating physician to prove that your job requirements were the primary cause of your condition."
+      }
+    }
+  ]
+}

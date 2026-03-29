@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I worked with hazardous stuff in a Utah warehouse and didn't get PPE, can I still get money even if I quit?",
+  "description": "Yes, you can still file a claim even if you no longer work for the employer. Your eligibility for benefits depends on proving the exposure occurred during your ",
+  "url": "https://justworkcomplaw.com//faq/general-i-worked-with-hazardous-stuff-in-a-utah-warehouse-and-didn-t-get-ppe-can-i-still-169",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I worked with hazardous stuff in a Utah warehouse and didn't get PPE, can I still get money even if I quit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can still file a claim even if you no longer work for the employer. Your eligibility for benefits depends on proving the exposure occurred during your employment and caused your current health issues, regardless of your current employment status.",
+        "description": "Under Utah and Idaho workers\\' compensation laws, your rights are protected regardless of whether you are still employed. Quitting a warehouse job because of unsafe conditions or lack of PPE does not waive your right to medical benefits or disability pay if the exposure caused a lasting condition. Documentation is the biggest challenge when you no longer have access to the site, as you must prove the chemicals used and the lack of safety equipment.\n\nKey factors for your claim:\n- Evidence of the specific toxins used in the warehouse.\n- Medical records showing the progression of your illness.\n- Testimony or statements from former coworkers regarding the lack of PPE.\n\nYou should notify your former employer of the claim in writing as soon as a doctor links your illness to that job. Keep all old paystubs or W-2s to prove employment dates. Consulting a lawyer can help you subpoena safety records or OSHA reports from your former workplace."
+      }
+    }
+  ]
+}

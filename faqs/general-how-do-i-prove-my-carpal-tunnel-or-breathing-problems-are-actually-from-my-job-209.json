@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prove my carpal tunnel or breathing problems are actually from my job?",
+  "description": "You must establish a 'medical nexus' showing your job duties primarily caused the condition. Detailed work logs and a specific medical opinion linking your task",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-prove-my-carpal-tunnel-or-breathing-problems-are-actually-from-my-job-209",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prove my carpal tunnel or breathing problems are actually from my job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must establish a 'medical nexus' showing your job duties primarily caused the condition. Detailed work logs and a specific medical opinion linking your tasks to your symptoms are required for a successful claim.",
+        "description": "Proving a \"gradual\" illness like carpal tunnel or respiratory issues requires strong medical nexus letters. Insurance companies often claim these are \"aging\" issues or \"lifestyle\" problems rather than work-related. To fight this, you need a physician who can explicitly state that your specific job duties were the primary contributing factor. This often involves ergonomic assessments or MSDS sheets for chemical exposure. We look for patterns in your medical history that show symptoms escalating during work weeks and improving during time off. Detailed logs of your daily tasks are essential evidence here. Moving forward without a medical expert is the most common reason these claims fail."
+      }
+    }
+  ]
+}

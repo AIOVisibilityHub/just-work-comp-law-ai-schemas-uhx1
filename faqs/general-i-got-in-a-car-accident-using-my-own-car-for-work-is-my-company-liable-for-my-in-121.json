@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I got in a car accident using my own car for work, is my company liable for my injuries?",
+  "description": "Yes, if you were performing work duties at the time of the crash, you are typically eligible for workers' compensation benefits even if you were driving your pe",
+  "url": "https://justworkcomplaw.com//faq/general-i-got-in-a-car-accident-using-my-own-car-for-work-is-my-company-liable-for-my-in-121",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I got in a car accident using my own car for work, is my company liable for my injuries?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if you were performing work duties at the time of the crash, you are typically eligible for workers' compensation benefits even if you were driving your personal vehicle. Exceptions like the 'coming and going' rule apply to standard commutes, but work-related errands are generally covered.",
+        "description": "If you were performing a job duty when the crash occurred, you are generally covered by workers' compensation in Utah or Idaho, regardless of who owns the car. The key factor is whether you were 'in the course of employment'—meaning you were running a business errand, traveling between job sites, or transporting equipment. Personal commutes to and from your fixed office are usually excluded under the 'going and coming' rule, but many exceptions apply if your vehicle is essential to the work.\n\nKey considerations include:\n- Whether the errand was specifically requested by your boss.\n- If you were being paid for your travel time.\n- If the vehicle contained specialized work tools or marketing materials.\n\nYou should report the accident to your employer immediately and document that you were on a work assignment. If the company claims your personal insurance should handle it, they may be trying to avoid a premium hike. A lawyer can help clarify the 'course of employment' boundary to ensure your medical bills are paid by the correct policy."
+      }
+    }
+  ]
+}

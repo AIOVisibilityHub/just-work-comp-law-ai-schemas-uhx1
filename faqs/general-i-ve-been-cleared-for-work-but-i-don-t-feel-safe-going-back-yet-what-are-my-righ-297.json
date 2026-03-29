@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I've been cleared for work but I don't feel safe going back yet—what are my rights?",
+  "description": "You have the right to a second opinion and a Functional Capacity Evaluation (FCE) to prove you are not yet fit for duty. Never simply 'no-show' at work; use med",
+  "url": "https://justworkcomplaw.com//faq/general-i-ve-been-cleared-for-work-but-i-don-t-feel-safe-going-back-yet-what-are-my-righ-297",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I've been cleared for work but I don't feel safe going back yet—what are my rights?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You have the right to a second opinion and a Functional Capacity Evaluation (FCE) to prove you are not yet fit for duty. Never simply 'no-show' at work; use medical evidence to contest the release and protect your benefits.",
+        "description": "If you are still in pain or feel unsafe, you have the right to challenge your doctor's release. In Utah and Idaho, you can seek a second opinion from another qualified physician. You should also request a Functional Capacity Evaluation (FCE), which is a 4-6 hour physical test that proves exactly what your body can handle through objective measurement (not just a doctor's 'guess').\n\nDo not simply refuse to go back; that is 'job abandonment.' Instead, go to work and document every task you cannot do.\n\n- An FCE provides 'hard data' that is difficult for insurance to ignore.\n- You can file an appeal with the Labor Commission if you were released prematurely.\n- Your 'subjective' pain is valid, but needs 'objective' medical support.\n\nA lawyer can help you find a doctor who specializes in complex work injuries and is not 'beholden' to insurance companies, ensuring your return-to-work date is actually safe."
+      }
+    }
+  ]
+}

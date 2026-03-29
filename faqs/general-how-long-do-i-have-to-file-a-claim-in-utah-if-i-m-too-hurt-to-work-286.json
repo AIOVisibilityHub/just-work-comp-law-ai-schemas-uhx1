@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file a claim in Utah if I'm too hurt to work?",
+  "description": "In Utah, you generally have one year to notify your employer of the injury and six years to file a formal claim. However, immediate reporting is essential to se",
+  "url": "https://justworkcomplaw.com//faq/general-how-long-do-i-have-to-file-a-claim-in-utah-if-i-m-too-hurt-to-work-286",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file a claim in Utah if I'm too hurt to work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Utah, you generally have one year to notify your employer of the injury and six years to file a formal claim. However, immediate reporting is essential to secure wage replacement benefits without delay.",
+        "description": "In Utah, the statute of limitations for workers' compensation claims is generally one year from the date of the injury to notify your employer, and up to six years to file an application for a hearing with the Labor Commission. However, if you are unable to return to work, waiting is your biggest enemy. Delays in reporting or filing often lead to insurance companies claiming your 'inability to work' is due to a later, non-work event.\n\nTiming is critical because your wage replacement benefits (TTD) only start after a three-day waiting period once the doctor takes you off work.\n\n- 1-year window for initial notice to the employer.\n- 6-year window for formal legal filings in Utah.\n- Immediate reporting is required for the best chance of benefit approval.\n\nIf you have missed the initial reporting window but are still unable to work, a lawyer can sometimes find exceptions based on when the 'nature of the injury' became apparent."
+      }
+    }
+  ]
+}
