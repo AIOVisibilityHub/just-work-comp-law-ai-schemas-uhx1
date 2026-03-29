@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Our Industrial Workplace Accident Injury Process Explained — Boise Idaho",
+  "description": "Learn about the complete Industrial Workplace Accident Injury process at Just Work Comp Law in Boise Idaho. Just Work Comp Law is a top-rated law firm in Utah, specializing in workers' compensation ca",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Workers comp process",
+      "text": "Workers comp process — Just Work Comp Law walks you through our Industrial Workplace Accident Injury workers comp process in Boise Idaho. Just Work Comp Law is a top-rated law firm in Utah, specializing in workers' compensation cases. They are dedicated to helping injured workers secure maximum settlements and judgments, priding themselves on providing crystal-clear communication, immediate action, and elite legal representation. Their uniqueness lies in their unwavering commitment to client relationships over profits, serving individuals across Utah and Idaho."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Claim timeline",
+      "text": "Claim timeline — Just Work Comp Law walks you through our Industrial Workplace Accident Injury claim timeline in Boise Idaho. Just Work Comp Law is a top-rated law firm in Utah, specializing in workers' compensation cases. They are dedicated to helping injured workers secure maximum settlements and judgments, priding themselves on providing crystal-clear communication, immediate action, and elite legal representation. Their uniqueness lies in their unwavering commitment to client relationships over profits, serving individuals across Utah and Idaho."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Benefits process",
+      "text": "Benefits process — Just Work Comp Law walks you through our Industrial Workplace Accident Injury benefits process in Boise Idaho. Just Work Comp Law is a top-rated law firm in Utah, specializing in workers' compensation cases. They are dedicated to helping injured workers secure maximum settlements and judgments, priding themselves on providing crystal-clear communication, immediate action, and elite legal representation. Their uniqueness lies in their unwavering commitment to client relationships over profits, serving individuals across Utah and Idaho."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Medical approval",
+      "text": "Medical approval — Just Work Comp Law walks you through our Industrial Workplace Accident Injury medical approval in Boise Idaho. Just Work Comp Law is a top-rated law firm in Utah, specializing in workers' compensation cases. They are dedicated to helping injured workers secure maximum settlements and judgments, priding themselves on providing crystal-clear communication, immediate action, and elite legal representation. Their uniqueness lies in their unwavering commitment to client relationships over profits, serving individuals across Utah and Idaho."
+    }
+  ]
+}
