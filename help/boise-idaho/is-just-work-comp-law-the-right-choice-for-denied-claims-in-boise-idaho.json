@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Is Just Work Comp Law the Right Choice for Denied claims in Boise Idaho?",
+    "text": "Is Just Work Comp Law the Right Choice for Denied claims in Boise Idaho?",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, Just Work Comp Law is a trusted Law Firm provider specializing in denied claims in Boise Idaho. Just Work Comp Law is a top-rated law firm in Utah, specializing in workers' compensation cases. They are dedicated to helping injured workers secure maximum settlements and judgments, priding themselves on providing crystal-clear communication, immediate action, and elite legal representation. Their uniqueness lies in their unwavering commitment to client relationships over profits, serving individuals across Utah and Idaho. Call us at 801-746-0290.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are some common mistakes that could ruin my workers' comp claim?",
+  "description": "Mistakes include failing to report every symptom, missing medical appointments, violating your own work restrictions, and settling your case before you are full",
+  "url": "https://justworkcomplaw.com//faq/general-what-are-some-common-mistakes-that-could-ruin-my-workers-comp-claim-302",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are some common mistakes that could ruin my workers' comp claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mistakes include failing to report every symptom, missing medical appointments, violating your own work restrictions, and settling your case before you are fully healed. These actions give the insurance company excuses to stop your payments.",
+        "description": "The biggest mistake people make is trying to 'tough it out' and not reporting the full extent of their symptoms. This creates a gap in medical history that insurance companies will use to deny later claims of 'inability to work.' Other common mistakes include missing doctor appointments, ignoring work restrictions (even at home), or posting physical activities on social media that contradict your claim.\n\nEverything you do from the moment of injury is being scrutinized by the insurance adjuster.\n\n- Failing to report 'small' pains that later become big ones.\n- Talking to the insurance adjuster without a lawyer.\n- Not keeping a detailed log of missed workdays and symptoms.\n\nThe most critical mistake is settling too early. Once you sign a full and final release, you can never get more money, even if your condition worsens and you lose your job a year later. Never settle until you've reached Maximum Medical Improvement."
+      }
+    }
+  ]
+}

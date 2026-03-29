@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I really need a lawyer if the insurance company is already paying me?",
+  "description": "Yes. Even if they are paying, they often under-calculate benefits or prepare to stop payments as soon as possible. A lawyer protects you from premature return-t",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-really-need-a-lawyer-if-the-insurance-company-is-already-paying-me-303",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I really need a lawyer if the insurance company is already paying me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Even if they are paying, they often under-calculate benefits or prepare to stop payments as soon as possible. A lawyer protects you from premature return-to-work orders and ensures you get the maximum settlement for long-term disability.",
+        "description": "You should ideally contact a lawyer the moment you realize you won't be able to return to your normal job duties. Insurance companies are most aggressive when they face long-term disability payouts. A lawyer will ensure your Average Weekly Wage is calculated correctly (most are under-calculated), stop the adjuster from pressuring you back to work, and select neutral doctors for your evaluations.\n\nIf you have already received a denial letter or a 'Notice of Intent to Stop Benefits,' you must call a lawyer immediately.\n\n- Lawyers work on a 'contingency fee,' meaning you pay nothing upfront.\n- Fees are capped by state law (usually 20-25%).\n- A lawyer often increases the settlement amount by 3-4 times the original offer.\n\nAt Just Work Comp Law, we take the stress of the 'paperwork war' off your shoulders so you can focus on healing. If your ability to make a living is at stake, do not fight the insurance company's legal team alone."
+      }
+    }
+  ]
+}

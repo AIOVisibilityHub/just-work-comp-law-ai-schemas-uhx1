@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will workers' comp cover my therapy if I developed depression because I can’t work?",
+  "description": "Yes, if your mental health issues are a direct result of your physical work injury. Utah law allows for 'physical-mental' claims, covering therapy and associate",
+  "url": "https://justworkcomplaw.com//faq/general-will-workers-comp-cover-my-therapy-if-i-developed-depression-because-i-can-t-wor-301",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will workers' comp cover my therapy if I developed depression because I can’t work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if your mental health issues are a direct result of your physical work injury. Utah law allows for 'physical-mental' claims, covering therapy and associated disability benefits if you cannot work due to the psychological impact of your accident.",
+        "description": "If your injury led to mental health issues like depression, anxiety, or PTSD, these are often compensable under workers' compensation in Utah if they were 'primarily' caused by the physical injury. These are known as 'physical-mental' claims. If the mental health issue makes it impossible for you to return to work, the insurance company must pay for professional counseling and potentially additional disability benefits.\n\nThe burden of proof is high, and you must have a diagnosis from a licensed psychiatrist or psychologist.\n\n- Treatment must be documented and linked to the timeline of the accident.\n- 'Mental-mental' claims (stress without a physical injury) are much harder to win in Utah.\n- Medications and therapy costs should be covered by the insurer.\n\nDo not suffer in silence. Tell your doctor about your'sleeping issues, anxiety, or mood changes' so it gets into the medical records. If the insurance company denies your psych care, our firm can help you appeal for full coverage."
+      }
+    }
+  ]
+}
