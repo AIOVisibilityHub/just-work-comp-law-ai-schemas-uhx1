@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Workers' Comp Truths: Answers to the Toughest Questions for Injured Workers",
+    "text": "Workers' Comp Truths: Answers to the Toughest Questions for Injured Workers",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "### What if my boss says they don't have workers' comp?\nIn Utah and Idaho, almost every employer is required by law to carry workers' compensation insurance. If they tell you they don't have it, they are likely either lying or in violation of the law. You can still file a claim through a state-uninsured employers' fund, and the employer may face massive fines and even criminal charges.\n\n### I’m not a \"wimp\"—should I wait until it’s really bad to file?\n**NO.** In the world of workers' comp, waiting is seen as a sign that the injury isn't serious or didn't happen at work. \"Toughing it out\" is the quickest way to have your claim denied. Report it now, get it on the record, and you can always \"withdraw\" the claim later if it heals quickly. You cannot \"add\" a claim later if the deadline has passed.\n\n### How much does it cost to hire an attorney for a lifting injury?\nAt Just Work Comp Law, we work on a contingency fee basis. This means we take a percentage of the *additional* money we get for you. If we don't win your case, you owe us nothing in attorney fees. This allows you to go toe-to-toe with a billion-dollar insurance company without any out-of-pocket costs.\n\n### Can I see my own doctor?\nThis depends on your state and your employer's insurance. Often, the insurance company gets to pick the \"authorized\" doctor for the first visit. However, you have rights to seek a second opinion or a \"change of doctor\" if you aren't getting the care you need. Never let an insurance doctor bully you into returning to heavy lifting before you are ready.\n\n### Why was my claim denied after I already saw a doctor?\nDenials happen for many reasons: late reporting, \"pre-existing conditions,\" or the insurance doctor claiming you are \"faking.\" A denial is not the end of the road—it is just the beginning of the legal fight. We specialize in appealing these denials and forcing the insurance company to pay what they owe.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

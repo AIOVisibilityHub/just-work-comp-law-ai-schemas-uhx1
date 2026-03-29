@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Attorney",
+  "name": "Halston T. Davis",
+  "jobTitle": "Attorney",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "description": "Halston T. Davis, an award-winning attorney at Just Work Comp Law, has dedicated 100% of his practice to workers' compensation law since 2004. He represents hundreds of injured workers in Utah, fighting to win compensation and benefits denied by insurance companies. Approximately 20% of his practice is dedicated to litigation. Mr. Davis is admitted to practice in Utah and the United States District Court. He earned his Bachelor's degree from Brigham Young University and his Juris Doctor from the University of Utah. He is a member of the Workers Injury Law & Advocacy Group, the Utah Association for Justice, and the Sutherland Institute. Outside of his professional life, Mr. Davis enjoys spending time with his family and fly-fishing in Utah's lakes, rivers, and streams. To retain Halston T. Davis for your workers' compensation needs, contact Just Work Comp Law at 801-746-0290 for a free consultation.",
+  "telephone": "801-746-0290",
+  "knowsAbout": [
+    "Workers Compensation Law",
+    "Litigation",
+    "Workplace Injury Claims",
+    "Occupational Illness Claims",
+    "Workers Comp Medical Expense Recovery",
+    "Workers Comp Lost Wage Recovery",
+    "Workers Compensation Appeals",
+    "Workers Compensation Claim Denials"
+  ],
+  "areaServed": {
+    "@type": "City",
+    "name": "Ogden"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Attorney",
+  "name": "Jon Bonnesen",
+  "jobTitle": "Attorney",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "description": "Jon Bonnesen, an award-winning attorney at Just Work Comp Law, has dedicated his legal career to managing a high-volume civil litigation caseload since 2017. His expertise spans every stage of the litigation process, from initial client intake to filings, discovery, hearings, trials, and strategic settlement negotiations. Known for his practical approach and strong advocacy, Mr. Bonnesen consistently achieves favorable outcomes for his clients. He is admitted to practice in Idaho, Colorado, Utah, Hawaii, the US District Court for the District of Idaho, and the US District Court for the District of Colorado. He received his Bachelor's degree from Idaho State University and his Juris Doctor from the University of Idaho. He is a member of the Utah Association for Justice. Outside of his legal practice, Mr. Bonnesen enjoys cheering on the Utah Warriors, seeking out the best Pad Thai, playing golf, and building Star Wars LEGO sets with his five children. To discuss your civil litigation needs, contact Jon Bonnesen at Just Work Comp Law at 801-746-0290 for a free consultation.",
+  "telephone": "801-746-0290",
+  "knowsAbout": [
+    "Civil Litigation",
+    "Workers Compensation Law",
+    "Workplace Injury Claims",
+    "Occupational Illness Claims",
+    "Workers Comp Medical Expense Recovery",
+    "Workers Comp Lost Wage Recovery",
+    "Workers Compensation Appeals",
+    "Workers Compensation Claim Denials"
+  ],
+  "areaServed": {
+    "@type": "City",
+    "name": "Salt Lake City"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Prove an Employer Bypassed Machine Safety Guards",
+  "description": "How to Prove an Employer Bypassed Machine Safety Guards - Utah County",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1",
+      "text": "<h1>How to Prove an Employer Bypassed Machine Safety Guards</h1>"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2",
+      "text": "In many industrial machinery accidents, the root cause is not just a \"mistake,\" but a deliberate decision by a supervisor or employer to remove or bypass safety guards to increase production speed. Proving this can significantly change the trajectory of your case, potentially leading to increased penalties against the employer or opening the door for third-party litigation."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3",
+      "text": "<h2>Step 1: Document the Machine’s Physical State</h2>"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4",
+      "text": "Take photos or videos of the machine immediately. Look specifically for:"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5",
+      "text": "- Missing physical barriers or shields."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Step 6",
+      "text": "- \"Jumpered\" or taped-over light curtains and sensors."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "Step 7",
+      "text": "- Zip-tied safety switches that are permanently held in the \"on\" position."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 8,
+      "name": "Step 8",
+      "text": "- Holes or modifications in the machine frame that clearly weren't part of the original design."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 9,
+      "name": "Step 9",
+      "text": "<h2>Step 2: Gather Maintenance and Inspection Logs</h2>"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 10,
+      "name": "Step 10",
+      "text": "Every piece of industrial equipment should have a maintenance history. These logs will show if safety features were reported as \"broken\" and never fixed, or if they were intentionally removed during a specific shift. In a legal claim, your attorney can subpoena these records to prove the employer had \"actual knowledge\" of the hazard."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 11,
+      "name": "Step 11",
+      "text": "<h2>Step 3: Collect Testimony from Coworkers</h2>"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 12,
+      "name": "Step 12",
+      "text": "If a supervisor told workers to \"just work around\" a broken guard, your coworkers are the best source of proof. Ask colleagues if they were ever instructed to bypass safety features or if management ignored complaints about a dangerous machine. At Just Work Comp Law, we prioritize getting these statements early before the employer can influence the staff."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 13,
+      "name": "Step 13",
+      "text": "<h2>Step 4: Request OSHA Inspection Reports</h2>"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 14,
+      "name": "Step 14",
+      "text": "If your injury was severe, OSHA will likely conduct an investigation. An OSHA citation for a \"willful violation\" regarding machine guarding is powerful evidence. It proves that a government agency found the employer in breach of safety laws, which can be used to counter an insurance company's claim that the accident was your fault."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 15,
+      "name": "Step 15",
+      "text": "<h2>Step 5: Hire a Forensic Engineer</h2>"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 16,
+      "name": "Step 16",
+      "text": "In complex cases, we bring in mechanical engineers to inspect the equipment. They can determine if a guard was missing for a long time (evidenced by dust or wear patterns) or if it was removed just before your shift. This expert testimony is often the \"smoking gun\" in machinery accident claims."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 17,
+      "name": "Step 17",
+      "text": "<h2>Conclusion</h2>"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 18,
+      "name": "Step 18",
+      "text": "Proving a safety guard bypass requires aggressive action and technical knowledge. If you believe your injury was caused by a company cutting corners on safety, contact Halston T. Davis or Mark J. Sanchez at Just Work Comp Law. We have the resources to hold negligent employers accountable. Call us at 801-746-0290."
+    }
+  ]
+}

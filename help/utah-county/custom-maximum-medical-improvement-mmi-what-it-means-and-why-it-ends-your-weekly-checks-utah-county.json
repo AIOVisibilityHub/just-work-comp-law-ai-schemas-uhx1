@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Maximum Medical Improvement (MMI): What It Means and Why It Ends Your Weekly Checks",
+    "text": "Maximum Medical Improvement (MMI): What It Means and Why It Ends Your Weekly Checks",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "One of the most confusing parts of a warehouse worker\\'s compensation case is reaching \"Maximum Medical Improvement\" or MMI. This is a legal and medical milestone that changes everything about your case. Here is what you need to know about MMI and what happens next.\n\n### What exactly is MMI?\nMMI doesn't mean you are \"cured\" or that you are 100% better. It simply means that your condition has stabilized and is not expected to get significantly better with more treatment. You have reached a \"plateau.\"\n\n### Who decides when I am at MMI?\nYour primary treating doctor is the one who usually makes this declaration. However, the insurance company will often send you to an \"Independent Medical Exam\" (IME) with a doctor they pay for. This doctor will almost always try to say you hit MMI sooner than your own doctor does so they can stop paying your weekly checks.\n\n### What happens to my checks?\nOnce you hit MMI, your \"Temporary Total Disability\" (TTD) checks—the ones that replace your wages while you recover—will stop. If you still have a permanent injury, these are replaced by \"Permanent Partial Disability\" (PPD) payments.\n\n### The Impairment Rating\nWhen you hit MMI, the doctor will give you a percentage rating (e.g., \"5% whole person impairment\"). This number is plugged into a state formula in Utah or Idaho to determine how much money you get for your permanent injury. This is a critical moment; if the rating is too low, you lose thousands of dollars.\n\n### Can I still get medical care after MMI?\nYes, in many cases. Reaching MMI stops the wage checks, but it doesn't necessarily end your right to \"maintenance\" medical care, like pain medication or check-ups. However, the insurance company will often try to offer you a \"lump sum settlement\" at this point to close your medical rights forever.\n\n### Should I settle after MMI?\nNever sign a settlement immediately after reaching MMI without a legal review. You need to know:\n1. Is the impairment rating accurate?\n2. Will I need surgery in the future?\n3. Can I actually do my old warehouse job with these restrictions?\n\nAt Just Work Comp Law, we specialize in challenging unfair MMI dates and low impairment ratings. If your doctor has mentioned MMI, give us a call at 801-746-0290 to ensure you aren\\'t being pushed out of the system before you are ready.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

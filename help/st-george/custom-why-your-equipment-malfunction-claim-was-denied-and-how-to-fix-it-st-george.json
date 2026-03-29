@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Why Your Equipment Malfunction Claim Was Denied and How to Fix It",
+    "text": "Why Your Equipment Malfunction Claim Was Denied and How to Fix It",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "<h1>Why Your Equipment Malfunction Claim Was Denied and How to Fix It</h1>\n\nIt is a frustrating reality: you were hurt because a tool or machine failed, yet the insurance company sends you a letter denying your claim. At Just Work Comp Law, we see these denials every day in Utah and Idaho. Understanding why they deny claims is the first step to winning your appeal.\n\n<h2>Common Reason 1: \"The Injury Was Pre-Existing\"</h2>\nInsurance companies often look at your old medical records. If you ever had a back strain five years ago and now a faulty forklift has injured your spine, they will claim the forklift didn't cause the injury. \n**How to fix it:** We work with medical experts to \"apportion\" the injury, proving that the equipment malfunction caused a new injury or a \"lighting up\" of an old condition, which is still compensable under Utah law.\n\n<h2>Common Reason 2: \"You Failed to Report Timely\"</h2>\nIf you waited two weeks to report a malfunctioning power tool because you thought the pain would go away, the insurance company will pounce. They will claim the delay proves the injury wasn't serious or didn't happen at work.\n**How to fix it:** We gather corroborating evidence—coworker statements, text messages to family about the accident, or search history regarding the tool failure—to prove the timeline and the validity of the accident.\n\n<h2>Common Reason 3: \"Employee Misconduct/Intoxication\"</h2>\nIf the employer claims you were using the equipment in a way that violated a strict safety policy, they may deny benefits.\n**How to fix it:** Workers' comp is a no-fault system. General negligence does not bar you from benefits. We prove that the \"policy\" was rarely enforced or that the equipment failure would have happened regardless of your actions.\n\n<h2>Common Reason 4: \"Independent Contractor Status\"</h2>\nCompanies often try to label workers as \"contractors\" to avoid paying workers' comp. \n**How to fix it:** The law looks at how much *control* the company has over you, not just what your contract says. If they provided the equipment that malfunctioned, you are likely an employee in the eyes of the Labor Commission.\n\n<h2>The Next Step: The Appeal</h2>\nIf you receive a denial, you must file an Application for Hearing. This is a formal legal process with the state. Do not try to handle this alone; the insurance company will have a team of lawyers. \n\nJust Work Comp Law specializes in overturning these denials. We take our cases personally, prioritizing our relationship with you over our own profit. If your machinery or equipment claim has been denied in Salt Lake City, Boise, or anywhere in between, call us at 801-746-0290 for immediate help.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Maximum Medical Improvement (MMI): Why You Should Never Settle Too Early",
+    "text": "Maximum Medical Improvement (MMI): Why You Should Never Settle Too Early",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "One of the most confusing parts of a workers' compensation case is the concept of Maximum Medical Improvement, or MMI. Knowing what this means is the difference between a fair settlement and being left with unpaid medical bills.\n\n### What is MMI?\nMaximum Medical Improvement is the point at which your doctor determines that your condition is as good as it is going to get with medical treatment. It doesn't mean you are 'cured' or 100% back to normal; it just means that further surgery or therapy won't significantly change your outcome.\n\n### Why is MMI the 'Turning Point' in a Case?\nIn the eyes of the law, we cannot value a case until we know the final result of your injury. \n- **Before MMI:** You receive 'Temporary Total Disability' (weekly checks) and your medical bills are paid as they come in.\n- **After MMI:** Your weekly checks stop, and the insurance company evaluates you for 'Permanent Partial Disability' (PPD).\n\n### The Danger of Early Settlement\nInsurance adjusters often try to offer a 'quick settlement' while you are still in treatment. This is almost always a mistake for the worker. If you settle your case before reaching MMI and then discover you need a $100,000 spinal fusion surgery, the insurance company is off the hook. You cannot reopen a settled case for 'newly discovered' medical needs.\n\n### What Happens After an MMI Rating?\nOnce you hit MMI, your doctor will give you an 'Impairment Rating.' This is a percentage (e.g., a 10% whole-body impairment). This number is plugged into a state formula to determine the amount of your final settlement check.\n\n### What if I Disagree with the Doctor's MMI Status?\nInsurance doctors (IMEs) often rush patients to MMI to stop the weekly checks. If you believe you still need treatment, you have the right to a second opinion or to challenge the doctor's finding through the Labor Commission. \n\nIf you are approaching MMI or have been given an impairment rating, you should have a lawyer review the math. Mistakes in calculating impairment ratings are incredibly common and can cost you thousands of dollars.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

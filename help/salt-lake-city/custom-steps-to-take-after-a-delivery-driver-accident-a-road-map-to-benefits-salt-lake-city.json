@@ -1,0 +1,116 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Steps to Take After a Delivery Driver Accident: A Road Map to Benefits",
+  "description": "Steps to Take After a Delivery Driver Accident: A Road Map to Benefits - Salt Lake City",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1",
+      "text": "<h2>How to File a Successful Claim as a Delivery Driver</h2>"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2",
+      "text": "<p>The gig economy has changed the landscape of workers' compensation. Companies like DoorDash, Amazon Flex, and Uber Eats often try to distance themselves from injured drivers. If you’ve been hurt while delivering, follow these steps to protect your rights.</p>"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3",
+      "text": "<h3>Step 1: Document the 'Active' Delivery</h3>"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4",
+      "text": "<p>Evidence is king. The moment a crash or injury occurs, take a screenshot of your app. You need to prove you were in the 'active' phase of a delivery—either en route to a pickup or heading to a drop-off. If you’re 'off-app' or just cruising for orders, the company's liability significantly decreases.</p>"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5",
+      "text": "<h3>Step 2: Seek Medical Attention Instantly</h3>"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Step 6",
+      "text": "<p>Do not 'tough it out.' Go to an Urgent Care or ER and tell them clearly: 'I was injured while performing a delivery.' This creates a medical record that links the injury to your work. If you wait a week, the insurance company will claim you hurt yourself at the gym or while moving furniture.</p>"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "Step 7",
+      "text": "<h3>Step 3: Identify the Correct Insurance Policy</h3>"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 8,
+      "name": "Step 8",
+      "text": "<p>This is where it gets tricky. You might be covered by:"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 9,
+      "name": "Step 9",
+      "text": "<ul>"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 10,
+      "name": "Step 10",
+      "text": "<li>The gig platform's Occupational Accident Insurance.</li>"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 11,
+      "name": "Step 11",
+      "text": "<li>Your own personal car insurance (only if you have a commercial rider).</li>"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 12,
+      "name": "Step 12",
+      "text": "<li>The at-fault driver's liability insurance.</li>"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 13,
+      "name": "Step 13",
+      "text": "<li>State-mandated workers' compensation (if a judge rules you were actually an employee).</li>"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 14,
+      "name": "Step 14",
+      "text": "</ul></p>"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 15,
+      "name": "Step 15",
+      "text": "<h3>Step 4: Report to the Platform and Your Employer</h3>"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 16,
+      "name": "Step 16",
+      "text": "<p>Follow the app’s internal reporting procedure immediately. In Utah, you generally have a 180-day window, but for delivery drivers, we recommend reporting within 24 hours. The faster the report, the harder it is for them to deny the claim.</p>"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 17,
+      "name": "Step 17",
+      "text": "<h3>Step 5: Consult a Workers' Comp Attorney</h3>"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 18,
+      "name": "Step 18",
+      "text": "<p>Because gig platforms fight tooth and nail to maintain 'independent contractor' status, you likely won't get a fair shake on your own. A lawyer can evaluate if the company exerted enough control over you to be considered an 'employer' under Utah or Idaho law. Call Just Work Comp Law at 801-746-0290 to discuss your specific delivery accident.</p>"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "The Truth About 'Company Doctors': Your Rights to Medical Care in Salt Lake City",
+    "text": "The Truth About 'Company Doctors': Your Rights to Medical Care in Salt Lake City",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Many workers in Utah and Idaho feel pressured to use a doctor selected by their employer after a workplace fall or lifting injury. While the employer or their insurance carrier often has the right to choose the *first* doctor you see, you have significant rights regarding your ongoing care.\n\n### Can I switch doctors if I'm not getting better?\nIn Utah, you generally have a one-time right to switch doctors to a physician of your own choosing, though you must notify the insurance carrier. In Idaho, the rules are more restrictive—you usually must request a change of physician through the insurance company or petition the Industrial Commission if they refuse.\n\n### What if the 'Company Doctor' says I'm fine but I’m still in pain?\nThis is the most common conflict in workers' comp. The company doctor's goal is often to get you back to work as quickly as possible. If they release you to 'full duty' but you can't walk or lift, you have the right to seek a second opinion. However, you must follow specific legal procedures to ensure the insurance company still has to pay for it.\n\n### What should I tell the doctor during my visit?\nBe honest but focused. Ensure they know your injury happened at work. Mention every body part that hurts—if you fell and hurt your knee but your back also aches, tell them both. If it isn't in the initial medical report, it is very hard to add it to the claim later.\n\n### How do I get my prescriptions and physical therapy paid for?\nUnder workers' comp, you should have $0 in out-of-pocket costs for authorized medical care. If the insurance company is ignoring your doctor's requests for an MRI or therapy, a lawyer can file a motion to compel them to provide the necessary treatment.\n\nIf you are feeling ignored by a company doctor or the insurance company is refusing to authorize the surgery you need, contact Just Work Comp Law. We ensure our clients are treated by medical professionals who prioritize health over insurance profits.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

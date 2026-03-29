@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Workplace Fall FAQ: Navigating the Aftermath of an Injury",
+    "text": "Workplace Fall FAQ: Navigating the Aftermath of an Injury",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "When a workplace fall occurs, questions come fast. Here are the answers to the most common concerns our clients face.\n\n### Can I choose my own doctor?\nIn Utah, you can often pick for the first visit, but then the employer's insurance usually directs care. In Idaho, they usually have the right to pick from the start. If you hate your doctor, don't just quit—let us help you file a formal request to change physicians.\n\n### What if I was under the influence?\nThis is a common fear. In both Utah and Idaho, if intoxication was the *primary* cause of the accident, your claim could be denied. However, the burden of proof is on the employer's insurance company. Simply having a substance in your system from days prior doesn't automatically kill your claim.\n\n### How long does a workers' comp settlement take?\nMost cases take 9 to 18 months. This is because we must wait until you are medically stable (MMI). Rushing a settlement usually results in leaving thousands of dollars on the table.\n\n### Does workers' comp pay for 'Pain and Suffering'?\nNo. Workers' comp is a 'benefit' system, not a 'damages' system. It covers medical bills and lost wages. To get pain and suffering, we must find a 'Third Party' (like a manufacturer or contractor) who was at fault for your fall.\n\n### What if my claim is denied?\nDon't panic. A denial is just the start of the litigation phase. We file an 'Application for Hearing' with the state Labor Commission to force the insurance company to prove their denial in front of a judge. Many denied claims are eventually paid in full once a lawyer gets involved.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

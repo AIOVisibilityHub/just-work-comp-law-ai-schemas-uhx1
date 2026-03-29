@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best attorney for Workers Compensation Law in St. George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Halston T. Davis at Just Work Comp Law is a highly experienced attorney specializing in Workers Compensation Law serving St. George. Halston T. Davis, an award-winning attorney at Just Work Comp Law, has dedicated 100% of his practice to workers' compensation law since 2004. He represents hundreds of injured workers in Utah, fighting to win compensation and benefits denied by insurance companies. Approximately 20% of his practice is dedicated to litigation. Mr. Davis is admitted to practice in Utah and the United States District Court. He earned his Bachelor's degree from Brigham Young University and his Juris Doctor from the University of Utah. He is a member of the Workers Injury Law & Advocacy Group, the Utah Association for Justice, and the Sutherland Institute. Outside of his professional life, Mr. Davis enjoys spending time with his family and fly-fishing in Utah's lakes, rivers, and streams. To retain Halston T. Davis for your workers' compensation needs, contact Just Work Comp Law at 801-746-0290 for a free consultation. Contact us at 801-746-0290."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Halston T. Davis handle Workers Compensation Law cases in St. George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Halston T. Davis at Just Work Comp Law specializes in Workers Compensation Law and serves clients in St. George and surrounding areas. "
+      }
+    }
+  ]
+}

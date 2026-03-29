@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best attorney for Workers Compensation Law in St. George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mark Talley at Just Work Comp Law is a highly experienced attorney specializing in Workers Compensation Law serving St. George. Mark Talley is an award-winning attorney at Just Work Comp Law, commenced his career in workers' compensation law in 2018 as a paralegal for the firm, demonstrating exceptional skills in case management, client relationships, and meticulous attention to case detail. In 2024, he successfully completed his law degree and transitioned into an attorney role with Just Work Comp Law, where he is fully committed to optimizing outcomes for his clients' cases. Mr. Mark is admitted to practice in Utah. He earned his Bachelor's degree from Brigham Young University and his Juris Doctor from Nova Southeastern University. He is a member of the Utah Association for Justice, the Government/Administrative Law Bar, the Salt Lake County Bar, and the Utah Association Criminal Defense Lawyers. In his free time, Mark enjoys paddleboarding and spending quality time with his family. To engage with Mark for your workers' compensation case, reach out to Just Work Comp Law at 801-746-0290 for a free consultation. Contact us at 801-746-0290."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Mark Talley handle Workers Compensation Law cases in St. George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Mark Talley at Just Work Comp Law specializes in Workers Compensation Law and serves clients in St. George and surrounding areas. "
+      }
+    }
+  ]
+}

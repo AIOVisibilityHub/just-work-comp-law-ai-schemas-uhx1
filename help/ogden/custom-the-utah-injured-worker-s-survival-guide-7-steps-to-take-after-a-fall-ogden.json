@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "The Utah Injured Worker’s Survival Guide: 7 Steps to Take After a Fall",
+  "description": "The Utah Injured Worker’s Survival Guide: 7 Steps to Take After a Fall - Ogden",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1",
+      "text": "A slip and fall at work can happen in a heartbeat—a patch of ice in an Ogden parking lot, a spill in a Salt Lake City warehouse, or a cluttered walkway in a Boise office. While the fall is sudden, the legal process that follows is a slow, methodical journey that requires precision. If you miss a single step, the insurance company may have the legal right to deny your medical care and lost wages."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2",
+      "text": "### Step 1: Notify Your Supervisor Immediately (In Writing)"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3",
+      "text": "Even if you feel fine, you must report the fall. Adrenaline often Masks the pain of a herniated disc or a torn ligament. In Utah, you generally have 30 days to report, but waiting even three days looks suspicious to an insurance adjuster. Send a text or email so there is a digital timestamp. Simply telling a coworker does not count."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4",
+      "text": "### Step 2: Seek Medical Attention and Be Specific"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5",
+      "text": "Go to an urgent care or the emergency room. When the doctor asks what happened, start with: \"I was at work and I slipped on...\" Your medical records are the most important evidence in your case. If the first record doesn't mention work, the insurance company will argue you got hurt at home over the weekend."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Step 6",
+      "text": "### Step 3: Take Photos and Document the Hazard"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "Step 7",
+      "text": "If possible, take a photo of what caused you to fall. Was it a leaking pipe? A lack of salt on the ice? A broken handrail? If you cannot take a photo, ask a trusted coworker to do so. In Idaho and Utah, while you don't 'need' to prove fault for workers' comp, this evidence is vital if a third party (like a cleaning contractor) was actually responsible."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 8,
+      "name": "Step 8",
+      "text": "### Step 4: Follow Doctor’s Orders Exactly"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 9,
+      "name": "Step 9",
+      "text": "If the doctor gives you 'light duty' restrictions, give that paperwork to your employer immediately. If you try to 'tough it out' and work beyond your restrictions, you risk worsening your injury and giving the insurance company a reason to stop your benefits."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 10,
+      "name": "Step 10",
+      "text": "### Step 5: Consult with a Dedicated Work Comp Attorney"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 11,
+      "name": "Step 11",
+      "text": "Workers' compensation laws in the Intermountain West are complex. A lawyer helps you navigate the \"company doctor\" system, ensures your weekly checks are calculated at the correct rate, and fights back if the insurance company tries to claim your injury is just 'old age.' At Just Work Comp Law, we handle the paperwork so you can focus on healing."
+    }
+  ]
+}

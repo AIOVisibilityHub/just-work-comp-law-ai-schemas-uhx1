@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Attorney",
+  "name": "Jared L. Mortenson",
+  "jobTitle": "Attorney",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "description": "Jared L. Mortenson, an award-winning attorney at Just Work Comp Law, has practiced law since 2008, with a sole focus on workers' compensation law. He is committed to assisting clients who have been denied benefits in obtaining the support they rightfully deserve. Mr. Mortenson is admitted to practice in Utah and the United States District Court. He earned his Bachelor's degree from Brigham Young University and holds a JD/MBA from the University of Alabama. He is a member of the Probate / Estate Planning Bar and the Utah Association for Justice. In his personal time, Mr. Mortenson enjoys supporting his children in their various activities and hobbies. To learn more about how Jared L. Mortenson can assist with your workers' compensation claim, contact Just Work Comp Law at 801-746-0290 for a free consultation.",
+  "telephone": "801-746-0290",
+  "knowsAbout": [
+    "Workers Compensation Law",
+    "Workplace Injury Claims",
+    "Occupational Illness Claims",
+    "Workers Comp Medical Expense Recovery",
+    "Workers Comp Lost Wage Recovery",
+    "Workers Compensation Appeals",
+    "Workers Compensation Claim Denials"
+  ],
+  "areaServed": {
+    "@type": "City",
+    "name": "St. George"
+  }
+}
