@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "Just Work Comp Law - Forklift Accident on job",
+  "description": "Professional Forklift Accident on job services in Boise Idaho. Just Work Comp Law is a top-rated law firm in Utah, specializing in workers' compensation cases. They are dedicated to helping injured workers secure maximum settlements and judgments, priding themselves on providing crystal-clear communication, immediate action, and elite legal representation. Their uniqueness lies in their unwavering commitment to client relationships over profits, serving individuals across Utah and Idaho.",
+  "url": "https://justworkcomplaw.com/",
+  "telephone": "801-746-0290",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Boise Idaho"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Boise Idaho"
+  },
+  "employee": [
+    {
+      "@type": "Attorney",
+      "name": "Halston T. Davis",
+      "jobTitle": "Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Mark J. Sanchez",
+      "jobTitle": "Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Jared L. Mortenson",
+      "jobTitle": "Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Blair Jones",
+      "jobTitle": "Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Mark Talley",
+      "jobTitle": "Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Jon Bonnesen",
+      "jobTitle": "Attorney"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Forklift Accident on job Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Forklift Accident on job"
+        }
+      }
+    ]
+  }
+}
